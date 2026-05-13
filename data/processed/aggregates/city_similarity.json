@@ -1,0 +1,2082 @@
+[
+  {
+    "city": "F047",
+    "count": 24896,
+    "top_similar_cities": [
+      {
+        "city": "K115",
+        "similarity": 0.9984
+      },
+      {
+        "city": "P949",
+        "similarity": 0.9933
+      },
+      {
+        "city": "B170",
+        "similarity": 0.9918
+      },
+      {
+        "city": "N806",
+        "similarity": 0.9759
+      },
+      {
+        "city": "Y232",
+        "similarity": 0.9738
+      }
+    ]
+  },
+  {
+    "city": "P949",
+    "count": 24241,
+    "top_similar_cities": [
+      {
+        "city": "B170",
+        "similarity": 0.9984
+      },
+      {
+        "city": "K115",
+        "similarity": 0.9963
+      },
+      {
+        "city": "F047",
+        "similarity": 0.9933
+      },
+      {
+        "city": "Y232",
+        "similarity": 0.9917
+      },
+      {
+        "city": "N806",
+        "similarity": 0.9913
+      }
+    ]
+  },
+  {
+    "city": "F379",
+    "count": 24117,
+    "top_similar_cities": [
+      {
+        "city": "O198",
+        "similarity": 0.9968
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9967
+      },
+      {
+        "city": "R892",
+        "similarity": 0.9958
+      },
+      {
+        "city": "V932",
+        "similarity": 0.9957
+      },
+      {
+        "city": "V449",
+        "similarity": 0.9952
+      }
+    ]
+  },
+  {
+    "city": "Y232",
+    "count": 23805,
+    "top_similar_cities": [
+      {
+        "city": "N806",
+        "similarity": 0.9983
+      },
+      {
+        "city": "Y633",
+        "similarity": 0.9971
+      },
+      {
+        "city": "S542",
+        "similarity": 0.9968
+      },
+      {
+        "city": "R892",
+        "similarity": 0.9964
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9956
+      }
+    ]
+  },
+  {
+    "city": "K115",
+    "count": 23721,
+    "top_similar_cities": [
+      {
+        "city": "F047",
+        "similarity": 0.9984
+      },
+      {
+        "city": "P949",
+        "similarity": 0.9963
+      },
+      {
+        "city": "B170",
+        "similarity": 0.9951
+      },
+      {
+        "city": "N806",
+        "similarity": 0.9815
+      },
+      {
+        "city": "Y232",
+        "similarity": 0.9789
+      }
+    ]
+  },
+  {
+    "city": "B170",
+    "count": 23221,
+    "top_similar_cities": [
+      {
+        "city": "P949",
+        "similarity": 0.9984
+      },
+      {
+        "city": "K115",
+        "similarity": 0.9951
+      },
+      {
+        "city": "N806",
+        "similarity": 0.9939
+      },
+      {
+        "city": "Y232",
+        "similarity": 0.9926
+      },
+      {
+        "city": "Y633",
+        "similarity": 0.9924
+      }
+    ]
+  },
+  {
+    "city": "Y633",
+    "count": 23167,
+    "top_similar_cities": [
+      {
+        "city": "S542",
+        "similarity": 0.9993
+      },
+      {
+        "city": "R892",
+        "similarity": 0.9982
+      },
+      {
+        "city": "N806",
+        "similarity": 0.9981
+      },
+      {
+        "city": "Y232",
+        "similarity": 0.9971
+      },
+      {
+        "city": "O198",
+        "similarity": 0.9964
+      }
+    ]
+  },
+  {
+    "city": "O198",
+    "count": 22545,
+    "top_similar_cities": [
+      {
+        "city": "V932",
+        "similarity": 0.9992
+      },
+      {
+        "city": "V449",
+        "similarity": 0.9983
+      },
+      {
+        "city": "R892",
+        "similarity": 0.9982
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9982
+      },
+      {
+        "city": "F379",
+        "similarity": 0.9968
+      }
+    ]
+  },
+  {
+    "city": "N806",
+    "count": 22544,
+    "top_similar_cities": [
+      {
+        "city": "S542",
+        "similarity": 0.9986
+      },
+      {
+        "city": "Y232",
+        "similarity": 0.9983
+      },
+      {
+        "city": "Y633",
+        "similarity": 0.9981
+      },
+      {
+        "city": "R892",
+        "similarity": 0.9975
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9962
+      }
+    ]
+  },
+  {
+    "city": "S959",
+    "count": 21907,
+    "top_similar_cities": [
+      {
+        "city": "R892",
+        "similarity": 0.9988
+      },
+      {
+        "city": "V932",
+        "similarity": 0.9983
+      },
+      {
+        "city": "O198",
+        "similarity": 0.9982
+      },
+      {
+        "city": "V449",
+        "similarity": 0.9982
+      },
+      {
+        "city": "S542",
+        "similarity": 0.9975
+      }
+    ]
+  },
+  {
+    "city": "R892",
+    "count": 21838,
+    "top_similar_cities": [
+      {
+        "city": "S542",
+        "similarity": 0.9989
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9988
+      },
+      {
+        "city": "V449",
+        "similarity": 0.9988
+      },
+      {
+        "city": "O198",
+        "similarity": 0.9982
+      },
+      {
+        "city": "Y633",
+        "similarity": 0.9982
+      }
+    ]
+  },
+  {
+    "city": "S542",
+    "count": 21733,
+    "top_similar_cities": [
+      {
+        "city": "Y633",
+        "similarity": 0.9993
+      },
+      {
+        "city": "R892",
+        "similarity": 0.9989
+      },
+      {
+        "city": "N806",
+        "similarity": 0.9986
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9975
+      },
+      {
+        "city": "Y232",
+        "similarity": 0.9968
+      }
+    ]
+  },
+  {
+    "city": "V449",
+    "count": 21681,
+    "top_similar_cities": [
+      {
+        "city": "R892",
+        "similarity": 0.9988
+      },
+      {
+        "city": "O198",
+        "similarity": 0.9983
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9982
+      },
+      {
+        "city": "V932",
+        "similarity": 0.9977
+      },
+      {
+        "city": "S542",
+        "similarity": 0.9966
+      }
+    ]
+  },
+  {
+    "city": "V932",
+    "count": 21626,
+    "top_similar_cities": [
+      {
+        "city": "O198",
+        "similarity": 0.9992
+      },
+      {
+        "city": "S959",
+        "similarity": 0.9983
+      },
+      {
+        "city": "V449",
+        "similarity": 0.9977
+      },
+      {
+        "city": "R892",
+        "similarity": 0.9975
+      },
+      {
+        "city": "S542",
+        "similarity": 0.9959
+      }
+    ]
+  },
+  {
+    "city": "D022",
+    "count": 580,
+    "top_similar_cities": [
+      {
+        "city": "O910",
+        "similarity": 0.9941
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.994
+      },
+      {
+        "city": "A561",
+        "similarity": 0.9939
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9939
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9938
+      }
+    ]
+  },
+  {
+    "city": "D090",
+    "count": 576,
+    "top_similar_cities": [
+      {
+        "city": "D490",
+        "similarity": 0.9966
+      },
+      {
+        "city": "X536",
+        "similarity": 0.9948
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9947
+      },
+      {
+        "city": "U989",
+        "similarity": 0.9946
+      },
+      {
+        "city": "P543",
+        "similarity": 0.994
+      }
+    ]
+  },
+  {
+    "city": "K445",
+    "count": 576,
+    "top_similar_cities": [
+      {
+        "city": "V436",
+        "similarity": 0.9545
+      },
+      {
+        "city": "F301",
+        "similarity": 0.9542
+      },
+      {
+        "city": "F861",
+        "similarity": 0.9464
+      },
+      {
+        "city": "D672",
+        "similarity": 0.9391
+      },
+      {
+        "city": "J719",
+        "similarity": 0.9389
+      }
+    ]
+  },
+  {
+    "city": "A802",
+    "count": 517,
+    "top_similar_cities": [
+      {
+        "city": "P741",
+        "similarity": 0.994
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9929
+      },
+      {
+        "city": "D490",
+        "similarity": 0.9927
+      },
+      {
+        "city": "O910",
+        "similarity": 0.9927
+      },
+      {
+        "city": "X536",
+        "similarity": 0.9922
+      }
+    ]
+  },
+  {
+    "city": "P050",
+    "count": 298,
+    "top_similar_cities": [
+      {
+        "city": "J719",
+        "similarity": 0.9879
+      },
+      {
+        "city": "L504",
+        "similarity": 0.9879
+      },
+      {
+        "city": "K535",
+        "similarity": 0.9863
+      },
+      {
+        "city": "A561",
+        "similarity": 0.9837
+      },
+      {
+        "city": "U038",
+        "similarity": 0.9836
+      }
+    ]
+  },
+  {
+    "city": "D575",
+    "count": 297,
+    "top_similar_cities": [
+      {
+        "city": "O641",
+        "similarity": 0.9821
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9798
+      },
+      {
+        "city": "F469",
+        "similarity": 0.9779
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9757
+      },
+      {
+        "city": "L161",
+        "similarity": 0.9756
+      }
+    ]
+  },
+  {
+    "city": "D672",
+    "count": 297,
+    "top_similar_cities": [
+      {
+        "city": "V436",
+        "similarity": 0.9932
+      },
+      {
+        "city": "U553",
+        "similarity": 0.9914
+      },
+      {
+        "city": "F301",
+        "similarity": 0.9907
+      },
+      {
+        "city": "L504",
+        "similarity": 0.9907
+      },
+      {
+        "city": "J309",
+        "similarity": 0.989
+      }
+    ]
+  },
+  {
+    "city": "O910",
+    "count": 297,
+    "top_similar_cities": [
+      {
+        "city": "V852",
+        "similarity": 0.9955
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9941
+      },
+      {
+        "city": "D490",
+        "similarity": 0.9937
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9936
+      },
+      {
+        "city": "A802",
+        "similarity": 0.9927
+      }
+    ]
+  },
+  {
+    "city": "P258",
+    "count": 297,
+    "top_similar_cities": [
+      {
+        "city": "J719",
+        "similarity": 0.994
+      },
+      {
+        "city": "H187",
+        "similarity": 0.9932
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9928
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9918
+      },
+      {
+        "city": "F469",
+        "similarity": 0.9912
+      }
+    ]
+  },
+  {
+    "city": "V339",
+    "count": 297,
+    "top_similar_cities": [
+      {
+        "city": "S124",
+        "similarity": 0.9946
+      },
+      {
+        "city": "T182",
+        "similarity": 0.993
+      },
+      {
+        "city": "I345",
+        "similarity": 0.9898
+      },
+      {
+        "city": "V365",
+        "similarity": 0.9895
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9871
+      }
+    ]
+  },
+  {
+    "city": "Z490",
+    "count": 297,
+    "top_similar_cities": [
+      {
+        "city": "Y031",
+        "similarity": 0.993
+      },
+      {
+        "city": "D490",
+        "similarity": 0.992
+      },
+      {
+        "city": "X536",
+        "similarity": 0.992
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9914
+      },
+      {
+        "city": "V365",
+        "similarity": 0.9914
+      }
+    ]
+  },
+  {
+    "city": "O445",
+    "count": 296,
+    "top_similar_cities": [
+      {
+        "city": "G905",
+        "similarity": 0.9916
+      },
+      {
+        "city": "W029",
+        "similarity": 0.9909
+      },
+      {
+        "city": "L504",
+        "similarity": 0.9907
+      },
+      {
+        "city": "L122",
+        "similarity": 0.989
+      },
+      {
+        "city": "T182",
+        "similarity": 0.989
+      }
+    ]
+  },
+  {
+    "city": "P741",
+    "count": 296,
+    "top_similar_cities": [
+      {
+        "city": "A802",
+        "similarity": 0.994
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9934
+      },
+      {
+        "city": "X536",
+        "similarity": 0.9925
+      },
+      {
+        "city": "Y253",
+        "similarity": 0.9913
+      },
+      {
+        "city": "U989",
+        "similarity": 0.9901
+      }
+    ]
+  },
+  {
+    "city": "D475",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "I345",
+        "similarity": 0.991
+      },
+      {
+        "city": "E180",
+        "similarity": 0.9897
+      },
+      {
+        "city": "S124",
+        "similarity": 0.9867
+      },
+      {
+        "city": "U553",
+        "similarity": 0.9847
+      },
+      {
+        "city": "V339",
+        "similarity": 0.9834
+      }
+    ]
+  },
+  {
+    "city": "E180",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "U553",
+        "similarity": 0.9923
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9904
+      },
+      {
+        "city": "D475",
+        "similarity": 0.9897
+      },
+      {
+        "city": "D672",
+        "similarity": 0.9883
+      },
+      {
+        "city": "U038",
+        "similarity": 0.9881
+      }
+    ]
+  },
+  {
+    "city": "F469",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "H187",
+        "similarity": 0.9967
+      },
+      {
+        "city": "M060",
+        "similarity": 0.9936
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9936
+      },
+      {
+        "city": "O641",
+        "similarity": 0.9923
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.9913
+      }
+    ]
+  },
+  {
+    "city": "H879",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "L161",
+        "similarity": 0.9937
+      },
+      {
+        "city": "D090",
+        "similarity": 0.992
+      },
+      {
+        "city": "D490",
+        "similarity": 0.992
+      },
+      {
+        "city": "K816",
+        "similarity": 0.9919
+      },
+      {
+        "city": "X536",
+        "similarity": 0.9919
+      }
+    ]
+  },
+  {
+    "city": "I345",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "S124",
+        "similarity": 0.9969
+      },
+      {
+        "city": "D475",
+        "similarity": 0.991
+      },
+      {
+        "city": "V339",
+        "similarity": 0.9898
+      },
+      {
+        "city": "U553",
+        "similarity": 0.9887
+      },
+      {
+        "city": "V365",
+        "similarity": 0.9874
+      }
+    ]
+  },
+  {
+    "city": "J309",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "L504",
+        "similarity": 0.9939
+      },
+      {
+        "city": "A561",
+        "similarity": 0.9934
+      },
+      {
+        "city": "P258",
+        "similarity": 0.9928
+      },
+      {
+        "city": "J719",
+        "similarity": 0.9926
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9922
+      }
+    ]
+  },
+  {
+    "city": "L847",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "V436",
+        "similarity": 0.984
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9792
+      },
+      {
+        "city": "D672",
+        "similarity": 0.9781
+      },
+      {
+        "city": "E180",
+        "similarity": 0.978
+      },
+      {
+        "city": "U038",
+        "similarity": 0.9773
+      }
+    ]
+  },
+  {
+    "city": "M108",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "G905",
+        "similarity": 0.998
+      },
+      {
+        "city": "L122",
+        "similarity": 0.9946
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9945
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.9936
+      },
+      {
+        "city": "K816",
+        "similarity": 0.9903
+      }
+    ]
+  },
+  {
+    "city": "O824",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "C906",
+        "similarity": 0.9933
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9929
+      },
+      {
+        "city": "M857",
+        "similarity": 0.9927
+      },
+      {
+        "city": "T526",
+        "similarity": 0.9917
+      },
+      {
+        "city": "D346",
+        "similarity": 0.9914
+      }
+    ]
+  },
+  {
+    "city": "T182",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "V339",
+        "similarity": 0.993
+      },
+      {
+        "city": "S124",
+        "similarity": 0.9911
+      },
+      {
+        "city": "D090",
+        "similarity": 0.991
+      },
+      {
+        "city": "D490",
+        "similarity": 0.9897
+      },
+      {
+        "city": "O445",
+        "similarity": 0.989
+      }
+    ]
+  },
+  {
+    "city": "V726",
+    "count": 295,
+    "top_similar_cities": [
+      {
+        "city": "G380",
+        "similarity": 0.9962
+      },
+      {
+        "city": "M935",
+        "similarity": 0.9942
+      },
+      {
+        "city": "D346",
+        "similarity": 0.9941
+      },
+      {
+        "city": "D906",
+        "similarity": 0.9941
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9935
+      }
+    ]
+  },
+  {
+    "city": "F861",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "V436",
+        "similarity": 0.9841
+      },
+      {
+        "city": "J719",
+        "similarity": 0.9838
+      },
+      {
+        "city": "U038",
+        "similarity": 0.9833
+      },
+      {
+        "city": "K535",
+        "similarity": 0.9829
+      },
+      {
+        "city": "P050",
+        "similarity": 0.9823
+      }
+    ]
+  },
+  {
+    "city": "I057",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "K535",
+        "similarity": 0.9919
+      },
+      {
+        "city": "U038",
+        "similarity": 0.9918
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9912
+      },
+      {
+        "city": "P258",
+        "similarity": 0.991
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9908
+      }
+    ]
+  },
+  {
+    "city": "J719",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "P258",
+        "similarity": 0.994
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9926
+      },
+      {
+        "city": "K535",
+        "similarity": 0.992
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9883
+      },
+      {
+        "city": "L504",
+        "similarity": 0.9883
+      }
+    ]
+  },
+  {
+    "city": "K816",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "H879",
+        "similarity": 0.9919
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9911
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9905
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9904
+      },
+      {
+        "city": "M108",
+        "similarity": 0.9903
+      }
+    ]
+  },
+  {
+    "city": "L161",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "H879",
+        "similarity": 0.9937
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9931
+      },
+      {
+        "city": "W029",
+        "similarity": 0.993
+      },
+      {
+        "city": "D906",
+        "similarity": 0.9923
+      },
+      {
+        "city": "P543",
+        "similarity": 0.9921
+      }
+    ]
+  },
+  {
+    "city": "L504",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "A561",
+        "similarity": 0.9946
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9939
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9935
+      },
+      {
+        "city": "U989",
+        "similarity": 0.9926
+      },
+      {
+        "city": "G905",
+        "similarity": 0.9914
+      }
+    ]
+  },
+  {
+    "city": "M857",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "T526",
+        "similarity": 0.9952
+      },
+      {
+        "city": "O824",
+        "similarity": 0.9927
+      },
+      {
+        "city": "C906",
+        "similarity": 0.989
+      },
+      {
+        "city": "P772",
+        "similarity": 0.9876
+      },
+      {
+        "city": "D346",
+        "similarity": 0.9865
+      }
+    ]
+  },
+  {
+    "city": "M935",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "V726",
+        "similarity": 0.9942
+      },
+      {
+        "city": "Z182",
+        "similarity": 0.9935
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9929
+      },
+      {
+        "city": "W029",
+        "similarity": 0.9926
+      },
+      {
+        "city": "D906",
+        "similarity": 0.9925
+      }
+    ]
+  },
+  {
+    "city": "N214",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "H187",
+        "similarity": 0.9938
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9927
+      },
+      {
+        "city": "D490",
+        "similarity": 0.9915
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9908
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9906
+      }
+    ]
+  },
+  {
+    "city": "Q095",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "U989",
+        "similarity": 0.9951
+      },
+      {
+        "city": "L504",
+        "similarity": 0.9935
+      },
+      {
+        "city": "A561",
+        "similarity": 0.9923
+      },
+      {
+        "city": "U038",
+        "similarity": 0.992
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9912
+      }
+    ]
+  },
+  {
+    "city": "S124",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "I345",
+        "similarity": 0.9969
+      },
+      {
+        "city": "V339",
+        "similarity": 0.9946
+      },
+      {
+        "city": "V365",
+        "similarity": 0.9917
+      },
+      {
+        "city": "T182",
+        "similarity": 0.9911
+      },
+      {
+        "city": "D475",
+        "similarity": 0.9867
+      }
+    ]
+  },
+  {
+    "city": "U038",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "Q095",
+        "similarity": 0.992
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9918
+      },
+      {
+        "city": "U553",
+        "similarity": 0.9896
+      },
+      {
+        "city": "K535",
+        "similarity": 0.9889
+      },
+      {
+        "city": "E180",
+        "similarity": 0.9881
+      }
+    ]
+  },
+  {
+    "city": "U553",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "E180",
+        "similarity": 0.9923
+      },
+      {
+        "city": "D672",
+        "similarity": 0.9914
+      },
+      {
+        "city": "U038",
+        "similarity": 0.9896
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9895
+      },
+      {
+        "city": "I345",
+        "similarity": 0.9887
+      }
+    ]
+  },
+  {
+    "city": "U989",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "Q095",
+        "similarity": 0.9951
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9946
+      },
+      {
+        "city": "A561",
+        "similarity": 0.9938
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9931
+      },
+      {
+        "city": "L504",
+        "similarity": 0.9926
+      }
+    ]
+  },
+  {
+    "city": "V436",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "D672",
+        "similarity": 0.9932
+      },
+      {
+        "city": "F301",
+        "similarity": 0.9913
+      },
+      {
+        "city": "J719",
+        "similarity": 0.9879
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9872
+      },
+      {
+        "city": "K535",
+        "similarity": 0.9867
+      }
+    ]
+  },
+  {
+    "city": "V852",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "O910",
+        "similarity": 0.9955
+      },
+      {
+        "city": "M108",
+        "similarity": 0.9945
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.9945
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9939
+      },
+      {
+        "city": "F469",
+        "similarity": 0.9936
+      }
+    ]
+  },
+  {
+    "city": "X536",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "D090",
+        "similarity": 0.9948
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9948
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.9948
+      },
+      {
+        "city": "Y253",
+        "similarity": 0.9941
+      },
+      {
+        "city": "D490",
+        "similarity": 0.994
+      }
+    ]
+  },
+  {
+    "city": "Y350",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "D346",
+        "similarity": 0.9886
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9883
+      },
+      {
+        "city": "O824",
+        "similarity": 0.9882
+      },
+      {
+        "city": "G380",
+        "similarity": 0.9881
+      },
+      {
+        "city": "D906",
+        "similarity": 0.9871
+      }
+    ]
+  },
+  {
+    "city": "Z182",
+    "count": 294,
+    "top_similar_cities": [
+      {
+        "city": "D906",
+        "similarity": 0.9964
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9963
+      },
+      {
+        "city": "Y253",
+        "similarity": 0.9961
+      },
+      {
+        "city": "M935",
+        "similarity": 0.9935
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9926
+      }
+    ]
+  },
+  {
+    "city": "A561",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "L504",
+        "similarity": 0.9946
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9939
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.9939
+      },
+      {
+        "city": "U989",
+        "similarity": 0.9938
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9934
+      }
+    ]
+  },
+  {
+    "city": "C906",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "D346",
+        "similarity": 0.9945
+      },
+      {
+        "city": "T526",
+        "similarity": 0.9938
+      },
+      {
+        "city": "O824",
+        "similarity": 0.9933
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9919
+      },
+      {
+        "city": "P772",
+        "similarity": 0.9908
+      }
+    ]
+  },
+  {
+    "city": "D346",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "P772",
+        "similarity": 0.9948
+      },
+      {
+        "city": "C906",
+        "similarity": 0.9945
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9941
+      },
+      {
+        "city": "G380",
+        "similarity": 0.9934
+      },
+      {
+        "city": "O824",
+        "similarity": 0.9914
+      }
+    ]
+  },
+  {
+    "city": "D490",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "D090",
+        "similarity": 0.9966
+      },
+      {
+        "city": "X536",
+        "similarity": 0.994
+      },
+      {
+        "city": "O910",
+        "similarity": 0.9937
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9936
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9932
+      }
+    ]
+  },
+  {
+    "city": "D906",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "Z182",
+        "similarity": 0.9964
+      },
+      {
+        "city": "P543",
+        "similarity": 0.9958
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9949
+      },
+      {
+        "city": "Y253",
+        "similarity": 0.9946
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9941
+      }
+    ]
+  },
+  {
+    "city": "E333",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "F861",
+        "similarity": 0.9191
+      },
+      {
+        "city": "P050",
+        "similarity": 0.8933
+      },
+      {
+        "city": "K445",
+        "similarity": 0.8917
+      },
+      {
+        "city": "U038",
+        "similarity": 0.8882
+      },
+      {
+        "city": "K535",
+        "similarity": 0.8847
+      }
+    ]
+  },
+  {
+    "city": "F301",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "V436",
+        "similarity": 0.9913
+      },
+      {
+        "city": "D672",
+        "similarity": 0.9907
+      },
+      {
+        "city": "J719",
+        "similarity": 0.9851
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9813
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9806
+      }
+    ]
+  },
+  {
+    "city": "G380",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "V726",
+        "similarity": 0.9962
+      },
+      {
+        "city": "D346",
+        "similarity": 0.9934
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9917
+      },
+      {
+        "city": "D906",
+        "similarity": 0.9913
+      },
+      {
+        "city": "M935",
+        "similarity": 0.9913
+      }
+    ]
+  },
+  {
+    "city": "G905",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "M108",
+        "similarity": 0.998
+      },
+      {
+        "city": "L122",
+        "similarity": 0.9945
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.9934
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9933
+      },
+      {
+        "city": "O445",
+        "similarity": 0.9916
+      }
+    ]
+  },
+  {
+    "city": "H187",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "F469",
+        "similarity": 0.9967
+      },
+      {
+        "city": "N214",
+        "similarity": 0.9938
+      },
+      {
+        "city": "P258",
+        "similarity": 0.9932
+      },
+      {
+        "city": "D022",
+        "similarity": 0.9928
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9925
+      }
+    ]
+  },
+  {
+    "city": "K535",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "A561",
+        "similarity": 0.9927
+      },
+      {
+        "city": "J719",
+        "similarity": 0.992
+      },
+      {
+        "city": "I057",
+        "similarity": 0.9919
+      },
+      {
+        "city": "J309",
+        "similarity": 0.9918
+      },
+      {
+        "city": "P258",
+        "similarity": 0.9902
+      }
+    ]
+  },
+  {
+    "city": "L122",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "M108",
+        "similarity": 0.9946
+      },
+      {
+        "city": "G905",
+        "similarity": 0.9945
+      },
+      {
+        "city": "W029",
+        "similarity": 0.9939
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9929
+      },
+      {
+        "city": "Y031",
+        "similarity": 0.9903
+      }
+    ]
+  },
+  {
+    "city": "M060",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "O641",
+        "similarity": 0.994
+      },
+      {
+        "city": "F469",
+        "similarity": 0.9936
+      },
+      {
+        "city": "H187",
+        "similarity": 0.991
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9887
+      },
+      {
+        "city": "E180",
+        "similarity": 0.9875
+      }
+    ]
+  },
+  {
+    "city": "O238",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "Y253",
+        "similarity": 0.9912
+      },
+      {
+        "city": "W029",
+        "similarity": 0.9903
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9898
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9895
+      },
+      {
+        "city": "Z182",
+        "similarity": 0.9889
+      }
+    ]
+  },
+  {
+    "city": "O641",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "M060",
+        "similarity": 0.994
+      },
+      {
+        "city": "F469",
+        "similarity": 0.9923
+      },
+      {
+        "city": "H187",
+        "similarity": 0.992
+      },
+      {
+        "city": "Q095",
+        "similarity": 0.9875
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9861
+      }
+    ]
+  },
+  {
+    "city": "P543",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "D906",
+        "similarity": 0.9958
+      },
+      {
+        "city": "V042",
+        "similarity": 0.9952
+      },
+      {
+        "city": "D090",
+        "similarity": 0.994
+      },
+      {
+        "city": "W029",
+        "similarity": 0.9937
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9931
+      }
+    ]
+  },
+  {
+    "city": "P772",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "D346",
+        "similarity": 0.9948
+      },
+      {
+        "city": "O824",
+        "similarity": 0.991
+      },
+      {
+        "city": "C906",
+        "similarity": 0.9908
+      },
+      {
+        "city": "V726",
+        "similarity": 0.9894
+      },
+      {
+        "city": "G380",
+        "similarity": 0.9881
+      }
+    ]
+  },
+  {
+    "city": "T526",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "M857",
+        "similarity": 0.9952
+      },
+      {
+        "city": "C906",
+        "similarity": 0.9938
+      },
+      {
+        "city": "O824",
+        "similarity": 0.9917
+      },
+      {
+        "city": "D346",
+        "similarity": 0.9904
+      },
+      {
+        "city": "P772",
+        "similarity": 0.9876
+      }
+    ]
+  },
+  {
+    "city": "V042",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "Y253",
+        "similarity": 0.9967
+      },
+      {
+        "city": "Z182",
+        "similarity": 0.9963
+      },
+      {
+        "city": "W029",
+        "similarity": 0.996
+      },
+      {
+        "city": "P543",
+        "similarity": 0.9952
+      },
+      {
+        "city": "D906",
+        "similarity": 0.9949
+      }
+    ]
+  },
+  {
+    "city": "V365",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "S124",
+        "similarity": 0.9917
+      },
+      {
+        "city": "Z490",
+        "similarity": 0.9914
+      },
+      {
+        "city": "N214",
+        "similarity": 0.9902
+      },
+      {
+        "city": "D490",
+        "similarity": 0.9898
+      },
+      {
+        "city": "V339",
+        "similarity": 0.9895
+      }
+    ]
+  },
+  {
+    "city": "W029",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "V042",
+        "similarity": 0.996
+      },
+      {
+        "city": "L122",
+        "similarity": 0.9939
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9938
+      },
+      {
+        "city": "P543",
+        "similarity": 0.9937
+      },
+      {
+        "city": "X536",
+        "similarity": 0.9934
+      }
+    ]
+  },
+  {
+    "city": "Y031",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "X536",
+        "similarity": 0.9948
+      },
+      {
+        "city": "V852",
+        "similarity": 0.9945
+      },
+      {
+        "city": "D022",
+        "similarity": 0.994
+      },
+      {
+        "city": "A561",
+        "similarity": 0.9939
+      },
+      {
+        "city": "M108",
+        "similarity": 0.9936
+      }
+    ]
+  },
+  {
+    "city": "Y253",
+    "count": 293,
+    "top_similar_cities": [
+      {
+        "city": "V042",
+        "similarity": 0.9967
+      },
+      {
+        "city": "Z182",
+        "similarity": 0.9961
+      },
+      {
+        "city": "D906",
+        "similarity": 0.9946
+      },
+      {
+        "city": "X536",
+        "similarity": 0.9941
+      },
+      {
+        "city": "D090",
+        "similarity": 0.9931
+      }
+    ]
+  }
+]

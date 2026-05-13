@@ -1,0 +1,4132 @@
+[
+  {
+    "city": "A802",
+    "company_type": "type_BLfSmG",
+    "count": 6,
+    "avg_salary_k": 7.58,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_BmzsHA",
+    "count": 2,
+    "avg_salary_k": 6.0,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_CbBLwi",
+    "count": 3,
+    "avg_salary_k": 4.33,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_HcIRlZ",
+    "count": 1,
+    "avg_salary_k": 5.0,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_HfjYoW",
+    "count": 4,
+    "avg_salary_k": 5.42,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "A802",
+    "company_type": "type_PCcrub",
+    "count": 18,
+    "avg_salary_k": 5.44,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "A802",
+    "company_type": "type_XqvUzw",
+    "count": 22,
+    "avg_salary_k": 5.64,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "A802",
+    "company_type": "type_YOHpQY",
+    "count": 7,
+    "avg_salary_k": 6.21,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "A802",
+    "company_type": "type_ZcPYrP",
+    "count": 2,
+    "avg_salary_k": 4.0,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_fFlUqG",
+    "count": 31,
+    "avg_salary_k": 8.63,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_lOdYUb",
+    "count": 22,
+    "avg_salary_k": 4.7,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_lYwbWD",
+    "count": 25,
+    "avg_salary_k": 6.36,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_lwxCGv",
+    "count": 24,
+    "avg_salary_k": 5.99,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "A802",
+    "company_type": "type_qGLNuz",
+    "count": 17,
+    "avg_salary_k": 4.65,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_qhLBWb",
+    "count": 9,
+    "avg_salary_k": 9.89,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "A802",
+    "company_type": "type_qnHODO",
+    "count": 19,
+    "avg_salary_k": 5.08,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_qrSFSq",
+    "count": 5,
+    "avg_salary_k": 7.9,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "A802",
+    "company_type": "type_uTAWZv",
+    "count": 48,
+    "avg_salary_k": 3.69,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "A802",
+    "company_type": "type_vrMpBQ",
+    "count": 2,
+    "avg_salary_k": 5.0,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "A802",
+    "company_type": "type_yZblEo",
+    "count": 11,
+    "avg_salary_k": 6.86,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_BLfSmG",
+    "count": 1745,
+    "avg_salary_k": 19.07,
+    "median_salary_k": 16.0
+  },
+  {
+    "city": "B170",
+    "company_type": "type_BmzsHA",
+    "count": 501,
+    "avg_salary_k": 12.82,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_CbBLwi",
+    "count": 861,
+    "avg_salary_k": 16.28,
+    "median_salary_k": 13.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_HcIRlZ",
+    "count": 363,
+    "avg_salary_k": 10.04,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_HfjYoW",
+    "count": 522,
+    "avg_salary_k": 9.26,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "B170",
+    "company_type": "type_PCcrub",
+    "count": 284,
+    "avg_salary_k": 9.14,
+    "median_salary_k": 8.25
+  },
+  {
+    "city": "B170",
+    "company_type": "type_XqvUzw",
+    "count": 141,
+    "avg_salary_k": 7.07,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "B170",
+    "company_type": "type_YOHpQY",
+    "count": 317,
+    "avg_salary_k": 10.41,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_ZcPYrP",
+    "count": 618,
+    "avg_salary_k": 11.71,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "B170",
+    "company_type": "type_fFlUqG",
+    "count": 595,
+    "avg_salary_k": 9.53,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "B170",
+    "company_type": "type_lOdYUb",
+    "count": 767,
+    "avg_salary_k": 10.26,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_lYwbWD",
+    "count": 343,
+    "avg_salary_k": 10.11,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_lwxCGv",
+    "count": 232,
+    "avg_salary_k": 9.45,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_qGLNuz",
+    "count": 477,
+    "avg_salary_k": 10.02,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_qhLBWb",
+    "count": 407,
+    "avg_salary_k": 11.07,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_qnHODO",
+    "count": 298,
+    "avg_salary_k": 8.52,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_qrSFSq",
+    "count": 1749,
+    "avg_salary_k": 12.48,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "B170",
+    "company_type": "type_uTAWZv",
+    "count": 816,
+    "avg_salary_k": 7.06,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "B170",
+    "company_type": "type_vrMpBQ",
+    "count": 601,
+    "avg_salary_k": 9.98,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "B170",
+    "company_type": "type_yZblEo",
+    "count": 700,
+    "avg_salary_k": 9.87,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_BLfSmG",
+    "count": 12,
+    "avg_salary_k": 5.54,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_BmzsHA",
+    "count": 4,
+    "avg_salary_k": 5.38,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "D022",
+    "company_type": "type_CbBLwi",
+    "count": 6,
+    "avg_salary_k": 10.5,
+    "median_salary_k": 9.75
+  },
+  {
+    "city": "D022",
+    "company_type": "type_HcIRlZ",
+    "count": 7,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_HfjYoW",
+    "count": 23,
+    "avg_salary_k": 5.54,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_PCcrub",
+    "count": 15,
+    "avg_salary_k": 5.4,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "D022",
+    "company_type": "type_XqvUzw",
+    "count": 9,
+    "avg_salary_k": 3.39,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_YOHpQY",
+    "count": 30,
+    "avg_salary_k": 5.83,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "D022",
+    "company_type": "type_ZcPYrP",
+    "count": 10,
+    "avg_salary_k": 7.55,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_fFlUqG",
+    "count": 26,
+    "avg_salary_k": 4.88,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "D022",
+    "company_type": "type_lOdYUb",
+    "count": 51,
+    "avg_salary_k": 7.88,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_lYwbWD",
+    "count": 13,
+    "avg_salary_k": 5.54,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_lwxCGv",
+    "count": 12,
+    "avg_salary_k": 7.04,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_qGLNuz",
+    "count": 27,
+    "avg_salary_k": 5.26,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_qhLBWb",
+    "count": 16,
+    "avg_salary_k": 4.81,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_qnHODO",
+    "count": 24,
+    "avg_salary_k": 5.85,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "D022",
+    "company_type": "type_qrSFSq",
+    "count": 23,
+    "avg_salary_k": 5.52,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_uTAWZv",
+    "count": 50,
+    "avg_salary_k": 3.67,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_vrMpBQ",
+    "count": 8,
+    "avg_salary_k": 5.94,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D022",
+    "company_type": "type_yZblEo",
+    "count": 14,
+    "avg_salary_k": 5.11,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "D090",
+    "company_type": "type_BLfSmG",
+    "count": 9,
+    "avg_salary_k": 5.28,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_BmzsHA",
+    "count": 2,
+    "avg_salary_k": 7.75,
+    "median_salary_k": 7.75
+  },
+  {
+    "city": "D090",
+    "company_type": "type_CbBLwi",
+    "count": 6,
+    "avg_salary_k": 6.17,
+    "median_salary_k": 6.75
+  },
+  {
+    "city": "D090",
+    "company_type": "type_HcIRlZ",
+    "count": 6,
+    "avg_salary_k": 8.42,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "D090",
+    "company_type": "type_HfjYoW",
+    "count": 15,
+    "avg_salary_k": 5.57,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_PCcrub",
+    "count": 24,
+    "avg_salary_k": 5.27,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_XqvUzw",
+    "count": 15,
+    "avg_salary_k": 4.0,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "D090",
+    "company_type": "type_YOHpQY",
+    "count": 22,
+    "avg_salary_k": 7.52,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_ZcPYrP",
+    "count": 4,
+    "avg_salary_k": 4.75,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "D090",
+    "company_type": "type_fFlUqG",
+    "count": 23,
+    "avg_salary_k": 6.83,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_lOdYUb",
+    "count": 50,
+    "avg_salary_k": 5.6,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_lYwbWD",
+    "count": 9,
+    "avg_salary_k": 19.44,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_lwxCGv",
+    "count": 15,
+    "avg_salary_k": 5.1,
+    "median_salary_k": 4.05
+  },
+  {
+    "city": "D090",
+    "company_type": "type_qGLNuz",
+    "count": 26,
+    "avg_salary_k": 5.98,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "D090",
+    "company_type": "type_qhLBWb",
+    "count": 12,
+    "avg_salary_k": 7.71,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_qnHODO",
+    "count": 26,
+    "avg_salary_k": 6.58,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_qrSFSq",
+    "count": 8,
+    "avg_salary_k": 5.19,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_uTAWZv",
+    "count": 50,
+    "avg_salary_k": 4.15,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_vrMpBQ",
+    "count": 1,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D090",
+    "company_type": "type_yZblEo",
+    "count": 24,
+    "avg_salary_k": 5.88,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_BLfSmG",
+    "count": 6,
+    "avg_salary_k": 8.17,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_BmzsHA",
+    "count": 2,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "D575",
+    "company_type": "type_CbBLwi",
+    "count": 5,
+    "avg_salary_k": 7.2,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_HcIRlZ",
+    "count": 5,
+    "avg_salary_k": 7.8,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_HfjYoW",
+    "count": 1,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_PCcrub",
+    "count": 7,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_XqvUzw",
+    "count": 5,
+    "avg_salary_k": 5.6,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_YOHpQY",
+    "count": 7,
+    "avg_salary_k": 10.14,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_ZcPYrP",
+    "count": 1,
+    "avg_salary_k": 22.5,
+    "median_salary_k": 22.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_fFlUqG",
+    "count": 15,
+    "avg_salary_k": 7.03,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_lOdYUb",
+    "count": 16,
+    "avg_salary_k": 8.0,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_lYwbWD",
+    "count": 3,
+    "avg_salary_k": 8.33,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_lwxCGv",
+    "count": 4,
+    "avg_salary_k": 5.19,
+    "median_salary_k": 4.88
+  },
+  {
+    "city": "D575",
+    "company_type": "type_qGLNuz",
+    "count": 12,
+    "avg_salary_k": 9.79,
+    "median_salary_k": 7.25
+  },
+  {
+    "city": "D575",
+    "company_type": "type_qhLBWb",
+    "count": 5,
+    "avg_salary_k": 11.3,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_qnHODO",
+    "count": 7,
+    "avg_salary_k": 8.93,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_qrSFSq",
+    "count": 55,
+    "avg_salary_k": 8.38,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "D575",
+    "company_type": "type_uTAWZv",
+    "count": 14,
+    "avg_salary_k": 5.32,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D575",
+    "company_type": "type_vrMpBQ",
+    "count": 18,
+    "avg_salary_k": 8.14,
+    "median_salary_k": 7.25
+  },
+  {
+    "city": "D575",
+    "company_type": "type_yZblEo",
+    "count": 3,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_BLfSmG",
+    "count": 4,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_BmzsHA",
+    "count": 3,
+    "avg_salary_k": 13.83,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_CbBLwi",
+    "count": 2,
+    "avg_salary_k": 8.5,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_HcIRlZ",
+    "count": 2,
+    "avg_salary_k": 8.75,
+    "median_salary_k": 8.75
+  },
+  {
+    "city": "D672",
+    "company_type": "type_HfjYoW",
+    "count": 9,
+    "avg_salary_k": 5.28,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_PCcrub",
+    "count": 9,
+    "avg_salary_k": 6.83,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_XqvUzw",
+    "count": 5,
+    "avg_salary_k": 5.9,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_YOHpQY",
+    "count": 13,
+    "avg_salary_k": 5.88,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_ZcPYrP",
+    "count": 3,
+    "avg_salary_k": 8.33,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "D672",
+    "company_type": "type_fFlUqG",
+    "count": 15,
+    "avg_salary_k": 4.57,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_lOdYUb",
+    "count": 27,
+    "avg_salary_k": 5.19,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_lYwbWD",
+    "count": 11,
+    "avg_salary_k": 4.95,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_lwxCGv",
+    "count": 8,
+    "avg_salary_k": 5.56,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_qGLNuz",
+    "count": 12,
+    "avg_salary_k": 6.12,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "D672",
+    "company_type": "type_qhLBWb",
+    "count": 13,
+    "avg_salary_k": 6.58,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "D672",
+    "company_type": "type_qnHODO",
+    "count": 13,
+    "avg_salary_k": 8.04,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "D672",
+    "company_type": "type_qrSFSq",
+    "count": 7,
+    "avg_salary_k": 6.07,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_uTAWZv",
+    "count": 20,
+    "avg_salary_k": 3.83,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_vrMpBQ",
+    "count": 1,
+    "avg_salary_k": 3.5,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "D672",
+    "company_type": "type_yZblEo",
+    "count": 11,
+    "avg_salary_k": 7.23,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_BLfSmG",
+    "count": 2436,
+    "avg_salary_k": 23.68,
+    "median_salary_k": 20.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_BmzsHA",
+    "count": 618,
+    "avg_salary_k": 13.03,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_CbBLwi",
+    "count": 1137,
+    "avg_salary_k": 17.99,
+    "median_salary_k": 16.0
+  },
+  {
+    "city": "F047",
+    "company_type": "type_HcIRlZ",
+    "count": 196,
+    "avg_salary_k": 11.64,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_HfjYoW",
+    "count": 717,
+    "avg_salary_k": 11.13,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_PCcrub",
+    "count": 289,
+    "avg_salary_k": 10.39,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_XqvUzw",
+    "count": 332,
+    "avg_salary_k": 6.71,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_YOHpQY",
+    "count": 419,
+    "avg_salary_k": 12.51,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_ZcPYrP",
+    "count": 768,
+    "avg_salary_k": 14.2,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_fFlUqG",
+    "count": 450,
+    "avg_salary_k": 9.49,
+    "median_salary_k": 7.95
+  },
+  {
+    "city": "F047",
+    "company_type": "type_lOdYUb",
+    "count": 770,
+    "avg_salary_k": 13.75,
+    "median_salary_k": 11.0
+  },
+  {
+    "city": "F047",
+    "company_type": "type_lYwbWD",
+    "count": 384,
+    "avg_salary_k": 10.2,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_lwxCGv",
+    "count": 257,
+    "avg_salary_k": 12.05,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "F047",
+    "company_type": "type_qGLNuz",
+    "count": 537,
+    "avg_salary_k": 10.53,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_qhLBWb",
+    "count": 540,
+    "avg_salary_k": 13.84,
+    "median_salary_k": 11.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_qnHODO",
+    "count": 312,
+    "avg_salary_k": 7.79,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "F047",
+    "company_type": "type_qrSFSq",
+    "count": 743,
+    "avg_salary_k": 16.78,
+    "median_salary_k": 12.0
+  },
+  {
+    "city": "F047",
+    "company_type": "type_uTAWZv",
+    "count": 675,
+    "avg_salary_k": 9.46,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_vrMpBQ",
+    "count": 457,
+    "avg_salary_k": 10.52,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "F047",
+    "company_type": "type_yZblEo",
+    "count": 627,
+    "avg_salary_k": 10.9,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_BLfSmG",
+    "count": 1161,
+    "avg_salary_k": 10.45,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_BmzsHA",
+    "count": 530,
+    "avg_salary_k": 9.18,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_CbBLwi",
+    "count": 894,
+    "avg_salary_k": 10.7,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_HcIRlZ",
+    "count": 432,
+    "avg_salary_k": 8.86,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_HfjYoW",
+    "count": 591,
+    "avg_salary_k": 7.55,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_PCcrub",
+    "count": 386,
+    "avg_salary_k": 8.78,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_XqvUzw",
+    "count": 389,
+    "avg_salary_k": 5.64,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_YOHpQY",
+    "count": 593,
+    "avg_salary_k": 7.95,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_ZcPYrP",
+    "count": 425,
+    "avg_salary_k": 9.54,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_fFlUqG",
+    "count": 892,
+    "avg_salary_k": 7.94,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_lOdYUb",
+    "count": 1131,
+    "avg_salary_k": 9.09,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_lYwbWD",
+    "count": 377,
+    "avg_salary_k": 8.11,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_lwxCGv",
+    "count": 469,
+    "avg_salary_k": 8.8,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "F379",
+    "company_type": "type_qGLNuz",
+    "count": 626,
+    "avg_salary_k": 7.71,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_qhLBWb",
+    "count": 487,
+    "avg_salary_k": 8.37,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_qnHODO",
+    "count": 306,
+    "avg_salary_k": 5.87,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_qrSFSq",
+    "count": 1354,
+    "avg_salary_k": 8.96,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_uTAWZv",
+    "count": 717,
+    "avg_salary_k": 7.76,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_vrMpBQ",
+    "count": 535,
+    "avg_salary_k": 8.17,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "F379",
+    "company_type": "type_yZblEo",
+    "count": 730,
+    "avg_salary_k": 6.87,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_BLfSmG",
+    "count": 7,
+    "avg_salary_k": 7.5,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_BmzsHA",
+    "count": 1,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_CbBLwi",
+    "count": 5,
+    "avg_salary_k": 9.8,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_HcIRlZ",
+    "count": 8,
+    "avg_salary_k": 5.31,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "J309",
+    "company_type": "type_HfjYoW",
+    "count": 19,
+    "avg_salary_k": 6.08,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_PCcrub",
+    "count": 7,
+    "avg_salary_k": 6.79,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_XqvUzw",
+    "count": 4,
+    "avg_salary_k": 6.12,
+    "median_salary_k": 3.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_YOHpQY",
+    "count": 18,
+    "avg_salary_k": 5.97,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_fFlUqG",
+    "count": 10,
+    "avg_salary_k": 5.85,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_lOdYUb",
+    "count": 26,
+    "avg_salary_k": 5.77,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_lYwbWD",
+    "count": 10,
+    "avg_salary_k": 6.3,
+    "median_salary_k": 6.25
+  },
+  {
+    "city": "J309",
+    "company_type": "type_lwxCGv",
+    "count": 4,
+    "avg_salary_k": 3.88,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_qGLNuz",
+    "count": 15,
+    "avg_salary_k": 6.17,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_qhLBWb",
+    "count": 7,
+    "avg_salary_k": 6.14,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_qnHODO",
+    "count": 8,
+    "avg_salary_k": 5.19,
+    "median_salary_k": 4.25
+  },
+  {
+    "city": "J309",
+    "company_type": "type_qrSFSq",
+    "count": 9,
+    "avg_salary_k": 5.22,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "J309",
+    "company_type": "type_uTAWZv",
+    "count": 15,
+    "avg_salary_k": 4.23,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_vrMpBQ",
+    "count": 1,
+    "avg_salary_k": 5.0,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "J309",
+    "company_type": "type_yZblEo",
+    "count": 10,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 6.25
+  },
+  {
+    "city": "K115",
+    "company_type": "type_BLfSmG",
+    "count": 1519,
+    "avg_salary_k": 21.38,
+    "median_salary_k": 18.0
+  },
+  {
+    "city": "K115",
+    "company_type": "type_BmzsHA",
+    "count": 586,
+    "avg_salary_k": 14.34,
+    "median_salary_k": 12.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_CbBLwi",
+    "count": 964,
+    "avg_salary_k": 18.06,
+    "median_salary_k": 15.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_HcIRlZ",
+    "count": 444,
+    "avg_salary_k": 11.56,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "K115",
+    "company_type": "type_HfjYoW",
+    "count": 828,
+    "avg_salary_k": 11.05,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_PCcrub",
+    "count": 260,
+    "avg_salary_k": 10.18,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "K115",
+    "company_type": "type_XqvUzw",
+    "count": 120,
+    "avg_salary_k": 7.38,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_YOHpQY",
+    "count": 281,
+    "avg_salary_k": 11.82,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "K115",
+    "company_type": "type_ZcPYrP",
+    "count": 683,
+    "avg_salary_k": 13.87,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_fFlUqG",
+    "count": 428,
+    "avg_salary_k": 10.37,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_lOdYUb",
+    "count": 792,
+    "avg_salary_k": 12.69,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_lYwbWD",
+    "count": 298,
+    "avg_salary_k": 10.43,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "K115",
+    "company_type": "type_lwxCGv",
+    "count": 284,
+    "avg_salary_k": 11.99,
+    "median_salary_k": 10.25
+  },
+  {
+    "city": "K115",
+    "company_type": "type_qGLNuz",
+    "count": 495,
+    "avg_salary_k": 11.82,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_qhLBWb",
+    "count": 478,
+    "avg_salary_k": 12.84,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_qnHODO",
+    "count": 295,
+    "avg_salary_k": 8.2,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_qrSFSq",
+    "count": 993,
+    "avg_salary_k": 15.71,
+    "median_salary_k": 11.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_uTAWZv",
+    "count": 788,
+    "avg_salary_k": 9.23,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "K115",
+    "company_type": "type_vrMpBQ",
+    "count": 668,
+    "avg_salary_k": 11.51,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "K115",
+    "company_type": "type_yZblEo",
+    "count": 648,
+    "avg_salary_k": 12.42,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "K445",
+    "company_type": "type_BLfSmG",
+    "count": 38,
+    "avg_salary_k": 10.2,
+    "median_salary_k": 7.75
+  },
+  {
+    "city": "K445",
+    "company_type": "type_BmzsHA",
+    "count": 7,
+    "avg_salary_k": 8.71,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_CbBLwi",
+    "count": 52,
+    "avg_salary_k": 9.44,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_HcIRlZ",
+    "count": 6,
+    "avg_salary_k": 7.62,
+    "median_salary_k": 6.62
+  },
+  {
+    "city": "K445",
+    "company_type": "type_HfjYoW",
+    "count": 17,
+    "avg_salary_k": 5.56,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_PCcrub",
+    "count": 9,
+    "avg_salary_k": 7.22,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_XqvUzw",
+    "count": 4,
+    "avg_salary_k": 6.62,
+    "median_salary_k": 6.25
+  },
+  {
+    "city": "K445",
+    "company_type": "type_YOHpQY",
+    "count": 18,
+    "avg_salary_k": 6.94,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "K445",
+    "company_type": "type_ZcPYrP",
+    "count": 8,
+    "avg_salary_k": 7.62,
+    "median_salary_k": 6.75
+  },
+  {
+    "city": "K445",
+    "company_type": "type_fFlUqG",
+    "count": 17,
+    "avg_salary_k": 7.35,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_lOdYUb",
+    "count": 30,
+    "avg_salary_k": 7.22,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_lYwbWD",
+    "count": 7,
+    "avg_salary_k": 8.14,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_lwxCGv",
+    "count": 12,
+    "avg_salary_k": 5.62,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "K445",
+    "company_type": "type_qGLNuz",
+    "count": 16,
+    "avg_salary_k": 7.06,
+    "median_salary_k": 7.25
+  },
+  {
+    "city": "K445",
+    "company_type": "type_qhLBWb",
+    "count": 14,
+    "avg_salary_k": 6.11,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "K445",
+    "company_type": "type_qnHODO",
+    "count": 10,
+    "avg_salary_k": 7.65,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "K445",
+    "company_type": "type_qrSFSq",
+    "count": 28,
+    "avg_salary_k": 9.26,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_uTAWZv",
+    "count": 25,
+    "avg_salary_k": 6.06,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_vrMpBQ",
+    "count": 14,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "K445",
+    "company_type": "type_yZblEo",
+    "count": 19,
+    "avg_salary_k": 6.16,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_BLfSmG",
+    "count": 8,
+    "avg_salary_k": 5.5,
+    "median_salary_k": 4.25
+  },
+  {
+    "city": "M108",
+    "company_type": "type_BmzsHA",
+    "count": 4,
+    "avg_salary_k": 5.0,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "M108",
+    "company_type": "type_CbBLwi",
+    "count": 1,
+    "avg_salary_k": 5.5,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_HcIRlZ",
+    "count": 7,
+    "avg_salary_k": 5.5,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "M108",
+    "company_type": "type_HfjYoW",
+    "count": 9,
+    "avg_salary_k": 6.22,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "M108",
+    "company_type": "type_PCcrub",
+    "count": 13,
+    "avg_salary_k": 5.5,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_XqvUzw",
+    "count": 6,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "M108",
+    "company_type": "type_YOHpQY",
+    "count": 6,
+    "avg_salary_k": 5.75,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "M108",
+    "company_type": "type_ZcPYrP",
+    "count": 2,
+    "avg_salary_k": 5.75,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "M108",
+    "company_type": "type_fFlUqG",
+    "count": 5,
+    "avg_salary_k": 4.1,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_lOdYUb",
+    "count": 34,
+    "avg_salary_k": 6.9,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_lYwbWD",
+    "count": 7,
+    "avg_salary_k": 4.93,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "M108",
+    "company_type": "type_lwxCGv",
+    "count": 5,
+    "avg_salary_k": 5.5,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_qGLNuz",
+    "count": 7,
+    "avg_salary_k": 5.43,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_qhLBWb",
+    "count": 6,
+    "avg_salary_k": 5.25,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_qnHODO",
+    "count": 12,
+    "avg_salary_k": 4.92,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "M108",
+    "company_type": "type_qrSFSq",
+    "count": 23,
+    "avg_salary_k": 5.3,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_uTAWZv",
+    "count": 21,
+    "avg_salary_k": 4.07,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "M108",
+    "company_type": "type_vrMpBQ",
+    "count": 10,
+    "avg_salary_k": 6.6,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "M108",
+    "company_type": "type_yZblEo",
+    "count": 10,
+    "avg_salary_k": 5.45,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "N806",
+    "company_type": "type_BLfSmG",
+    "count": 793,
+    "avg_salary_k": 12.88,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_BmzsHA",
+    "count": 616,
+    "avg_salary_k": 12.59,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_CbBLwi",
+    "count": 655,
+    "avg_salary_k": 15.38,
+    "median_salary_k": 12.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_HcIRlZ",
+    "count": 852,
+    "avg_salary_k": 10.54,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "N806",
+    "company_type": "type_HfjYoW",
+    "count": 586,
+    "avg_salary_k": 7.66,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "N806",
+    "company_type": "type_PCcrub",
+    "count": 363,
+    "avg_salary_k": 9.12,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_XqvUzw",
+    "count": 173,
+    "avg_salary_k": 6.33,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_YOHpQY",
+    "count": 278,
+    "avg_salary_k": 9.33,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "N806",
+    "company_type": "type_ZcPYrP",
+    "count": 341,
+    "avg_salary_k": 10.7,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_fFlUqG",
+    "count": 518,
+    "avg_salary_k": 8.2,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_lOdYUb",
+    "count": 1077,
+    "avg_salary_k": 9.15,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "N806",
+    "company_type": "type_lYwbWD",
+    "count": 326,
+    "avg_salary_k": 8.78,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_lwxCGv",
+    "count": 253,
+    "avg_salary_k": 9.64,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_qGLNuz",
+    "count": 579,
+    "avg_salary_k": 8.64,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_qhLBWb",
+    "count": 373,
+    "avg_salary_k": 8.68,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_qnHODO",
+    "count": 378,
+    "avg_salary_k": 5.84,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_qrSFSq",
+    "count": 939,
+    "avg_salary_k": 9.83,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "N806",
+    "company_type": "type_uTAWZv",
+    "count": 784,
+    "avg_salary_k": 6.87,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "N806",
+    "company_type": "type_vrMpBQ",
+    "count": 559,
+    "avg_salary_k": 8.52,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "N806",
+    "company_type": "type_yZblEo",
+    "count": 800,
+    "avg_salary_k": 8.96,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_BLfSmG",
+    "count": 974,
+    "avg_salary_k": 11.84,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_BmzsHA",
+    "count": 412,
+    "avg_salary_k": 8.13,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_CbBLwi",
+    "count": 1106,
+    "avg_salary_k": 12.98,
+    "median_salary_k": 11.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_HcIRlZ",
+    "count": 354,
+    "avg_salary_k": 8.07,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_HfjYoW",
+    "count": 696,
+    "avg_salary_k": 6.53,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_PCcrub",
+    "count": 338,
+    "avg_salary_k": 8.17,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_XqvUzw",
+    "count": 416,
+    "avg_salary_k": 4.89,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_YOHpQY",
+    "count": 521,
+    "avg_salary_k": 8.62,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_ZcPYrP",
+    "count": 471,
+    "avg_salary_k": 8.67,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_fFlUqG",
+    "count": 808,
+    "avg_salary_k": 7.22,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_lOdYUb",
+    "count": 887,
+    "avg_salary_k": 7.8,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_lYwbWD",
+    "count": 540,
+    "avg_salary_k": 7.81,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_lwxCGv",
+    "count": 241,
+    "avg_salary_k": 6.97,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_qGLNuz",
+    "count": 743,
+    "avg_salary_k": 7.07,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O198",
+    "company_type": "type_qhLBWb",
+    "count": 456,
+    "avg_salary_k": 7.9,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_qnHODO",
+    "count": 357,
+    "avg_salary_k": 5.3,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_qrSFSq",
+    "count": 565,
+    "avg_salary_k": 8.08,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_uTAWZv",
+    "count": 719,
+    "avg_salary_k": 6.61,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_vrMpBQ",
+    "count": 420,
+    "avg_salary_k": 7.29,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "O198",
+    "company_type": "type_yZblEo",
+    "count": 725,
+    "avg_salary_k": 6.88,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O445",
+    "company_type": "type_BLfSmG",
+    "count": 4,
+    "avg_salary_k": 4.38,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_BmzsHA",
+    "count": 3,
+    "avg_salary_k": 5.17,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_HcIRlZ",
+    "count": 3,
+    "avg_salary_k": 9.33,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "O445",
+    "company_type": "type_HfjYoW",
+    "count": 6,
+    "avg_salary_k": 3.58,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "O445",
+    "company_type": "type_PCcrub",
+    "count": 15,
+    "avg_salary_k": 5.4,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_XqvUzw",
+    "count": 6,
+    "avg_salary_k": 4.92,
+    "median_salary_k": 3.75
+  },
+  {
+    "city": "O445",
+    "company_type": "type_YOHpQY",
+    "count": 18,
+    "avg_salary_k": 5.47,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_fFlUqG",
+    "count": 9,
+    "avg_salary_k": 5.11,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_lOdYUb",
+    "count": 37,
+    "avg_salary_k": 5.05,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_lYwbWD",
+    "count": 3,
+    "avg_salary_k": 5.0,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "O445",
+    "company_type": "type_lwxCGv",
+    "count": 2,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_qGLNuz",
+    "count": 18,
+    "avg_salary_k": 4.86,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_qhLBWb",
+    "count": 10,
+    "avg_salary_k": 6.15,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "O445",
+    "company_type": "type_qnHODO",
+    "count": 9,
+    "avg_salary_k": 5.56,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_qrSFSq",
+    "count": 6,
+    "avg_salary_k": 5.17,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "O445",
+    "company_type": "type_uTAWZv",
+    "count": 17,
+    "avg_salary_k": 5.62,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "O445",
+    "company_type": "type_vrMpBQ",
+    "count": 2,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O445",
+    "company_type": "type_yZblEo",
+    "count": 6,
+    "avg_salary_k": 4.33,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_BLfSmG",
+    "count": 4,
+    "avg_salary_k": 4.75,
+    "median_salary_k": 4.25
+  },
+  {
+    "city": "O824",
+    "company_type": "type_CbBLwi",
+    "count": 1,
+    "avg_salary_k": 20.5,
+    "median_salary_k": 20.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_HcIRlZ",
+    "count": 1,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "O824",
+    "company_type": "type_HfjYoW",
+    "count": 3,
+    "avg_salary_k": 7.83,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_PCcrub",
+    "count": 11,
+    "avg_salary_k": 5.14,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_XqvUzw",
+    "count": 11,
+    "avg_salary_k": 4.14,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_YOHpQY",
+    "count": 13,
+    "avg_salary_k": 13.12,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_ZcPYrP",
+    "count": 4,
+    "avg_salary_k": 6.88,
+    "median_salary_k": 7.25
+  },
+  {
+    "city": "O824",
+    "company_type": "type_fFlUqG",
+    "count": 11,
+    "avg_salary_k": 4.73,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "O824",
+    "company_type": "type_lOdYUb",
+    "count": 24,
+    "avg_salary_k": 6.02,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_lYwbWD",
+    "count": 1,
+    "avg_salary_k": 3.5,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_lwxCGv",
+    "count": 3,
+    "avg_salary_k": 6.67,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "O824",
+    "company_type": "type_qGLNuz",
+    "count": 11,
+    "avg_salary_k": 4.45,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_qhLBWb",
+    "count": 15,
+    "avg_salary_k": 6.13,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_qnHODO",
+    "count": 17,
+    "avg_salary_k": 5.65,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_qrSFSq",
+    "count": 15,
+    "avg_salary_k": 6.7,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O824",
+    "company_type": "type_uTAWZv",
+    "count": 38,
+    "avg_salary_k": 4.04,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_vrMpBQ",
+    "count": 2,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "O824",
+    "company_type": "type_yZblEo",
+    "count": 7,
+    "avg_salary_k": 6.43,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "O910",
+    "company_type": "type_BLfSmG",
+    "count": 4,
+    "avg_salary_k": 7.12,
+    "median_salary_k": 6.25
+  },
+  {
+    "city": "O910",
+    "company_type": "type_BmzsHA",
+    "count": 1,
+    "avg_salary_k": 4.0,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "O910",
+    "company_type": "type_CbBLwi",
+    "count": 4,
+    "avg_salary_k": 10.62,
+    "median_salary_k": 8.75
+  },
+  {
+    "city": "O910",
+    "company_type": "type_HcIRlZ",
+    "count": 7,
+    "avg_salary_k": 8.29,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_HfjYoW",
+    "count": 4,
+    "avg_salary_k": 5.12,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "O910",
+    "company_type": "type_PCcrub",
+    "count": 6,
+    "avg_salary_k": 5.92,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "O910",
+    "company_type": "type_XqvUzw",
+    "count": 9,
+    "avg_salary_k": 5.11,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "O910",
+    "company_type": "type_YOHpQY",
+    "count": 9,
+    "avg_salary_k": 6.78,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_fFlUqG",
+    "count": 15,
+    "avg_salary_k": 8.57,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O910",
+    "company_type": "type_lOdYUb",
+    "count": 25,
+    "avg_salary_k": 5.68,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_lYwbWD",
+    "count": 3,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_lwxCGv",
+    "count": 7,
+    "avg_salary_k": 5.86,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O910",
+    "company_type": "type_qGLNuz",
+    "count": 13,
+    "avg_salary_k": 4.85,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_qhLBWb",
+    "count": 7,
+    "avg_salary_k": 5.93,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_qnHODO",
+    "count": 12,
+    "avg_salary_k": 6.21,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O910",
+    "company_type": "type_qrSFSq",
+    "count": 21,
+    "avg_salary_k": 7.29,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "O910",
+    "company_type": "type_uTAWZv",
+    "count": 25,
+    "avg_salary_k": 4.74,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_vrMpBQ",
+    "count": 2,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "O910",
+    "company_type": "type_yZblEo",
+    "count": 8,
+    "avg_salary_k": 9.88,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_BLfSmG",
+    "count": 11,
+    "avg_salary_k": 8.09,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_CbBLwi",
+    "count": 9,
+    "avg_salary_k": 9.67,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_HcIRlZ",
+    "count": 7,
+    "avg_salary_k": 4.86,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "P050",
+    "company_type": "type_HfjYoW",
+    "count": 7,
+    "avg_salary_k": 4.29,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "P050",
+    "company_type": "type_PCcrub",
+    "count": 6,
+    "avg_salary_k": 6.58,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_XqvUzw",
+    "count": 4,
+    "avg_salary_k": 3.25,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "P050",
+    "company_type": "type_YOHpQY",
+    "count": 12,
+    "avg_salary_k": 4.79,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_ZcPYrP",
+    "count": 2,
+    "avg_salary_k": 9.75,
+    "median_salary_k": 9.75
+  },
+  {
+    "city": "P050",
+    "company_type": "type_fFlUqG",
+    "count": 14,
+    "avg_salary_k": 5.54,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "P050",
+    "company_type": "type_lOdYUb",
+    "count": 27,
+    "avg_salary_k": 6.63,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P050",
+    "company_type": "type_lYwbWD",
+    "count": 6,
+    "avg_salary_k": 8.25,
+    "median_salary_k": 6.75
+  },
+  {
+    "city": "P050",
+    "company_type": "type_lwxCGv",
+    "count": 9,
+    "avg_salary_k": 6.06,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P050",
+    "company_type": "type_qGLNuz",
+    "count": 10,
+    "avg_salary_k": 5.0,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "P050",
+    "company_type": "type_qhLBWb",
+    "count": 13,
+    "avg_salary_k": 8.35,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_qnHODO",
+    "count": 5,
+    "avg_salary_k": 6.3,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_qrSFSq",
+    "count": 6,
+    "avg_salary_k": 4.67,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_uTAWZv",
+    "count": 10,
+    "avg_salary_k": 5.45,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "P050",
+    "company_type": "type_vrMpBQ",
+    "count": 1,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "P050",
+    "company_type": "type_yZblEo",
+    "count": 24,
+    "avg_salary_k": 9.25,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "P258",
+    "company_type": "type_BLfSmG",
+    "count": 10,
+    "avg_salary_k": 7.45,
+    "median_salary_k": 6.25
+  },
+  {
+    "city": "P258",
+    "company_type": "type_BmzsHA",
+    "count": 4,
+    "avg_salary_k": 7.12,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_CbBLwi",
+    "count": 4,
+    "avg_salary_k": 6.62,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "P258",
+    "company_type": "type_HcIRlZ",
+    "count": 19,
+    "avg_salary_k": 7.68,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_HfjYoW",
+    "count": 8,
+    "avg_salary_k": 6.31,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "P258",
+    "company_type": "type_PCcrub",
+    "count": 5,
+    "avg_salary_k": 6.0,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_XqvUzw",
+    "count": 4,
+    "avg_salary_k": 4.62,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "P258",
+    "company_type": "type_YOHpQY",
+    "count": 10,
+    "avg_salary_k": 7.9,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_ZcPYrP",
+    "count": 2,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "P258",
+    "company_type": "type_fFlUqG",
+    "count": 9,
+    "avg_salary_k": 4.75,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_lOdYUb",
+    "count": 24,
+    "avg_salary_k": 5.04,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "P258",
+    "company_type": "type_lYwbWD",
+    "count": 7,
+    "avg_salary_k": 8.21,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_lwxCGv",
+    "count": 1,
+    "avg_salary_k": 7.5,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "P258",
+    "company_type": "type_qGLNuz",
+    "count": 13,
+    "avg_salary_k": 5.54,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_qhLBWb",
+    "count": 7,
+    "avg_salary_k": 7.07,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "P258",
+    "company_type": "type_qnHODO",
+    "count": 7,
+    "avg_salary_k": 5.29,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P258",
+    "company_type": "type_qrSFSq",
+    "count": 24,
+    "avg_salary_k": 6.29,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_uTAWZv",
+    "count": 14,
+    "avg_salary_k": 5.11,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "P258",
+    "company_type": "type_vrMpBQ",
+    "count": 7,
+    "avg_salary_k": 6.0,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "P258",
+    "company_type": "type_yZblEo",
+    "count": 14,
+    "avg_salary_k": 5.64,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "P741",
+    "company_type": "type_BLfSmG",
+    "count": 2,
+    "avg_salary_k": 5.25,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "P741",
+    "company_type": "type_HcIRlZ",
+    "count": 4,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "P741",
+    "company_type": "type_HfjYoW",
+    "count": 1,
+    "avg_salary_k": 6.25,
+    "median_salary_k": 6.25
+  },
+  {
+    "city": "P741",
+    "company_type": "type_PCcrub",
+    "count": 10,
+    "avg_salary_k": 7.1,
+    "median_salary_k": 5.25
+  },
+  {
+    "city": "P741",
+    "company_type": "type_XqvUzw",
+    "count": 11,
+    "avg_salary_k": 3.95,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "P741",
+    "company_type": "type_YOHpQY",
+    "count": 10,
+    "avg_salary_k": 6.42,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_ZcPYrP",
+    "count": 1,
+    "avg_salary_k": 2.5,
+    "median_salary_k": 2.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_fFlUqG",
+    "count": 13,
+    "avg_salary_k": 7.42,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_lOdYUb",
+    "count": 15,
+    "avg_salary_k": 5.53,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_lYwbWD",
+    "count": 5,
+    "avg_salary_k": 7.0,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_lwxCGv",
+    "count": 6,
+    "avg_salary_k": 5.58,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "P741",
+    "company_type": "type_qGLNuz",
+    "count": 16,
+    "avg_salary_k": 4.84,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "P741",
+    "company_type": "type_qhLBWb",
+    "count": 19,
+    "avg_salary_k": 6.87,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_qnHODO",
+    "count": 9,
+    "avg_salary_k": 6.56,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_qrSFSq",
+    "count": 2,
+    "avg_salary_k": 10.25,
+    "median_salary_k": 10.25
+  },
+  {
+    "city": "P741",
+    "company_type": "type_uTAWZv",
+    "count": 26,
+    "avg_salary_k": 4.92,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_vrMpBQ",
+    "count": 3,
+    "avg_salary_k": 5.67,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P741",
+    "company_type": "type_yZblEo",
+    "count": 11,
+    "avg_salary_k": 6.41,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_BLfSmG",
+    "count": 1612,
+    "avg_salary_k": 21.4,
+    "median_salary_k": 18.0
+  },
+  {
+    "city": "P949",
+    "company_type": "type_BmzsHA",
+    "count": 500,
+    "avg_salary_k": 15.32,
+    "median_salary_k": 12.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_CbBLwi",
+    "count": 921,
+    "avg_salary_k": 17.68,
+    "median_salary_k": 15.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_HcIRlZ",
+    "count": 319,
+    "avg_salary_k": 12.04,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_HfjYoW",
+    "count": 461,
+    "avg_salary_k": 10.42,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_PCcrub",
+    "count": 257,
+    "avg_salary_k": 11.54,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_XqvUzw",
+    "count": 370,
+    "avg_salary_k": 6.29,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_YOHpQY",
+    "count": 531,
+    "avg_salary_k": 9.98,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_ZcPYrP",
+    "count": 470,
+    "avg_salary_k": 13.87,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_fFlUqG",
+    "count": 524,
+    "avg_salary_k": 9.42,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_lOdYUb",
+    "count": 716,
+    "avg_salary_k": 11.38,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "P949",
+    "company_type": "type_lYwbWD",
+    "count": 326,
+    "avg_salary_k": 9.88,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "P949",
+    "company_type": "type_lwxCGv",
+    "count": 147,
+    "avg_salary_k": 11.78,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_qGLNuz",
+    "count": 540,
+    "avg_salary_k": 9.5,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_qhLBWb",
+    "count": 370,
+    "avg_salary_k": 11.9,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_qnHODO",
+    "count": 344,
+    "avg_salary_k": 7.43,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_qrSFSq",
+    "count": 1443,
+    "avg_salary_k": 13.7,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_uTAWZv",
+    "count": 606,
+    "avg_salary_k": 8.12,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_vrMpBQ",
+    "count": 709,
+    "avg_salary_k": 11.23,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "P949",
+    "company_type": "type_yZblEo",
+    "count": 596,
+    "avg_salary_k": 9.54,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_BLfSmG",
+    "count": 989,
+    "avg_salary_k": 10.99,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_BmzsHA",
+    "count": 527,
+    "avg_salary_k": 9.22,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_CbBLwi",
+    "count": 807,
+    "avg_salary_k": 11.55,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_HcIRlZ",
+    "count": 447,
+    "avg_salary_k": 10.79,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_HfjYoW",
+    "count": 502,
+    "avg_salary_k": 6.84,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_PCcrub",
+    "count": 209,
+    "avg_salary_k": 8.87,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_XqvUzw",
+    "count": 258,
+    "avg_salary_k": 5.41,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_YOHpQY",
+    "count": 332,
+    "avg_salary_k": 9.16,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_ZcPYrP",
+    "count": 568,
+    "avg_salary_k": 10.45,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_fFlUqG",
+    "count": 722,
+    "avg_salary_k": 7.6,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_lOdYUb",
+    "count": 980,
+    "avg_salary_k": 8.19,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_lYwbWD",
+    "count": 293,
+    "avg_salary_k": 9.07,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_lwxCGv",
+    "count": 372,
+    "avg_salary_k": 8.28,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_qGLNuz",
+    "count": 550,
+    "avg_salary_k": 7.38,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_qhLBWb",
+    "count": 496,
+    "avg_salary_k": 8.71,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_qnHODO",
+    "count": 380,
+    "avg_salary_k": 5.35,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_qrSFSq",
+    "count": 1126,
+    "avg_salary_k": 8.72,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_uTAWZv",
+    "count": 906,
+    "avg_salary_k": 5.87,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "R892",
+    "company_type": "type_vrMpBQ",
+    "count": 377,
+    "avg_salary_k": 8.42,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "R892",
+    "company_type": "type_yZblEo",
+    "count": 767,
+    "avg_salary_k": 8.07,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_BLfSmG",
+    "count": 1300,
+    "avg_salary_k": 14.07,
+    "median_salary_k": 11.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_BmzsHA",
+    "count": 439,
+    "avg_salary_k": 9.97,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_CbBLwi",
+    "count": 967,
+    "avg_salary_k": 12.51,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_HcIRlZ",
+    "count": 317,
+    "avg_salary_k": 8.32,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "S542",
+    "company_type": "type_HfjYoW",
+    "count": 481,
+    "avg_salary_k": 7.49,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_PCcrub",
+    "count": 555,
+    "avg_salary_k": 9.0,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "S542",
+    "company_type": "type_XqvUzw",
+    "count": 308,
+    "avg_salary_k": 5.55,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_YOHpQY",
+    "count": 483,
+    "avg_salary_k": 9.24,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_ZcPYrP",
+    "count": 465,
+    "avg_salary_k": 9.79,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_fFlUqG",
+    "count": 569,
+    "avg_salary_k": 7.95,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "S542",
+    "company_type": "type_lOdYUb",
+    "count": 726,
+    "avg_salary_k": 9.99,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_lYwbWD",
+    "count": 433,
+    "avg_salary_k": 8.04,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_lwxCGv",
+    "count": 234,
+    "avg_salary_k": 7.59,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_qGLNuz",
+    "count": 396,
+    "avg_salary_k": 8.1,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "S542",
+    "company_type": "type_qhLBWb",
+    "count": 342,
+    "avg_salary_k": 9.18,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_qnHODO",
+    "count": 81,
+    "avg_salary_k": 9.18,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_qrSFSq",
+    "count": 870,
+    "avg_salary_k": 8.77,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_uTAWZv",
+    "count": 686,
+    "avg_salary_k": 6.98,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_vrMpBQ",
+    "count": 315,
+    "avg_salary_k": 8.17,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S542",
+    "company_type": "type_yZblEo",
+    "count": 607,
+    "avg_salary_k": 8.63,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_BLfSmG",
+    "count": 1104,
+    "avg_salary_k": 12.4,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "S959",
+    "company_type": "type_BmzsHA",
+    "count": 312,
+    "avg_salary_k": 10.03,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_CbBLwi",
+    "count": 734,
+    "avg_salary_k": 11.36,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "S959",
+    "company_type": "type_HcIRlZ",
+    "count": 487,
+    "avg_salary_k": 8.84,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_HfjYoW",
+    "count": 595,
+    "avg_salary_k": 7.58,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "S959",
+    "company_type": "type_PCcrub",
+    "count": 279,
+    "avg_salary_k": 8.39,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_XqvUzw",
+    "count": 451,
+    "avg_salary_k": 5.61,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "S959",
+    "company_type": "type_YOHpQY",
+    "count": 587,
+    "avg_salary_k": 8.48,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_ZcPYrP",
+    "count": 335,
+    "avg_salary_k": 10.42,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "S959",
+    "company_type": "type_fFlUqG",
+    "count": 636,
+    "avg_salary_k": 7.92,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_lOdYUb",
+    "count": 737,
+    "avg_salary_k": 8.62,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_lYwbWD",
+    "count": 344,
+    "avg_salary_k": 8.7,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_lwxCGv",
+    "count": 376,
+    "avg_salary_k": 8.32,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "S959",
+    "company_type": "type_qGLNuz",
+    "count": 614,
+    "avg_salary_k": 7.49,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_qhLBWb",
+    "count": 393,
+    "avg_salary_k": 8.26,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_qnHODO",
+    "count": 404,
+    "avg_salary_k": 6.14,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_qrSFSq",
+    "count": 1288,
+    "avg_salary_k": 8.92,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_uTAWZv",
+    "count": 804,
+    "avg_salary_k": 6.61,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_vrMpBQ",
+    "count": 842,
+    "avg_salary_k": 8.96,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "S959",
+    "company_type": "type_yZblEo",
+    "count": 692,
+    "avg_salary_k": 8.23,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_BLfSmG",
+    "count": 5,
+    "avg_salary_k": 5.9,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "V339",
+    "company_type": "type_CbBLwi",
+    "count": 3,
+    "avg_salary_k": 9.0,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_HcIRlZ",
+    "count": 2,
+    "avg_salary_k": 4.25,
+    "median_salary_k": 4.25
+  },
+  {
+    "city": "V339",
+    "company_type": "type_HfjYoW",
+    "count": 8,
+    "avg_salary_k": 5.5,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "V339",
+    "company_type": "type_PCcrub",
+    "count": 9,
+    "avg_salary_k": 4.56,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_XqvUzw",
+    "count": 8,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 3.75
+  },
+  {
+    "city": "V339",
+    "company_type": "type_YOHpQY",
+    "count": 32,
+    "avg_salary_k": 7.16,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "V339",
+    "company_type": "type_ZcPYrP",
+    "count": 2,
+    "avg_salary_k": 6.25,
+    "median_salary_k": 6.25
+  },
+  {
+    "city": "V339",
+    "company_type": "type_fFlUqG",
+    "count": 12,
+    "avg_salary_k": 5.25,
+    "median_salary_k": 4.25
+  },
+  {
+    "city": "V339",
+    "company_type": "type_lOdYUb",
+    "count": 25,
+    "avg_salary_k": 4.74,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_lYwbWD",
+    "count": 5,
+    "avg_salary_k": 6.8,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_lwxCGv",
+    "count": 7,
+    "avg_salary_k": 6.93,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_qGLNuz",
+    "count": 14,
+    "avg_salary_k": 4.46,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "V339",
+    "company_type": "type_qhLBWb",
+    "count": 5,
+    "avg_salary_k": 4.2,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_qnHODO",
+    "count": 9,
+    "avg_salary_k": 6.22,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_qrSFSq",
+    "count": 4,
+    "avg_salary_k": 6.88,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "V339",
+    "company_type": "type_uTAWZv",
+    "count": 22,
+    "avg_salary_k": 3.39,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_vrMpBQ",
+    "count": 4,
+    "avg_salary_k": 3.75,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "V339",
+    "company_type": "type_yZblEo",
+    "count": 11,
+    "avg_salary_k": 9.23,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_BLfSmG",
+    "count": 1044,
+    "avg_salary_k": 11.66,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_BmzsHA",
+    "count": 401,
+    "avg_salary_k": 9.28,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "V449",
+    "company_type": "type_CbBLwi",
+    "count": 750,
+    "avg_salary_k": 11.32,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "V449",
+    "company_type": "type_HcIRlZ",
+    "count": 440,
+    "avg_salary_k": 8.27,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "V449",
+    "company_type": "type_HfjYoW",
+    "count": 745,
+    "avg_salary_k": 6.59,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_PCcrub",
+    "count": 414,
+    "avg_salary_k": 7.94,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_XqvUzw",
+    "count": 156,
+    "avg_salary_k": 5.61,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "V449",
+    "company_type": "type_YOHpQY",
+    "count": 502,
+    "avg_salary_k": 8.05,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_ZcPYrP",
+    "count": 360,
+    "avg_salary_k": 9.24,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_fFlUqG",
+    "count": 724,
+    "avg_salary_k": 7.02,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_lOdYUb",
+    "count": 1051,
+    "avg_salary_k": 8.31,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_lYwbWD",
+    "count": 391,
+    "avg_salary_k": 8.46,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_lwxCGv",
+    "count": 353,
+    "avg_salary_k": 7.6,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_qGLNuz",
+    "count": 600,
+    "avg_salary_k": 7.16,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "V449",
+    "company_type": "type_qhLBWb",
+    "count": 541,
+    "avg_salary_k": 7.77,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_qnHODO",
+    "count": 354,
+    "avg_salary_k": 6.82,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "V449",
+    "company_type": "type_qrSFSq",
+    "count": 680,
+    "avg_salary_k": 8.76,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_uTAWZv",
+    "count": 934,
+    "avg_salary_k": 5.78,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "V449",
+    "company_type": "type_vrMpBQ",
+    "count": 232,
+    "avg_salary_k": 7.81,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V449",
+    "company_type": "type_yZblEo",
+    "count": 1022,
+    "avg_salary_k": 7.67,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_BLfSmG",
+    "count": 864,
+    "avg_salary_k": 10.93,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_BmzsHA",
+    "count": 333,
+    "avg_salary_k": 8.61,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_CbBLwi",
+    "count": 652,
+    "avg_salary_k": 10.71,
+    "median_salary_k": 9.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_HcIRlZ",
+    "count": 474,
+    "avg_salary_k": 7.92,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_HfjYoW",
+    "count": 600,
+    "avg_salary_k": 6.87,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_PCcrub",
+    "count": 368,
+    "avg_salary_k": 8.4,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_XqvUzw",
+    "count": 328,
+    "avg_salary_k": 5.19,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_YOHpQY",
+    "count": 665,
+    "avg_salary_k": 8.45,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_ZcPYrP",
+    "count": 385,
+    "avg_salary_k": 9.76,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_fFlUqG",
+    "count": 586,
+    "avg_salary_k": 6.79,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_lOdYUb",
+    "count": 1169,
+    "avg_salary_k": 7.93,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_lYwbWD",
+    "count": 521,
+    "avg_salary_k": 7.46,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_lwxCGv",
+    "count": 303,
+    "avg_salary_k": 7.37,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_qGLNuz",
+    "count": 589,
+    "avg_salary_k": 7.05,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_qhLBWb",
+    "count": 363,
+    "avg_salary_k": 7.67,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_qnHODO",
+    "count": 150,
+    "avg_salary_k": 9.19,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_qrSFSq",
+    "count": 613,
+    "avg_salary_k": 7.81,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "V932",
+    "company_type": "type_uTAWZv",
+    "count": 791,
+    "avg_salary_k": 6.36,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_vrMpBQ",
+    "count": 704,
+    "avg_salary_k": 7.16,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "V932",
+    "company_type": "type_yZblEo",
+    "count": 713,
+    "avg_salary_k": 8.56,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_BLfSmG",
+    "count": 1503,
+    "avg_salary_k": 15.94,
+    "median_salary_k": 12.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_BmzsHA",
+    "count": 380,
+    "avg_salary_k": 11.06,
+    "median_salary_k": 10.0
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_CbBLwi",
+    "count": 801,
+    "avg_salary_k": 13.52,
+    "median_salary_k": 12.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_HcIRlZ",
+    "count": 342,
+    "avg_salary_k": 8.68,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_HfjYoW",
+    "count": 398,
+    "avg_salary_k": 7.65,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_PCcrub",
+    "count": 414,
+    "avg_salary_k": 8.81,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_XqvUzw",
+    "count": 350,
+    "avg_salary_k": 5.62,
+    "median_salary_k": 5.0
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_YOHpQY",
+    "count": 440,
+    "avg_salary_k": 9.53,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_ZcPYrP",
+    "count": 517,
+    "avg_salary_k": 12.05,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_fFlUqG",
+    "count": 755,
+    "avg_salary_k": 8.6,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_lOdYUb",
+    "count": 924,
+    "avg_salary_k": 9.55,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_lYwbWD",
+    "count": 397,
+    "avg_salary_k": 8.47,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_lwxCGv",
+    "count": 181,
+    "avg_salary_k": 8.97,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_qGLNuz",
+    "count": 516,
+    "avg_salary_k": 8.45,
+    "median_salary_k": 6.62
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_qhLBWb",
+    "count": 330,
+    "avg_salary_k": 9.04,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_qnHODO",
+    "count": 157,
+    "avg_salary_k": 11.0,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_qrSFSq",
+    "count": 1529,
+    "avg_salary_k": 10.56,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_uTAWZv",
+    "count": 777,
+    "avg_salary_k": 6.58,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_vrMpBQ",
+    "count": 701,
+    "avg_salary_k": 8.59,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y232",
+    "company_type": "type_yZblEo",
+    "count": 609,
+    "avg_salary_k": 11.32,
+    "median_salary_k": 9.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_BLfSmG",
+    "count": 1443,
+    "avg_salary_k": 14.41,
+    "median_salary_k": 10.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_BmzsHA",
+    "count": 408,
+    "avg_salary_k": 10.09,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_CbBLwi",
+    "count": 1076,
+    "avg_salary_k": 13.07,
+    "median_salary_k": 11.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_HcIRlZ",
+    "count": 328,
+    "avg_salary_k": 8.22,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_HfjYoW",
+    "count": 435,
+    "avg_salary_k": 8.2,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_PCcrub",
+    "count": 551,
+    "avg_salary_k": 8.9,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_XqvUzw",
+    "count": 362,
+    "avg_salary_k": 5.41,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_YOHpQY",
+    "count": 485,
+    "avg_salary_k": 8.93,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_ZcPYrP",
+    "count": 396,
+    "avg_salary_k": 9.95,
+    "median_salary_k": 8.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_fFlUqG",
+    "count": 599,
+    "avg_salary_k": 8.06,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_lOdYUb",
+    "count": 868,
+    "avg_salary_k": 9.25,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_lYwbWD",
+    "count": 556,
+    "avg_salary_k": 8.14,
+    "median_salary_k": 7.0
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_lwxCGv",
+    "count": 301,
+    "avg_salary_k": 8.84,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_qGLNuz",
+    "count": 546,
+    "avg_salary_k": 7.68,
+    "median_salary_k": 6.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_qhLBWb",
+    "count": 476,
+    "avg_salary_k": 8.67,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_qnHODO",
+    "count": 106,
+    "avg_salary_k": 9.11,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_qrSFSq",
+    "count": 704,
+    "avg_salary_k": 8.89,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_uTAWZv",
+    "count": 809,
+    "avg_salary_k": 6.94,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_vrMpBQ",
+    "count": 280,
+    "avg_salary_k": 8.47,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Y633",
+    "company_type": "type_yZblEo",
+    "count": 619,
+    "avg_salary_k": 8.55,
+    "median_salary_k": 7.5
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_BLfSmG",
+    "count": 4,
+    "avg_salary_k": 5.0,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_BmzsHA",
+    "count": 1,
+    "avg_salary_k": 5.5,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_CbBLwi",
+    "count": 1,
+    "avg_salary_k": 8.0,
+    "median_salary_k": 8.0
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_HcIRlZ",
+    "count": 4,
+    "avg_salary_k": 4.88,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_HfjYoW",
+    "count": 11,
+    "avg_salary_k": 5.95,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_PCcrub",
+    "count": 10,
+    "avg_salary_k": 4.8,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_XqvUzw",
+    "count": 6,
+    "avg_salary_k": 3.92,
+    "median_salary_k": 3.75
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_YOHpQY",
+    "count": 19,
+    "avg_salary_k": 5.79,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_fFlUqG",
+    "count": 14,
+    "avg_salary_k": 4.86,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_lOdYUb",
+    "count": 32,
+    "avg_salary_k": 5.2,
+    "median_salary_k": 4.75
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_lYwbWD",
+    "count": 6,
+    "avg_salary_k": 4.58,
+    "median_salary_k": 3.75
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_lwxCGv",
+    "count": 2,
+    "avg_salary_k": 3.0,
+    "median_salary_k": 3.0
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_qGLNuz",
+    "count": 20,
+    "avg_salary_k": 5.72,
+    "median_salary_k": 5.75
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_qhLBWb",
+    "count": 9,
+    "avg_salary_k": 6.67,
+    "median_salary_k": 6.0
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_qnHODO",
+    "count": 11,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 5.5
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_qrSFSq",
+    "count": 13,
+    "avg_salary_k": 5.85,
+    "median_salary_k": 4.0
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_uTAWZv",
+    "count": 33,
+    "avg_salary_k": 3.95,
+    "median_salary_k": 3.5
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_vrMpBQ",
+    "count": 1,
+    "avg_salary_k": 4.5,
+    "median_salary_k": 4.5
+  },
+  {
+    "city": "Z490",
+    "company_type": "type_yZblEo",
+    "count": 12,
+    "avg_salary_k": 4.33,
+    "median_salary_k": 3.75
+  }
+]
