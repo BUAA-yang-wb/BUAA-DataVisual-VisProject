@@ -1,0 +1,82 @@
+[
+  {
+    "group": "EaZ",
+    "name": "EaZ",
+    "category": "EaZ",
+    "count": 3818,
+    "job_count": 3818,
+    "ratio": 0.0091,
+    "avg_salary_k": 24.86,
+    "median_salary_k": 18.5
+  },
+  {
+    "group": "EzN",
+    "name": "EzN",
+    "category": "EzN",
+    "count": 30034,
+    "job_count": 30034,
+    "ratio": 0.0713,
+    "avg_salary_k": 17.84,
+    "median_salary_k": 14.5
+  },
+  {
+    "group": "Eqh",
+    "name": "Eqh",
+    "category": "Eqh",
+    "count": 77688,
+    "job_count": 77688,
+    "ratio": 0.1845,
+    "avg_salary_k": 12.28,
+    "median_salary_k": 10.0
+  },
+  {
+    "group": "Eas",
+    "name": "Eas",
+    "category": "Eas",
+    "count": 137166,
+    "job_count": 137166,
+    "ratio": 0.3257,
+    "avg_salary_k": 8.38,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "Eby",
+    "name": "Eby",
+    "category": "Eby",
+    "count": 4945,
+    "job_count": 4945,
+    "ratio": 0.0117,
+    "avg_salary_k": 7.99,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "EdD",
+    "name": "EdD",
+    "category": "EdD",
+    "count": 143523,
+    "job_count": 143523,
+    "ratio": 0.3408,
+    "avg_salary_k": 7.64,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "EKk",
+    "name": "EKk",
+    "category": "EKk",
+    "count": 23930,
+    "job_count": 23930,
+    "ratio": 0.0568,
+    "avg_salary_k": 6.86,
+    "median_salary_k": 6.0
+  },
+  {
+    "group": "ESu",
+    "name": "ESu",
+    "category": "ESu",
+    "count": 56,
+    "job_count": 56,
+    "ratio": 0.0001,
+    "avg_salary_k": 3.32,
+    "median_salary_k": 3.0
+  }
+]

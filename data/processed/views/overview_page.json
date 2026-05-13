@@ -1,0 +1,6444 @@
+{
+  "kpi": {
+    "dataset": "JobWanted",
+    "raw_rows": 430664,
+    "cleaned_rows": 421160,
+    "job_count": 421160,
+    "city_count": 371,
+    "industry_count": 158,
+    "job_title_count": 165235,
+    "avg_salary_k": 9.58,
+    "median_salary_k": 7.5,
+    "retention_rate": 0.9779,
+    "unique_counts": {
+      "job_title": 165235,
+      "city": 371,
+      "experience": 8,
+      "education": 8,
+      "company": 263268,
+      "company_type": 158
+    },
+    "monthly_salary_k": {
+      "avg": 9.58,
+      "median": 7.5,
+      "q1": 5.5,
+      "q3": 10.5,
+      "min": 1.5,
+      "max": 255.0
+    },
+    "annual_salary_k": {
+      "avg": 118.52,
+      "median": 90.0,
+      "q1": 66.0,
+      "q3": 130.0,
+      "min": 18.0,
+      "max": 6120.0
+    },
+    "salary_level_distribution": {
+      "medium": 255265,
+      "high": 74497,
+      "low": 73740,
+      "very_high": 17658
+    },
+    "salary_bin_distribution": {
+      "5-8K": 153510,
+      "20-30K": 23314,
+      "8-12K": 101755,
+      "3-5K": 64510,
+      "12-20K": 56693,
+      "30K+": 12148,
+      "0-3K": 9230
+    }
+  },
+  "top_cities": [
+    {
+      "name": "F047",
+      "count": 24896,
+      "group": "F047",
+      "job_count": 24896,
+      "avg_salary_k": 14.66,
+      "median_salary_k": 11.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 7.5,
+      "salary_q3_k": 18.0,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 185.29,
+      "company_count": 18497,
+      "job_title_count": 13479,
+      "top_companies": [
+        {
+          "name": "company_390847",
+          "count": 127
+        },
+        {
+          "name": "company_207326",
+          "count": 69
+        },
+        {
+          "name": "company_907432",
+          "count": 69
+        },
+        {
+          "name": "company_679820",
+          "count": 66
+        },
+        {
+          "name": "company_639598",
+          "count": 57
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+          "count": 199
+        },
+        {
+          "name": "769db4ea593ce8f93a093a84ad1baec2OY",
+          "count": 160
+        },
+        {
+          "name": "63c630beb7b2f471af699f711207d28aVY",
+          "count": 156
+        },
+        {
+          "name": "39a3d2b8857c48c2443faeacf50ae574Xo",
+          "count": 145
+        },
+        {
+          "name": "0f788cd8169f5149bc519e585cf7148bGu",
+          "count": 130
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 24896
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 2436
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 1137
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 770
+        },
+        {
+          "name": "type_ZcPYrP",
+          "count": 768
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 743
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7405
+        },
+        {
+          "name": "EdD",
+          "count": 6579
+        },
+        {
+          "name": "Eqh",
+          "count": 6079
+        },
+        {
+          "name": "EzN",
+          "count": 3029
+        },
+        {
+          "name": "EKk",
+          "count": 994
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 11033
+        },
+        {
+          "name": "GI",
+          "count": 6282
+        },
+        {
+          "name": "GP",
+          "count": 4664
+        },
+        {
+          "name": "GZ",
+          "count": 982
+        },
+        {
+          "name": "Gy",
+          "count": 895
+        }
+      ]
+    },
+    {
+      "name": "P949",
+      "count": 24241,
+      "group": "P949",
+      "job_count": 24241,
+      "avg_salary_k": 13.19,
+      "median_salary_k": 10.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 7.5,
+      "salary_q3_k": 16.5,
+      "salary_max_k": 220.0,
+      "avg_annual_salary_k": 165.42,
+      "company_count": 18278,
+      "job_title_count": 12850,
+      "top_companies": [
+        {
+          "name": "company_678433",
+          "count": 125
+        },
+        {
+          "name": "company_118908",
+          "count": 52
+        },
+        {
+          "name": "company_877473",
+          "count": 47
+        },
+        {
+          "name": "company_648838",
+          "count": 45
+        },
+        {
+          "name": "company_390847",
+          "count": 41
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "357b6e22304e1fba993bb725e5c00276aY",
+          "count": 229
+        },
+        {
+          "name": "769db4ea593ce8f93a093a84ad1baec2OY",
+          "count": 170
+        },
+        {
+          "name": "143594a38184724594778ca447bc06fcwe",
+          "count": 160
+        },
+        {
+          "name": "09b8073e6d0a727247e9bbcf43f8e75avx",
+          "count": 145
+        },
+        {
+          "name": "da7d1b1ce8fde63a5808c65adc6968c9RH",
+          "count": 134
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "P949",
+          "count": 24241
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 1612
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 1443
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 921
+        },
+        {
+          "name": "type_IWPTYt",
+          "count": 738
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 716
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 8238
+        },
+        {
+          "name": "EdD",
+          "count": 6226
+        },
+        {
+          "name": "Eqh",
+          "count": 5626
+        },
+        {
+          "name": "EzN",
+          "count": 2410
+        },
+        {
+          "name": "EKk",
+          "count": 1184
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 8243
+        },
+        {
+          "name": "GI",
+          "count": 7763
+        },
+        {
+          "name": "GP",
+          "count": 5013
+        },
+        {
+          "name": "Gy",
+          "count": 1328
+        },
+        {
+          "name": "Go",
+          "count": 1150
+        }
+      ]
+    },
+    {
+      "name": "F379",
+      "count": 24117,
+      "group": "F379",
+      "job_count": 24117,
+      "avg_salary_k": 8.82,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.5,
+      "salary_max_k": 150.0,
+      "avg_annual_salary_k": 107.12,
+      "company_count": 16860,
+      "job_title_count": 14698,
+      "top_companies": [
+        {
+          "name": "company_519197",
+          "count": 59
+        },
+        {
+          "name": "company_594614",
+          "count": 28
+        },
+        {
+          "name": "company_142605",
+          "count": 28
+        },
+        {
+          "name": "company_263645",
+          "count": 25
+        },
+        {
+          "name": "company_938303",
+          "count": 24
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 198
+        },
+        {
+          "name": "09b8073e6d0a727247e9bbcf43f8e75avx",
+          "count": 115
+        },
+        {
+          "name": "c7f9349f001ec07fe76d0becea13a18azM",
+          "count": 110
+        },
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 87
+        },
+        {
+          "name": "0cf5da7bb05dfb15718653637b8df718vT",
+          "count": 86
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F379",
+          "count": 24117
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qrSFSq",
+          "count": 1354
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 1161
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 1131
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 894
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 892
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 8416
+        },
+        {
+          "name": "Eas",
+          "count": 8252
+        },
+        {
+          "name": "Eqh",
+          "count": 4022
+        },
+        {
+          "name": "EKk",
+          "count": 1597
+        },
+        {
+          "name": "EzN",
+          "count": 1401
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 9808
+        },
+        {
+          "name": "Gx",
+          "count": 6137
+        },
+        {
+          "name": "GP",
+          "count": 5357
+        },
+        {
+          "name": "Gy",
+          "count": 1157
+        },
+        {
+          "name": "Go",
+          "count": 1099
+        }
+      ]
+    },
+    {
+      "name": "Y232",
+      "count": 23805,
+      "group": "Y232",
+      "job_count": 23805,
+      "avg_salary_k": 10.55,
+      "median_salary_k": 8.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.0,
+      "salary_q3_k": 12.5,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 130.83,
+      "company_count": 17719,
+      "job_title_count": 12923,
+      "top_companies": [
+        {
+          "name": "company_812446",
+          "count": 43
+        },
+        {
+          "name": "company_008897",
+          "count": 34
+        },
+        {
+          "name": "company_610845",
+          "count": 29
+        },
+        {
+          "name": "company_839733",
+          "count": 29
+        },
+        {
+          "name": "company_537241",
+          "count": 27
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "77f94afcb944fea2069092a4c92bab1fzk",
+          "count": 284
+        },
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 219
+        },
+        {
+          "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+          "count": 210
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 170
+        },
+        {
+          "name": "357b6e22304e1fba993bb725e5c00276aY",
+          "count": 167
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "Y232",
+          "count": 23805
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qrSFSq",
+          "count": 1529
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 1503
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 924
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 801
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 777
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 8327
+        },
+        {
+          "name": "EdD",
+          "count": 6880
+        },
+        {
+          "name": "Eqh",
+          "count": 4864
+        },
+        {
+          "name": "EzN",
+          "count": 1820
+        },
+        {
+          "name": "EKk",
+          "count": 1419
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 8351
+        },
+        {
+          "name": "Gx",
+          "count": 6420
+        },
+        {
+          "name": "GP",
+          "count": 5634
+        },
+        {
+          "name": "Gy",
+          "count": 1814
+        },
+        {
+          "name": "Go",
+          "count": 930
+        }
+      ]
+    },
+    {
+      "name": "K115",
+      "count": 23721,
+      "group": "K115",
+      "job_count": 23721,
+      "avg_salary_k": 14.33,
+      "median_salary_k": 11.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 8.0,
+      "salary_q3_k": 17.5,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 181.34,
+      "company_count": 17671,
+      "job_title_count": 12657,
+      "top_companies": [
+        {
+          "name": "company_390847",
+          "count": 50
+        },
+        {
+          "name": "company_839733",
+          "count": 44
+        },
+        {
+          "name": "company_839289",
+          "count": 39
+        },
+        {
+          "name": "company_268950",
+          "count": 36
+        },
+        {
+          "name": "company_619938",
+          "count": 33
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 275
+        },
+        {
+          "name": "63c630beb7b2f471af699f711207d28aVY",
+          "count": 215
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 207
+        },
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 184
+        },
+        {
+          "name": "39a3d2b8857c48c2443faeacf50ae574Xo",
+          "count": 180
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "K115",
+          "count": 23721
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 1519
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 993
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 964
+        },
+        {
+          "name": "type_HfjYoW",
+          "count": 828
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 792
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7468
+        },
+        {
+          "name": "EdD",
+          "count": 6336
+        },
+        {
+          "name": "Eqh",
+          "count": 5656
+        },
+        {
+          "name": "EzN",
+          "count": 2628
+        },
+        {
+          "name": "EKk",
+          "count": 960
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 9736
+        },
+        {
+          "name": "GI",
+          "count": 7006
+        },
+        {
+          "name": "GP",
+          "count": 4108
+        },
+        {
+          "name": "Gy",
+          "count": 1076
+        },
+        {
+          "name": "Go",
+          "count": 825
+        }
+      ]
+    },
+    {
+      "name": "B170",
+      "count": 23221,
+      "group": "B170",
+      "job_count": 23221,
+      "avg_salary_k": 12.15,
+      "median_salary_k": 9.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 7.0,
+      "salary_q3_k": 14.0,
+      "salary_max_k": 105.0,
+      "avg_annual_salary_k": 152.72,
+      "company_count": 16431,
+      "job_title_count": 12150,
+      "top_companies": [
+        {
+          "name": "company_802784",
+          "count": 130
+        },
+        {
+          "name": "company_623498",
+          "count": 89
+        },
+        {
+          "name": "company_390847",
+          "count": 62
+        },
+        {
+          "name": "company_648838",
+          "count": 46
+        },
+        {
+          "name": "company_227658",
+          "count": 46
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 315
+        },
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 310
+        },
+        {
+          "name": "77f94afcb944fea2069092a4c92bab1fzk",
+          "count": 177
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 163
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 154
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "B170",
+          "count": 23221
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qrSFSq",
+          "count": 1749
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 1745
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 861
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 816
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 767
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7740
+        },
+        {
+          "name": "EdD",
+          "count": 6610
+        },
+        {
+          "name": "Eqh",
+          "count": 5201
+        },
+        {
+          "name": "EzN",
+          "count": 2077
+        },
+        {
+          "name": "EKk",
+          "count": 1040
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 8485
+        },
+        {
+          "name": "GI",
+          "count": 7569
+        },
+        {
+          "name": "GP",
+          "count": 4560
+        },
+        {
+          "name": "Go",
+          "count": 1017
+        },
+        {
+          "name": "Gy",
+          "count": 825
+        }
+      ]
+    },
+    {
+      "name": "Y633",
+      "count": 23167,
+      "group": "Y633",
+      "job_count": 23167,
+      "avg_salary_k": 9.92,
+      "median_salary_k": 8.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.0,
+      "salary_q3_k": 11.5,
+      "salary_max_k": 150.0,
+      "avg_annual_salary_k": 122.86,
+      "company_count": 16995,
+      "job_title_count": 13619,
+      "top_companies": [
+        {
+          "name": "company_907432",
+          "count": 65
+        },
+        {
+          "name": "company_645672",
+          "count": 42
+        },
+        {
+          "name": "company_891208",
+          "count": 42
+        },
+        {
+          "name": "company_236847",
+          "count": 39
+        },
+        {
+          "name": "company_648838",
+          "count": 31
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+          "count": 219
+        },
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 179
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 168
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 138
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 132
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "Y633",
+          "count": 23167
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 1443
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 1076
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 868
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 809
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 704
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7599
+        },
+        {
+          "name": "EdD",
+          "count": 7095
+        },
+        {
+          "name": "Eqh",
+          "count": 4944
+        },
+        {
+          "name": "EzN",
+          "count": 1896
+        },
+        {
+          "name": "EKk",
+          "count": 1150
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 8448
+        },
+        {
+          "name": "Gx",
+          "count": 7304
+        },
+        {
+          "name": "GP",
+          "count": 4720
+        },
+        {
+          "name": "Gy",
+          "count": 1020
+        },
+        {
+          "name": "Go",
+          "count": 997
+        }
+      ]
+    },
+    {
+      "name": "O198",
+      "count": 22545,
+      "group": "O198",
+      "job_count": 22545,
+      "avg_salary_k": 8.45,
+      "median_salary_k": 7.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.0,
+      "salary_max_k": 215.0,
+      "avg_annual_salary_k": 103.57,
+      "company_count": 16444,
+      "job_title_count": 11769,
+      "top_companies": [
+        {
+          "name": "company_648838",
+          "count": 80
+        },
+        {
+          "name": "company_596988",
+          "count": 70
+        },
+        {
+          "name": "company_678433",
+          "count": 50
+        },
+        {
+          "name": "company_463427",
+          "count": 39
+        },
+        {
+          "name": "company_239887",
+          "count": 32
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "b33302c688b04656f05d2a96c98e14c8cK",
+          "count": 195
+        },
+        {
+          "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+          "count": 163
+        },
+        {
+          "name": "74cbfa3620bb69031ebe4050585bd896uh",
+          "count": 133
+        },
+        {
+          "name": "0cf5da7bb05dfb15718653637b8df718vT",
+          "count": 132
+        },
+        {
+          "name": "b7b03ffc6f8bd9f3c81fcca8bf3d3edbkH",
+          "count": 121
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "O198",
+          "count": 22545
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_CbBLwi",
+          "count": 1106
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 974
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 887
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 808
+        },
+        {
+          "name": "type_qGLNuz",
+          "count": 743
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7558
+        },
+        {
+          "name": "EdD",
+          "count": 7404
+        },
+        {
+          "name": "Eqh",
+          "count": 4275
+        },
+        {
+          "name": "EzN",
+          "count": 1577
+        },
+        {
+          "name": "EKk",
+          "count": 1266
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7832
+        },
+        {
+          "name": "Gx",
+          "count": 6875
+        },
+        {
+          "name": "GP",
+          "count": 5327
+        },
+        {
+          "name": "Go",
+          "count": 992
+        },
+        {
+          "name": "Gy",
+          "count": 863
+        }
+      ]
+    },
+    {
+      "name": "N806",
+      "count": 22544,
+      "group": "N806",
+      "job_count": 22544,
+      "avg_salary_k": 10.46,
+      "median_salary_k": 8.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.5,
+      "salary_q3_k": 12.5,
+      "salary_max_k": 210.0,
+      "avg_annual_salary_k": 129.94,
+      "company_count": 16323,
+      "job_title_count": 11224,
+      "top_companies": [
+        {
+          "name": "company_484930",
+          "count": 55
+        },
+        {
+          "name": "company_425264",
+          "count": 45
+        },
+        {
+          "name": "company_268950",
+          "count": 39
+        },
+        {
+          "name": "company_648838",
+          "count": 33
+        },
+        {
+          "name": "company_769794",
+          "count": 28
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 192
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 189
+        },
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 167
+        },
+        {
+          "name": "0cb8293fae46fb1f84b1f68d2371dc3bLQ",
+          "count": 161
+        },
+        {
+          "name": "39a3d2b8857c48c2443faeacf50ae574Xo",
+          "count": 143
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "N806",
+          "count": 22544
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lOdYUb",
+          "count": 1077
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 939
+        },
+        {
+          "name": "type_HcIRlZ",
+          "count": 852
+        },
+        {
+          "name": "type_yZblEo",
+          "count": 800
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 793
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7478
+        },
+        {
+          "name": "EdD",
+          "count": 7206
+        },
+        {
+          "name": "Eqh",
+          "count": 4392
+        },
+        {
+          "name": "EzN",
+          "count": 1813
+        },
+        {
+          "name": "EKk",
+          "count": 1176
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7756
+        },
+        {
+          "name": "Gx",
+          "count": 6633
+        },
+        {
+          "name": "GP",
+          "count": 5056
+        },
+        {
+          "name": "Gy",
+          "count": 1362
+        },
+        {
+          "name": "Go",
+          "count": 1018
+        }
+      ]
+    },
+    {
+      "name": "S959",
+      "count": 21907,
+      "group": "S959",
+      "job_count": 21907,
+      "avg_salary_k": 9.06,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.0,
+      "salary_q3_k": 10.5,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 111.86,
+      "company_count": 15010,
+      "job_title_count": 11140,
+      "top_companies": [
+        {
+          "name": "company_844340",
+          "count": 28
+        },
+        {
+          "name": "company_739142",
+          "count": 25
+        },
+        {
+          "name": "company_072626",
+          "count": 25
+        },
+        {
+          "name": "company_420040",
+          "count": 22
+        },
+        {
+          "name": "company_896513",
+          "count": 21
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 332
+        },
+        {
+          "name": "769db4ea593ce8f93a093a84ad1baec2OY",
+          "count": 189
+        },
+        {
+          "name": "534952ab1cf024773caddc874099da11qn",
+          "count": 154
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 143
+        },
+        {
+          "name": "c7f9349f001ec07fe76d0becea13a18azM",
+          "count": 127
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "S959",
+          "count": 21907
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qrSFSq",
+          "count": 1288
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 1104
+        },
+        {
+          "name": "type_vrMpBQ",
+          "count": 842
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 804
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 737
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7485
+        },
+        {
+          "name": "EdD",
+          "count": 7166
+        },
+        {
+          "name": "Eqh",
+          "count": 4108
+        },
+        {
+          "name": "EzN",
+          "count": 1480
+        },
+        {
+          "name": "EKk",
+          "count": 1194
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7522
+        },
+        {
+          "name": "Gx",
+          "count": 6202
+        },
+        {
+          "name": "GP",
+          "count": 5209
+        },
+        {
+          "name": "Gy",
+          "count": 1598
+        },
+        {
+          "name": "Go",
+          "count": 795
+        }
+      ]
+    },
+    {
+      "name": "R892",
+      "count": 21838,
+      "group": "R892",
+      "job_count": 21838,
+      "avg_salary_k": 9.12,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.5,
+      "salary_max_k": 205.0,
+      "avg_annual_salary_k": 112.24,
+      "company_count": 14939,
+      "job_title_count": 11906,
+      "top_companies": [
+        {
+          "name": "company_635276",
+          "count": 44
+        },
+        {
+          "name": "company_629798",
+          "count": 39
+        },
+        {
+          "name": "company_329473",
+          "count": 32
+        },
+        {
+          "name": "company_491944",
+          "count": 32
+        },
+        {
+          "name": "company_351954",
+          "count": 27
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 179
+        },
+        {
+          "name": "3896ac0c41340ac06686eb161a775aa6kx",
+          "count": 163
+        },
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 157
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 153
+        },
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 111
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "R892",
+          "count": 21838
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qrSFSq",
+          "count": 1126
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 989
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 980
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 906
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 807
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 7144
+        },
+        {
+          "name": "EdD",
+          "count": 6735
+        },
+        {
+          "name": "Eqh",
+          "count": 4517
+        },
+        {
+          "name": "EzN",
+          "count": 1828
+        },
+        {
+          "name": "EKk",
+          "count": 1137
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7757
+        },
+        {
+          "name": "Gx",
+          "count": 6317
+        },
+        {
+          "name": "GP",
+          "count": 5245
+        },
+        {
+          "name": "Gy",
+          "count": 1007
+        },
+        {
+          "name": "Go",
+          "count": 857
+        }
+      ]
+    },
+    {
+      "name": "S542",
+      "count": 21733,
+      "group": "S542",
+      "job_count": 21733,
+      "avg_salary_k": 9.75,
+      "median_salary_k": 8.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.0,
+      "salary_q3_k": 11.0,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 120.68,
+      "company_count": 14912,
+      "job_title_count": 11964,
+      "top_companies": [
+        {
+          "name": "company_678433",
+          "count": 62
+        },
+        {
+          "name": "company_119643",
+          "count": 32
+        },
+        {
+          "name": "company_658637",
+          "count": 31
+        },
+        {
+          "name": "company_673639",
+          "count": 30
+        },
+        {
+          "name": "company_907432",
+          "count": 30
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 194
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 193
+        },
+        {
+          "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+          "count": 171
+        },
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 137
+        },
+        {
+          "name": "3896ac0c41340ac06686eb161a775aa6kx",
+          "count": 136
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "S542",
+          "count": 21733
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 1300
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 967
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 870
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 726
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 686
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 6986
+        },
+        {
+          "name": "EdD",
+          "count": 6895
+        },
+        {
+          "name": "Eqh",
+          "count": 4430
+        },
+        {
+          "name": "EzN",
+          "count": 1744
+        },
+        {
+          "name": "EKk",
+          "count": 1140
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7728
+        },
+        {
+          "name": "Gx",
+          "count": 6648
+        },
+        {
+          "name": "GP",
+          "count": 4787
+        },
+        {
+          "name": "Gy",
+          "count": 960
+        },
+        {
+          "name": "Go",
+          "count": 822
+        }
+      ]
+    },
+    {
+      "name": "V449",
+      "count": 21681,
+      "group": "V449",
+      "job_count": 21681,
+      "avg_salary_k": 8.73,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.0,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 106.83,
+      "company_count": 15605,
+      "job_title_count": 11203,
+      "top_companies": [
+        {
+          "name": "company_396394",
+          "count": 42
+        },
+        {
+          "name": "company_346777",
+          "count": 27
+        },
+        {
+          "name": "company_658637",
+          "count": 25
+        },
+        {
+          "name": "company_907432",
+          "count": 25
+        },
+        {
+          "name": "company_243875",
+          "count": 22
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 314
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 178
+        },
+        {
+          "name": "0cf5da7bb05dfb15718653637b8df718vT",
+          "count": 134
+        },
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 117
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 114
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "V449",
+          "count": 21681
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lOdYUb",
+          "count": 1051
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 1044
+        },
+        {
+          "name": "type_yZblEo",
+          "count": 1022
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 934
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 750
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 6994
+        },
+        {
+          "name": "EdD",
+          "count": 6946
+        },
+        {
+          "name": "Eqh",
+          "count": 4475
+        },
+        {
+          "name": "EzN",
+          "count": 1703
+        },
+        {
+          "name": "EKk",
+          "count": 1090
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7235
+        },
+        {
+          "name": "Gx",
+          "count": 5863
+        },
+        {
+          "name": "GP",
+          "count": 5764
+        },
+        {
+          "name": "Go",
+          "count": 1198
+        },
+        {
+          "name": "Gy",
+          "count": 1084
+        }
+      ]
+    },
+    {
+      "name": "V932",
+      "count": 21626,
+      "group": "V932",
+      "job_count": 21626,
+      "avg_salary_k": 8.33,
+      "median_salary_k": 7.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 9.5,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 101.51,
+      "company_count": 15071,
+      "job_title_count": 11273,
+      "top_companies": [
+        {
+          "name": "company_074282",
+          "count": 35
+        },
+        {
+          "name": "company_639598",
+          "count": 28
+        },
+        {
+          "name": "company_491944",
+          "count": 28
+        },
+        {
+          "name": "company_362699",
+          "count": 26
+        },
+        {
+          "name": "company_448521",
+          "count": 21
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 179
+        },
+        {
+          "name": "357b6e22304e1fba993bb725e5c00276aY",
+          "count": 162
+        },
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 154
+        },
+        {
+          "name": "534952ab1cf024773caddc874099da11qn",
+          "count": 154
+        },
+        {
+          "name": "d26737bff980339cf372392e773fb063Es",
+          "count": 134
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "V932",
+          "count": 21626
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lOdYUb",
+          "count": 1169
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 864
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 791
+        },
+        {
+          "name": "type_yZblEo",
+          "count": 713
+        },
+        {
+          "name": "type_vrMpBQ",
+          "count": 704
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 7376
+        },
+        {
+          "name": "Eas",
+          "count": 7175
+        },
+        {
+          "name": "Eqh",
+          "count": 3897
+        },
+        {
+          "name": "EzN",
+          "count": 1365
+        },
+        {
+          "name": "EKk",
+          "count": 1233
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7324
+        },
+        {
+          "name": "Gx",
+          "count": 6732
+        },
+        {
+          "name": "GP",
+          "count": 5144
+        },
+        {
+          "name": "Gy",
+          "count": 991
+        },
+        {
+          "name": "Go",
+          "count": 713
+        }
+      ]
+    },
+    {
+      "name": "D022",
+      "count": 580,
+      "group": "D022",
+      "job_count": 580,
+      "avg_salary_k": 5.96,
+      "median_salary_k": 5.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 3.5,
+      "salary_q3_k": 7.0,
+      "salary_max_k": 105.0,
+      "avg_annual_salary_k": 71.79,
+      "company_count": 577,
+      "job_title_count": 509,
+      "top_companies": [
+        {
+          "name": "company_572004",
+          "count": 3
+        },
+        {
+          "name": "company_532090",
+          "count": 2
+        },
+        {
+          "name": "company_192440",
+          "count": 1
+        },
+        {
+          "name": "company_161367",
+          "count": 1
+        },
+        {
+          "name": "company_655498",
+          "count": 1
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 7
+        },
+        {
+          "name": "e089e2787ca1f2cd11abb5b5b46da777eD",
+          "count": 6
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 5
+        },
+        {
+          "name": "39a3d2b8857c48c2443faeacf50ae574Xo",
+          "count": 5
+        },
+        {
+          "name": "65e915067ec7ca2082c1bfc73ffbc06bhv",
+          "count": 5
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "D022",
+          "count": 580
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lOdYUb",
+          "count": 51
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 50
+        },
+        {
+          "name": "type_YOHpQY",
+          "count": 30
+        },
+        {
+          "name": "type_qGLNuz",
+          "count": 27
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 26
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 275
+        },
+        {
+          "name": "Eas",
+          "count": 160
+        },
+        {
+          "name": "Eqh",
+          "count": 82
+        },
+        {
+          "name": "EKk",
+          "count": 39
+        },
+        {
+          "name": "EzN",
+          "count": 19
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 227
+        },
+        {
+          "name": "GI",
+          "count": 183
+        },
+        {
+          "name": "Gx",
+          "count": 77
+        },
+        {
+          "name": "Go",
+          "count": 49
+        },
+        {
+          "name": "Gy",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "name": "D090",
+      "count": 576,
+      "group": "D090",
+      "job_count": 576,
+      "avg_salary_k": 6.12,
+      "median_salary_k": 5.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 4.0,
+      "salary_q3_k": 7.5,
+      "salary_max_k": 97.5,
+      "avg_annual_salary_k": 73.91,
+      "company_count": 573,
+      "job_title_count": 487,
+      "top_companies": [
+        {
+          "name": "company_667392",
+          "count": 3
+        },
+        {
+          "name": "company_236826",
+          "count": 2
+        },
+        {
+          "name": "company_004630",
+          "count": 1
+        },
+        {
+          "name": "company_651390",
+          "count": 1
+        },
+        {
+          "name": "company_959935",
+          "count": 1
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 8
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 6
+        },
+        {
+          "name": "efaa2b8bd2a6b5ba1400b8f9d5a4c302ub",
+          "count": 5
+        },
+        {
+          "name": "e089e2787ca1f2cd11abb5b5b46da777eD",
+          "count": 5
+        },
+        {
+          "name": "05d9a76c5a623f203c71cc1de9c33348Dn",
+          "count": 4
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "D090",
+          "count": 576
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_uTAWZv",
+          "count": 50
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 50
+        },
+        {
+          "name": "type_qGLNuz",
+          "count": 26
+        },
+        {
+          "name": "type_qnHODO",
+          "count": 26
+        },
+        {
+          "name": "type_PCcrub",
+          "count": 24
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 262
+        },
+        {
+          "name": "Eas",
+          "count": 173
+        },
+        {
+          "name": "Eqh",
+          "count": 71
+        },
+        {
+          "name": "EKk",
+          "count": 42
+        },
+        {
+          "name": "EzN",
+          "count": 22
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 245
+        },
+        {
+          "name": "GI",
+          "count": 151
+        },
+        {
+          "name": "Gx",
+          "count": 59
+        },
+        {
+          "name": "Go",
+          "count": 55
+        },
+        {
+          "name": "Gy",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "name": "K445",
+      "count": 576,
+      "group": "K445",
+      "job_count": 576,
+      "avg_salary_k": 8.17,
+      "median_salary_k": 7.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 9.62,
+      "salary_max_k": 37.5,
+      "avg_annual_salary_k": 100.07,
+      "company_count": 555,
+      "job_title_count": 514,
+      "top_companies": [
+        {
+          "name": "company_398764",
+          "count": 4
+        },
+        {
+          "name": "company_964822",
+          "count": 3
+        },
+        {
+          "name": "company_623498",
+          "count": 2
+        },
+        {
+          "name": "company_645672",
+          "count": 2
+        },
+        {
+          "name": "company_660581",
+          "count": 2
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bacd30a8f578d3c3f4e75bd227af5fa5qw",
+          "count": 8
+        },
+        {
+          "name": "65e915067ec7ca2082c1bfc73ffbc06bhv",
+          "count": 5
+        },
+        {
+          "name": "6292a42c05f74c711d56841848419638XR",
+          "count": 5
+        },
+        {
+          "name": "80f72adabe9617c7364a0a330988d78aJu",
+          "count": 5
+        },
+        {
+          "name": "0ec4e07e7a9a40dba5554f0ca096a61eza",
+          "count": 4
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "K445",
+          "count": 576
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_CbBLwi",
+          "count": 52
+        },
+        {
+          "name": "type_BLfSmG",
+          "count": 38
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 30
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 28
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 25
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 191
+        },
+        {
+          "name": "EdD",
+          "count": 176
+        },
+        {
+          "name": "Eqh",
+          "count": 122
+        },
+        {
+          "name": "EKk",
+          "count": 41
+        },
+        {
+          "name": "EzN",
+          "count": 32
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 262
+        },
+        {
+          "name": "Gx",
+          "count": 150
+        },
+        {
+          "name": "GP",
+          "count": 118
+        },
+        {
+          "name": "Gy",
+          "count": 18
+        },
+        {
+          "name": "Go",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "name": "A802",
+      "count": 517,
+      "group": "A802",
+      "job_count": 517,
+      "avg_salary_k": 6.0,
+      "median_salary_k": 5.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 3.5,
+      "salary_q3_k": 6.5,
+      "salary_max_k": 55.0,
+      "avg_annual_salary_k": 72.14,
+      "company_count": 330,
+      "job_title_count": 449,
+      "top_companies": [
+        {
+          "name": "company_000705",
+          "count": 9
+        },
+        {
+          "name": "company_484710",
+          "count": 6
+        },
+        {
+          "name": "company_134706",
+          "count": 6
+        },
+        {
+          "name": "company_828396",
+          "count": 5
+        },
+        {
+          "name": "company_300702",
+          "count": 5
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 12
+        },
+        {
+          "name": "efaa2b8bd2a6b5ba1400b8f9d5a4c302ub",
+          "count": 11
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 7
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 6
+        },
+        {
+          "name": "1647ffac32b2f51cfbe51f4150246471lB",
+          "count": 5
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "A802",
+          "count": 517
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_uTAWZv",
+          "count": 48
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 31
+        },
+        {
+          "name": "type_xKVDuy",
+          "count": 29
+        },
+        {
+          "name": "type_lYwbWD",
+          "count": 25
+        },
+        {
+          "name": "type_lwxCGv",
+          "count": 24
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 243
+        },
+        {
+          "name": "Eas",
+          "count": 154
+        },
+        {
+          "name": "Eqh",
+          "count": 55
+        },
+        {
+          "name": "EKk",
+          "count": 38
+        },
+        {
+          "name": "EzN",
+          "count": 18
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 217
+        },
+        {
+          "name": "GI",
+          "count": 147
+        },
+        {
+          "name": "Gy",
+          "count": 63
+        },
+        {
+          "name": "Gx",
+          "count": 49
+        },
+        {
+          "name": "Go",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "name": "P050",
+      "count": 298,
+      "group": "P050",
+      "job_count": 298,
+      "avg_salary_k": 6.7,
+      "median_salary_k": 5.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 4.5,
+      "salary_q3_k": 7.5,
+      "salary_max_k": 45.0,
+      "avg_annual_salary_k": 81.03,
+      "company_count": 297,
+      "job_title_count": 285,
+      "top_companies": [
+        {
+          "name": "company_441191",
+          "count": 2
+        },
+        {
+          "name": "company_163432",
+          "count": 1
+        },
+        {
+          "name": "company_161512",
+          "count": 1
+        },
+        {
+          "name": "company_126443",
+          "count": 1
+        },
+        {
+          "name": "company_277135",
+          "count": 1
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "eb8a50987da12c63d9024b6ef24caa5aYA",
+          "count": 3
+        },
+        {
+          "name": "47014087ab1fb9d0bb91edb686a4c3d6os",
+          "count": 2
+        },
+        {
+          "name": "6951495c1941499b294fcec5f33cd242wQ",
+          "count": 2
+        },
+        {
+          "name": "bbcabd906c897c99703fe4656eaeb194FP",
+          "count": 2
+        },
+        {
+          "name": "27f47548bbd20caa944a21950bb3fbb7pq",
+          "count": 2
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "P050",
+          "count": 298
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lOdYUb",
+          "count": 27
+        },
+        {
+          "name": "type_yZblEo",
+          "count": 24
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 14
+        },
+        {
+          "name": "type_qhLBWb",
+          "count": 13
+        },
+        {
+          "name": "type_YOHpQY",
+          "count": 12
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 118
+        },
+        {
+          "name": "Eas",
+          "count": 91
+        },
+        {
+          "name": "Eqh",
+          "count": 51
+        },
+        {
+          "name": "EzN",
+          "count": 15
+        },
+        {
+          "name": "EKk",
+          "count": 15
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 117
+        },
+        {
+          "name": "GI",
+          "count": 74
+        },
+        {
+          "name": "Gx",
+          "count": 64
+        },
+        {
+          "name": "Go",
+          "count": 19
+        },
+        {
+          "name": "Gy",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "name": "D575",
+      "count": 297,
+      "group": "D575",
+      "job_count": 297,
+      "avg_salary_k": 7.97,
+      "median_salary_k": 7.0,
+      "salary_min_k": 2.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 9.5,
+      "salary_max_k": 30.5,
+      "avg_annual_salary_k": 96.32,
+      "company_count": 297,
+      "job_title_count": 280,
+      "top_companies": [
+        {
+          "name": "company_602200",
+          "count": 1
+        },
+        {
+          "name": "company_798263",
+          "count": 1
+        },
+        {
+          "name": "company_212798",
+          "count": 1
+        },
+        {
+          "name": "company_456681",
+          "count": 1
+        },
+        {
+          "name": "company_181028",
+          "count": 1
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "e089e2787ca1f2cd11abb5b5b46da777eD",
+          "count": 4
+        },
+        {
+          "name": "fccbcaf14d864a85a3b0ea2edec17fc6dj",
+          "count": 2
+        },
+        {
+          "name": "0585ac2c56958c9ad1fba246cefef5bcvJ",
+          "count": 2
+        },
+        {
+          "name": "98f596d8e7099152084811ab6c3ddb3fbc",
+          "count": 2
+        },
+        {
+          "name": "d5483194d58df66a5fc42c069ee4fe2axN",
+          "count": 2
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "D575",
+          "count": 297
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qrSFSq",
+          "count": 55
+        },
+        {
+          "name": "type_vrMpBQ",
+          "count": 18
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 16
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 15
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 14
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 128
+        },
+        {
+          "name": "Eas",
+          "count": 108
+        },
+        {
+          "name": "Eqh",
+          "count": 33
+        },
+        {
+          "name": "EKk",
+          "count": 15
+        },
+        {
+          "name": "EzN",
+          "count": 9
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 130
+        },
+        {
+          "name": "GI",
+          "count": 86
+        },
+        {
+          "name": "Go",
+          "count": 31
+        },
+        {
+          "name": "Gx",
+          "count": 26
+        },
+        {
+          "name": "Gy",
+          "count": 16
+        }
+      ]
+    }
+  ],
+  "top_industries": [
+    {
+      "name": "type_BLfSmG",
+      "count": 20676,
+      "group": "type_BLfSmG",
+      "job_count": 20676,
+      "avg_salary_k": 15.43,
+      "median_salary_k": 11.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 7.5,
+      "salary_q3_k": 20.0,
+      "salary_max_k": 175.0,
+      "avg_annual_salary_k": 200.54,
+      "company_count": 9274,
+      "job_title_count": 13261,
+      "top_companies": [
+        {
+          "name": "company_907432",
+          "count": 434
+        },
+        {
+          "name": "company_678433",
+          "count": 356
+        },
+        {
+          "name": "company_802784",
+          "count": 278
+        },
+        {
+          "name": "company_639598",
+          "count": 225
+        },
+        {
+          "name": "company_623498",
+          "count": 199
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 330
+        },
+        {
+          "name": "0f788cd8169f5149bc519e585cf7148bGu",
+          "count": 128
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 123
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 104
+        },
+        {
+          "name": "84dbdf56ea2df1cb575a5e9ade6867f7QS",
+          "count": 103
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 2436
+        },
+        {
+          "name": "B170",
+          "count": 1745
+        },
+        {
+          "name": "P949",
+          "count": 1612
+        },
+        {
+          "name": "K115",
+          "count": 1519
+        },
+        {
+          "name": "Y232",
+          "count": 1503
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 20676
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 5722
+        },
+        {
+          "name": "EdD",
+          "count": 5484
+        },
+        {
+          "name": "Eqh",
+          "count": 5467
+        },
+        {
+          "name": "EzN",
+          "count": 2625
+        },
+        {
+          "name": "EKk",
+          "count": 810
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 10336
+        },
+        {
+          "name": "GI",
+          "count": 6060
+        },
+        {
+          "name": "GP",
+          "count": 2931
+        },
+        {
+          "name": "Go",
+          "count": 424
+        },
+        {
+          "name": "GZ",
+          "count": 419
+        }
+      ]
+    },
+    {
+      "name": "type_lOdYUb",
+      "count": 20039,
+      "group": "type_lOdYUb",
+      "job_count": 20039,
+      "avg_salary_k": 8.14,
+      "median_salary_k": 7.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 9.5,
+      "salary_max_k": 140.0,
+      "avg_annual_salary_k": 98.3,
+      "company_count": 16037,
+      "job_title_count": 7889,
+      "top_companies": [
+        {
+          "name": "company_804729",
+          "count": 43
+        },
+        {
+          "name": "company_994269",
+          "count": 37
+        },
+        {
+          "name": "company_254315",
+          "count": 28
+        },
+        {
+          "name": "company_387751",
+          "count": 28
+        },
+        {
+          "name": "company_742862",
+          "count": 27
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 1340
+        },
+        {
+          "name": "cf8025d88a7ef18800686dbd36ecfae1dF",
+          "count": 735
+        },
+        {
+          "name": "cdb6e01527a77d5a9878138b46dedd99uS",
+          "count": 460
+        },
+        {
+          "name": "4ec8f9d51f30f104abab956fde878822iH",
+          "count": 336
+        },
+        {
+          "name": "9e483e0aa193b102b1d1ebce0bd7d21eRK",
+          "count": 325
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "V932",
+          "count": 1169
+        },
+        {
+          "name": "F379",
+          "count": 1131
+        },
+        {
+          "name": "N806",
+          "count": 1077
+        },
+        {
+          "name": "V449",
+          "count": 1051
+        },
+        {
+          "name": "R892",
+          "count": 980
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lOdYUb",
+          "count": 20039
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 8005
+        },
+        {
+          "name": "EdD",
+          "count": 7779
+        },
+        {
+          "name": "Eqh",
+          "count": 1977
+        },
+        {
+          "name": "EKk",
+          "count": 1547
+        },
+        {
+          "name": "EzN",
+          "count": 404
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 8536
+        },
+        {
+          "name": "Gx",
+          "count": 7120
+        },
+        {
+          "name": "GP",
+          "count": 2806
+        },
+        {
+          "name": "Go",
+          "count": 638
+        },
+        {
+          "name": "Gy",
+          "count": 542
+        }
+      ]
+    },
+    {
+      "name": "type_uTAWZv",
+      "count": 19185,
+      "group": "type_uTAWZv",
+      "job_count": 19185,
+      "avg_salary_k": 5.92,
+      "median_salary_k": 5.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 4.0,
+      "salary_q3_k": 6.5,
+      "salary_max_k": 125.0,
+      "avg_annual_salary_k": 71.37,
+      "company_count": 16322,
+      "job_title_count": 14002,
+      "top_companies": [
+        {
+          "name": "company_305594",
+          "count": 31
+        },
+        {
+          "name": "company_081195",
+          "count": 26
+        },
+        {
+          "name": "company_287912",
+          "count": 24
+        },
+        {
+          "name": "company_847719",
+          "count": 22
+        },
+        {
+          "name": "company_004667",
+          "count": 22
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "31e5c65f17292fdded6dd7f7d7622e5ddi",
+          "count": 702
+        },
+        {
+          "name": "f2e6829d748c302d87e88ace1380377asz",
+          "count": 228
+        },
+        {
+          "name": "1107303ead66d03430a510dee038c7b1uo",
+          "count": 195
+        },
+        {
+          "name": "3b3a3a0a692d7e19f03e60e4568afb4cCc",
+          "count": 183
+        },
+        {
+          "name": "14f24cefe18ea26c8f0b243a0e5dfcd3GC",
+          "count": 130
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "V449",
+          "count": 934
+        },
+        {
+          "name": "R892",
+          "count": 906
+        },
+        {
+          "name": "B170",
+          "count": 816
+        },
+        {
+          "name": "Y633",
+          "count": 809
+        },
+        {
+          "name": "S959",
+          "count": 804
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_uTAWZv",
+          "count": 19185
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 10406
+        },
+        {
+          "name": "Eas",
+          "count": 4529
+        },
+        {
+          "name": "Eqh",
+          "count": 2054
+        },
+        {
+          "name": "EKk",
+          "count": 1312
+        },
+        {
+          "name": "EzN",
+          "count": 702
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 12581
+        },
+        {
+          "name": "GI",
+          "count": 2278
+        },
+        {
+          "name": "Go",
+          "count": 1374
+        },
+        {
+          "name": "Gy",
+          "count": 1343
+        },
+        {
+          "name": "Gh",
+          "count": 954
+        }
+      ]
+    },
+    {
+      "name": "type_qrSFSq",
+      "count": 18458,
+      "group": "type_qrSFSq",
+      "job_count": 18458,
+      "avg_salary_k": 9.88,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.5,
+      "salary_max_k": 205.0,
+      "avg_annual_salary_k": 122.55,
+      "company_count": 13378,
+      "job_title_count": 9593,
+      "top_companies": [
+        {
+          "name": "company_390847",
+          "count": 364
+        },
+        {
+          "name": "company_645672",
+          "count": 118
+        },
+        {
+          "name": "company_109802",
+          "count": 53
+        },
+        {
+          "name": "company_185096",
+          "count": 49
+        },
+        {
+          "name": "company_683517",
+          "count": 48
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "09b8073e6d0a727247e9bbcf43f8e75avx",
+          "count": 496
+        },
+        {
+          "name": "dface8469dd1315170c2980c12ee4b9dzl",
+          "count": 348
+        },
+        {
+          "name": "74d485f8d9a8f589c5e5b3d3ddaf18e6Qn",
+          "count": 239
+        },
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 196
+        },
+        {
+          "name": "77f94afcb944fea2069092a4c92bab1fzk",
+          "count": 180
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "B170",
+          "count": 1749
+        },
+        {
+          "name": "Y232",
+          "count": 1529
+        },
+        {
+          "name": "P949",
+          "count": 1443
+        },
+        {
+          "name": "F379",
+          "count": 1354
+        },
+        {
+          "name": "S959",
+          "count": 1288
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qrSFSq",
+          "count": 18458
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 6729
+        },
+        {
+          "name": "EdD",
+          "count": 6155
+        },
+        {
+          "name": "Eqh",
+          "count": 2828
+        },
+        {
+          "name": "EKk",
+          "count": 1435
+        },
+        {
+          "name": "EzN",
+          "count": 1046
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 7550
+        },
+        {
+          "name": "Gx",
+          "count": 4597
+        },
+        {
+          "name": "GP",
+          "count": 4590
+        },
+        {
+          "name": "Go",
+          "count": 804
+        },
+        {
+          "name": "Gy",
+          "count": 729
+        }
+      ]
+    },
+    {
+      "name": "type_CbBLwi",
+      "count": 13253,
+      "group": "type_CbBLwi",
+      "job_count": 13253,
+      "avg_salary_k": 13.68,
+      "median_salary_k": 11.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 8.0,
+      "salary_q3_k": 17.5,
+      "salary_max_k": 210.0,
+      "avg_annual_salary_k": 173.16,
+      "company_count": 7265,
+      "job_title_count": 7427,
+      "top_companies": [
+        {
+          "name": "company_648838",
+          "count": 362
+        },
+        {
+          "name": "company_387215",
+          "count": 190
+        },
+        {
+          "name": "company_096263",
+          "count": 183
+        },
+        {
+          "name": "company_166885",
+          "count": 174
+        },
+        {
+          "name": "company_023398",
+          "count": 122
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 394
+        },
+        {
+          "name": "4f7f001bdbae6c195a6d7ba55b98dca1pf",
+          "count": 182
+        },
+        {
+          "name": "6951495c1941499b294fcec5f33cd242wQ",
+          "count": 168
+        },
+        {
+          "name": "3896ac0c41340ac06686eb161a775aa6kx",
+          "count": 167
+        },
+        {
+          "name": "bacd30a8f578d3c3f4e75bd227af5fa5qw",
+          "count": 145
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 1137
+        },
+        {
+          "name": "O198",
+          "count": 1106
+        },
+        {
+          "name": "Y633",
+          "count": 1076
+        },
+        {
+          "name": "S542",
+          "count": 967
+        },
+        {
+          "name": "K115",
+          "count": 964
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_CbBLwi",
+          "count": 13253
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eqh",
+          "count": 4477
+        },
+        {
+          "name": "Eas",
+          "count": 3932
+        },
+        {
+          "name": "EdD",
+          "count": 2250
+        },
+        {
+          "name": "EzN",
+          "count": 1868
+        },
+        {
+          "name": "EKk",
+          "count": 332
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 8151
+        },
+        {
+          "name": "GI",
+          "count": 3714
+        },
+        {
+          "name": "GP",
+          "count": 740
+        },
+        {
+          "name": "GZ",
+          "count": 401
+        },
+        {
+          "name": "Gy",
+          "count": 105
+        }
+      ]
+    },
+    {
+      "name": "type_fFlUqG",
+      "count": 13214,
+      "group": "type_fFlUqG",
+      "job_count": 13214,
+      "avg_salary_k": 7.34,
+      "median_salary_k": 6.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.0,
+      "salary_q3_k": 8.5,
+      "salary_max_k": 150.0,
+      "avg_annual_salary_k": 88.94,
+      "company_count": 10753,
+      "job_title_count": 7057,
+      "top_companies": [
+        {
+          "name": "company_721248",
+          "count": 36
+        },
+        {
+          "name": "company_216435",
+          "count": 32
+        },
+        {
+          "name": "company_491944",
+          "count": 28
+        },
+        {
+          "name": "company_846680",
+          "count": 26
+        },
+        {
+          "name": "company_662754",
+          "count": 24
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 314
+        },
+        {
+          "name": "d26737bff980339cf372392e773fb063Es",
+          "count": 254
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 153
+        },
+        {
+          "name": "77f94afcb944fea2069092a4c92bab1fzk",
+          "count": 145
+        },
+        {
+          "name": "f1700927fd979f5ae074de8f9352d96fWy",
+          "count": 127
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F379",
+          "count": 892
+        },
+        {
+          "name": "O198",
+          "count": 808
+        },
+        {
+          "name": "Y232",
+          "count": 755
+        },
+        {
+          "name": "V449",
+          "count": 724
+        },
+        {
+          "name": "R892",
+          "count": 722
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_fFlUqG",
+          "count": 13214
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 4963
+        },
+        {
+          "name": "Eas",
+          "count": 4714
+        },
+        {
+          "name": "Eqh",
+          "count": 1877
+        },
+        {
+          "name": "EKk",
+          "count": 926
+        },
+        {
+          "name": "EzN",
+          "count": 547
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 4577
+        },
+        {
+          "name": "GI",
+          "count": 4086
+        },
+        {
+          "name": "Gx",
+          "count": 1558
+        },
+        {
+          "name": "Go",
+          "count": 1365
+        },
+        {
+          "name": "Gy",
+          "count": 1294
+        }
+      ]
+    },
+    {
+      "name": "type_yZblEo",
+      "count": 12730,
+      "group": "type_yZblEo",
+      "job_count": 12730,
+      "avg_salary_k": 8.44,
+      "median_salary_k": 7.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.0,
+      "salary_q3_k": 10.0,
+      "salary_max_k": 140.0,
+      "avg_annual_salary_k": 101.89,
+      "company_count": 9886,
+      "job_title_count": 4330,
+      "top_companies": [
+        {
+          "name": "company_467715",
+          "count": 24
+        },
+        {
+          "name": "company_015310",
+          "count": 21
+        },
+        {
+          "name": "company_649373",
+          "count": 18
+        },
+        {
+          "name": "company_262537",
+          "count": 18
+        },
+        {
+          "name": "company_729224",
+          "count": 17
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "c7f9349f001ec07fe76d0becea13a18azM",
+          "count": 824
+        },
+        {
+          "name": "ca4d5884938fb754bf2d1b45e26822d4jc",
+          "count": 360
+        },
+        {
+          "name": "76b78c5d7d8ff1f1be59bba95db2adbbBV",
+          "count": 360
+        },
+        {
+          "name": "244cd198e7293fbabd28fad9934dcf89eh",
+          "count": 251
+        },
+        {
+          "name": "f1700927fd979f5ae074de8f9352d96fWy",
+          "count": 243
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "V449",
+          "count": 1022
+        },
+        {
+          "name": "N806",
+          "count": 800
+        },
+        {
+          "name": "R892",
+          "count": 767
+        },
+        {
+          "name": "F379",
+          "count": 730
+        },
+        {
+          "name": "O198",
+          "count": 725
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_yZblEo",
+          "count": 12730
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 4794
+        },
+        {
+          "name": "EdD",
+          "count": 3837
+        },
+        {
+          "name": "Eqh",
+          "count": 2114
+        },
+        {
+          "name": "EzN",
+          "count": 891
+        },
+        {
+          "name": "EKk",
+          "count": 755
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 5465
+        },
+        {
+          "name": "GP",
+          "count": 2945
+        },
+        {
+          "name": "Gx",
+          "count": 1921
+        },
+        {
+          "name": "Gy",
+          "count": 1584
+        },
+        {
+          "name": "Go",
+          "count": 538
+        }
+      ]
+    },
+    {
+      "name": "type_qGLNuz",
+      "count": 12028,
+      "group": "type_qGLNuz",
+      "job_count": 12028,
+      "avg_salary_k": 7.46,
+      "median_salary_k": 6.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 4.5,
+      "salary_q3_k": 8.5,
+      "salary_max_k": 125.0,
+      "avg_annual_salary_k": 90.26,
+      "company_count": 10186,
+      "job_title_count": 6672,
+      "top_companies": [
+        {
+          "name": "company_073003",
+          "count": 29
+        },
+        {
+          "name": "company_223401",
+          "count": 24
+        },
+        {
+          "name": "company_273445",
+          "count": 20
+        },
+        {
+          "name": "company_907432",
+          "count": 19
+        },
+        {
+          "name": "company_595316",
+          "count": 17
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "63c630beb7b2f471af699f711207d28aVY",
+          "count": 197
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 170
+        },
+        {
+          "name": "d26737bff980339cf372392e773fb063Es",
+          "count": 153
+        },
+        {
+          "name": "600a4de652c1b94b122b5b1a72cdf8baqf",
+          "count": 135
+        },
+        {
+          "name": "c02aef655be4fb390a9dd9ca2443be6aUG",
+          "count": 112
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "O198",
+          "count": 743
+        },
+        {
+          "name": "F379",
+          "count": 626
+        },
+        {
+          "name": "S959",
+          "count": 614
+        },
+        {
+          "name": "V449",
+          "count": 600
+        },
+        {
+          "name": "V932",
+          "count": 589
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qGLNuz",
+          "count": 12028
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 5643
+        },
+        {
+          "name": "Eas",
+          "count": 3610
+        },
+        {
+          "name": "Eqh",
+          "count": 1404
+        },
+        {
+          "name": "EKk",
+          "count": 807
+        },
+        {
+          "name": "EzN",
+          "count": 427
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 5410
+        },
+        {
+          "name": "GI",
+          "count": 2945
+        },
+        {
+          "name": "Gx",
+          "count": 1325
+        },
+        {
+          "name": "Gy",
+          "count": 990
+        },
+        {
+          "name": "Go",
+          "count": 942
+        }
+      ]
+    },
+    {
+      "name": "type_YOHpQY",
+      "count": 10831,
+      "group": "type_YOHpQY",
+      "job_count": 10831,
+      "avg_salary_k": 8.27,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.0,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 100.04,
+      "company_count": 9432,
+      "job_title_count": 3492,
+      "top_companies": [
+        {
+          "name": "company_126700",
+          "count": 30
+        },
+        {
+          "name": "company_418160",
+          "count": 15
+        },
+        {
+          "name": "company_797776",
+          "count": 12
+        },
+        {
+          "name": "company_500574",
+          "count": 11
+        },
+        {
+          "name": "company_212490",
+          "count": 11
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "534952ab1cf024773caddc874099da11qn",
+          "count": 704
+        },
+        {
+          "name": "8c9c8016d13138e456a315a6068ff697lQ",
+          "count": 405
+        },
+        {
+          "name": "b7b03ffc6f8bd9f3c81fcca8bf3d3edbkH",
+          "count": 331
+        },
+        {
+          "name": "cac62dc89c1191d1b7aa1b0a32463a49dF",
+          "count": 276
+        },
+        {
+          "name": "d6d105d96fe6a1a994a68b78aafd2b84Ie",
+          "count": 271
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "V932",
+          "count": 665
+        },
+        {
+          "name": "F379",
+          "count": 593
+        },
+        {
+          "name": "S959",
+          "count": 587
+        },
+        {
+          "name": "P949",
+          "count": 531
+        },
+        {
+          "name": "O198",
+          "count": 521
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_YOHpQY",
+          "count": 10831
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 3941
+        },
+        {
+          "name": "EdD",
+          "count": 2977
+        },
+        {
+          "name": "Eqh",
+          "count": 2204
+        },
+        {
+          "name": "EzN",
+          "count": 905
+        },
+        {
+          "name": "EKk",
+          "count": 607
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 4569
+        },
+        {
+          "name": "GP",
+          "count": 3440
+        },
+        {
+          "name": "Gx",
+          "count": 1349
+        },
+        {
+          "name": "Go",
+          "count": 777
+        },
+        {
+          "name": "Gy",
+          "count": 584
+        }
+      ]
+    },
+    {
+      "name": "type_HfjYoW",
+      "count": 10437,
+      "group": "type_HfjYoW",
+      "job_count": 10437,
+      "avg_salary_k": 7.7,
+      "median_salary_k": 6.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.0,
+      "salary_q3_k": 8.5,
+      "salary_max_k": 220.0,
+      "avg_annual_salary_k": 93.51,
+      "company_count": 8938,
+      "job_title_count": 3925,
+      "top_companies": [
+        {
+          "name": "company_050302",
+          "count": 10
+        },
+        {
+          "name": "company_028994",
+          "count": 8
+        },
+        {
+          "name": "company_949997",
+          "count": 8
+        },
+        {
+          "name": "company_835291",
+          "count": 7
+        },
+        {
+          "name": "company_624522",
+          "count": 7
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "d4c894e72cbcba3ee54f16b94c185a4bJB",
+          "count": 782
+        },
+        {
+          "name": "0cf5da7bb05dfb15718653637b8df718vT",
+          "count": 689
+        },
+        {
+          "name": "2d6d2afd6028853b0a50f674cd887f55zs",
+          "count": 319
+        },
+        {
+          "name": "eb8a50987da12c63d9024b6ef24caa5aYA",
+          "count": 262
+        },
+        {
+          "name": "1b7d252ac6eb39369d451499cf605e70dh",
+          "count": 248
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "K115",
+          "count": 828
+        },
+        {
+          "name": "V449",
+          "count": 745
+        },
+        {
+          "name": "F047",
+          "count": 717
+        },
+        {
+          "name": "O198",
+          "count": 696
+        },
+        {
+          "name": "V932",
+          "count": 600
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_HfjYoW",
+          "count": 10437
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 4159
+        },
+        {
+          "name": "EdD",
+          "count": 2937
+        },
+        {
+          "name": "Eqh",
+          "count": 2046
+        },
+        {
+          "name": "EKk",
+          "count": 639
+        },
+        {
+          "name": "EzN",
+          "count": 507
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 3513
+        },
+        {
+          "name": "GP",
+          "count": 3206
+        },
+        {
+          "name": "Gx",
+          "count": 2432
+        },
+        {
+          "name": "Gy",
+          "count": 586
+        },
+        {
+          "name": "Go",
+          "count": 533
+        }
+      ]
+    },
+    {
+      "name": "type_qhLBWb",
+      "count": 8830,
+      "group": "type_qhLBWb",
+      "job_count": 8830,
+      "avg_salary_k": 8.72,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.5,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 105.58,
+      "company_count": 7317,
+      "job_title_count": 5010,
+      "top_companies": [
+        {
+          "name": "company_587922",
+          "count": 29
+        },
+        {
+          "name": "company_371720",
+          "count": 20
+        },
+        {
+          "name": "company_778791",
+          "count": 19
+        },
+        {
+          "name": "company_536035",
+          "count": 19
+        },
+        {
+          "name": "company_096115",
+          "count": 19
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "63c630beb7b2f471af699f711207d28aVY",
+          "count": 503
+        },
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 120
+        },
+        {
+          "name": "a269f269c916a6c3b2c9bb439e7d5af1nF",
+          "count": 106
+        },
+        {
+          "name": "0508d7be415a54eba97a968f8dacd55chL",
+          "count": 76
+        },
+        {
+          "name": "74d816db8c5988658e0e8eb967b45d91zO",
+          "count": 53
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "V449",
+          "count": 541
+        },
+        {
+          "name": "F047",
+          "count": 540
+        },
+        {
+          "name": "R892",
+          "count": 496
+        },
+        {
+          "name": "F379",
+          "count": 487
+        },
+        {
+          "name": "K115",
+          "count": 478
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qhLBWb",
+          "count": 8830
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 4044
+        },
+        {
+          "name": "Eas",
+          "count": 2843
+        },
+        {
+          "name": "Eqh",
+          "count": 1024
+        },
+        {
+          "name": "EKk",
+          "count": 556
+        },
+        {
+          "name": "EzN",
+          "count": 260
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 3575
+        },
+        {
+          "name": "GI",
+          "count": 2554
+        },
+        {
+          "name": "Gx",
+          "count": 1775
+        },
+        {
+          "name": "Go",
+          "count": 429
+        },
+        {
+          "name": "Gy",
+          "count": 372
+        }
+      ]
+    },
+    {
+      "name": "type_vrMpBQ",
+      "count": 8380,
+      "group": "type_vrMpBQ",
+      "job_count": 8380,
+      "avg_salary_k": 8.79,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.0,
+      "salary_q3_k": 10.0,
+      "salary_max_k": 105.0,
+      "avg_annual_salary_k": 107.93,
+      "company_count": 6590,
+      "job_title_count": 4173,
+      "top_companies": [
+        {
+          "name": "company_072626",
+          "count": 43
+        },
+        {
+          "name": "company_110188",
+          "count": 19
+        },
+        {
+          "name": "company_770545",
+          "count": 13
+        },
+        {
+          "name": "company_852563",
+          "count": 13
+        },
+        {
+          "name": "company_436748",
+          "count": 13
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 869
+        },
+        {
+          "name": "5064c34286de0a0fa07ec216e1bbd200WV",
+          "count": 344
+        },
+        {
+          "name": "1191e6eb34541653a48178c834cc65faIi",
+          "count": 106
+        },
+        {
+          "name": "3091525444b8b4d7fbc725e42b1b44a2YQ",
+          "count": 74
+        },
+        {
+          "name": "b9e80a7860853d05fb0bb708d22bb031hD",
+          "count": 74
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "S959",
+          "count": 842
+        },
+        {
+          "name": "P949",
+          "count": 709
+        },
+        {
+          "name": "V932",
+          "count": 704
+        },
+        {
+          "name": "Y232",
+          "count": 701
+        },
+        {
+          "name": "K115",
+          "count": 668
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_vrMpBQ",
+          "count": 8380
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 3391
+        },
+        {
+          "name": "EdD",
+          "count": 2204
+        },
+        {
+          "name": "Eqh",
+          "count": 1556
+        },
+        {
+          "name": "EKk",
+          "count": 539
+        },
+        {
+          "name": "EzN",
+          "count": 475
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 3918
+        },
+        {
+          "name": "Gx",
+          "count": 2836
+        },
+        {
+          "name": "GP",
+          "count": 960
+        },
+        {
+          "name": "Gy",
+          "count": 304
+        },
+        {
+          "name": "Go",
+          "count": 281
+        }
+      ]
+    },
+    {
+      "name": "type_lYwbWD",
+      "count": 7932,
+      "group": "type_lYwbWD",
+      "job_count": 7932,
+      "avg_salary_k": 8.22,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 10.0,
+      "salary_max_k": 105.0,
+      "avg_annual_salary_k": 99.6,
+      "company_count": 6627,
+      "job_title_count": 3983,
+      "top_companies": [
+        {
+          "name": "company_269594",
+          "count": 42
+        },
+        {
+          "name": "company_996982",
+          "count": 12
+        },
+        {
+          "name": "company_829009",
+          "count": 12
+        },
+        {
+          "name": "company_479247",
+          "count": 11
+        },
+        {
+          "name": "company_279538",
+          "count": 11
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 123
+        },
+        {
+          "name": "b036b148c2f31bf2111f893a63c98981Qt",
+          "count": 107
+        },
+        {
+          "name": "b7b03ffc6f8bd9f3c81fcca8bf3d3edbkH",
+          "count": 94
+        },
+        {
+          "name": "5ac445bf72309dce01eb4c6ec8d5cee8VC",
+          "count": 82
+        },
+        {
+          "name": "487e36748734bdd5f6385b9588c3a46bmZ",
+          "count": 81
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "Y633",
+          "count": 556
+        },
+        {
+          "name": "O198",
+          "count": 540
+        },
+        {
+          "name": "V932",
+          "count": 521
+        },
+        {
+          "name": "S542",
+          "count": 433
+        },
+        {
+          "name": "Y232",
+          "count": 397
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lYwbWD",
+          "count": 7932
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 2413
+        },
+        {
+          "name": "Eqh",
+          "count": 2176
+        },
+        {
+          "name": "EdD",
+          "count": 1675
+        },
+        {
+          "name": "EzN",
+          "count": 1034
+        },
+        {
+          "name": "EKk",
+          "count": 342
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 3979
+        },
+        {
+          "name": "Gx",
+          "count": 1621
+        },
+        {
+          "name": "GP",
+          "count": 1484
+        },
+        {
+          "name": "Gy",
+          "count": 439
+        },
+        {
+          "name": "Go",
+          "count": 313
+        }
+      ]
+    },
+    {
+      "name": "type_PCcrub",
+      "count": 7814,
+      "group": "type_PCcrub",
+      "job_count": 7814,
+      "avg_salary_k": 7.93,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 9.5,
+      "salary_max_k": 85.0,
+      "avg_annual_salary_k": 95.5,
+      "company_count": 6624,
+      "job_title_count": 2937,
+      "top_companies": [
+        {
+          "name": "company_091883",
+          "count": 37
+        },
+        {
+          "name": "company_453903",
+          "count": 22
+        },
+        {
+          "name": "company_817491",
+          "count": 13
+        },
+        {
+          "name": "company_243844",
+          "count": 12
+        },
+        {
+          "name": "company_628840",
+          "count": 10
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "02e22012bd6fdd7415a80c2da954d8f0hL",
+          "count": 534
+        },
+        {
+          "name": "bb9685f7011f9604acad8ae63c6da0ddHn",
+          "count": 530
+        },
+        {
+          "name": "bb5bbd4fe2f47c6e4810df40a178deb7cV",
+          "count": 306
+        },
+        {
+          "name": "c6ae8905d3ef0c61f4a5b88238a32da0uC",
+          "count": 256
+        },
+        {
+          "name": "e4b66c8e5feb0fd81e843e465815ddddGb",
+          "count": 244
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "S542",
+          "count": 555
+        },
+        {
+          "name": "Y633",
+          "count": 551
+        },
+        {
+          "name": "Y232",
+          "count": 414
+        },
+        {
+          "name": "V449",
+          "count": 414
+        },
+        {
+          "name": "F379",
+          "count": 386
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_PCcrub",
+          "count": 7814
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 3407
+        },
+        {
+          "name": "Eas",
+          "count": 2349
+        },
+        {
+          "name": "Eqh",
+          "count": 1010
+        },
+        {
+          "name": "EKk",
+          "count": 507
+        },
+        {
+          "name": "EzN",
+          "count": 446
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 4165
+        },
+        {
+          "name": "GI",
+          "count": 1673
+        },
+        {
+          "name": "Gy",
+          "count": 963
+        },
+        {
+          "name": "Go",
+          "count": 631
+        },
+        {
+          "name": "Gx",
+          "count": 241
+        }
+      ]
+    },
+    {
+      "name": "type_qnHODO",
+      "count": 7579,
+      "group": "type_qnHODO",
+      "job_count": 7579,
+      "avg_salary_k": 6.5,
+      "median_salary_k": 5.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 4.0,
+      "salary_q3_k": 7.5,
+      "salary_max_k": 77.5,
+      "avg_annual_salary_k": 78.3,
+      "company_count": 7139,
+      "job_title_count": 2013,
+      "top_companies": [
+        {
+          "name": "company_810410",
+          "count": 14
+        },
+        {
+          "name": "company_542424",
+          "count": 10
+        },
+        {
+          "name": "company_447827",
+          "count": 9
+        },
+        {
+          "name": "company_519197",
+          "count": 8
+        },
+        {
+          "name": "company_686060",
+          "count": 7
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "b33302c688b04656f05d2a96c98e14c8cK",
+          "count": 765
+        },
+        {
+          "name": "e089e2787ca1f2cd11abb5b5b46da777eD",
+          "count": 580
+        },
+        {
+          "name": "e57826db7a1aec9699875434de36323bCX",
+          "count": 378
+        },
+        {
+          "name": "cdd7c7185be165fb07d10c9f17abc2deBP",
+          "count": 323
+        },
+        {
+          "name": "6831ebb08ba49bf74ce9984483b2aed7DN",
+          "count": 264
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "S959",
+          "count": 404
+        },
+        {
+          "name": "R892",
+          "count": 380
+        },
+        {
+          "name": "N806",
+          "count": 378
+        },
+        {
+          "name": "O198",
+          "count": 357
+        },
+        {
+          "name": "V449",
+          "count": 354
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_qnHODO",
+          "count": 7579
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 4476
+        },
+        {
+          "name": "Eas",
+          "count": 1806
+        },
+        {
+          "name": "Eqh",
+          "count": 658
+        },
+        {
+          "name": "EKk",
+          "count": 428
+        },
+        {
+          "name": "EzN",
+          "count": 163
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 6260
+        },
+        {
+          "name": "Gy",
+          "count": 406
+        },
+        {
+          "name": "GI",
+          "count": 370
+        },
+        {
+          "name": "Go",
+          "count": 228
+        },
+        {
+          "name": "Gh",
+          "count": 180
+        }
+      ]
+    },
+    {
+      "name": "type_ZcPYrP",
+      "count": 7562,
+      "group": "type_ZcPYrP",
+      "job_count": 7562,
+      "avg_salary_k": 11.0,
+      "median_salary_k": 9.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.5,
+      "salary_q3_k": 12.5,
+      "salary_max_k": 215.0,
+      "avg_annual_salary_k": 135.52,
+      "company_count": 3918,
+      "job_title_count": 4621,
+      "top_companies": [
+        {
+          "name": "company_491944",
+          "count": 71
+        },
+        {
+          "name": "company_629798",
+          "count": 67
+        },
+        {
+          "name": "company_081578",
+          "count": 53
+        },
+        {
+          "name": "company_909827",
+          "count": 44
+        },
+        {
+          "name": "company_815048",
+          "count": 39
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "c7f9349f001ec07fe76d0becea13a18azM",
+          "count": 81
+        },
+        {
+          "name": "76b78c5d7d8ff1f1be59bba95db2adbbBV",
+          "count": 80
+        },
+        {
+          "name": "c31759a7c06bf3c3b95ee6a39780c633Dv",
+          "count": 64
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 62
+        },
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 54
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 768
+        },
+        {
+          "name": "K115",
+          "count": 683
+        },
+        {
+          "name": "B170",
+          "count": 618
+        },
+        {
+          "name": "R892",
+          "count": 568
+        },
+        {
+          "name": "Y232",
+          "count": 517
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_ZcPYrP",
+          "count": 7562
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 2714
+        },
+        {
+          "name": "EdD",
+          "count": 1949
+        },
+        {
+          "name": "Eqh",
+          "count": 1637
+        },
+        {
+          "name": "EzN",
+          "count": 656
+        },
+        {
+          "name": "EKk",
+          "count": 405
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 2864
+        },
+        {
+          "name": "Gx",
+          "count": 2513
+        },
+        {
+          "name": "GP",
+          "count": 1074
+        },
+        {
+          "name": "Gy",
+          "count": 523
+        },
+        {
+          "name": "GZ",
+          "count": 335
+        }
+      ]
+    },
+    {
+      "name": "type_HcIRlZ",
+      "count": 7297,
+      "group": "type_HcIRlZ",
+      "job_count": 7297,
+      "avg_salary_k": 9.05,
+      "median_salary_k": 7.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.0,
+      "salary_q3_k": 10.5,
+      "salary_max_k": 97.5,
+      "avg_annual_salary_k": 111.26,
+      "company_count": 5815,
+      "job_title_count": 3863,
+      "top_companies": [
+        {
+          "name": "company_397496",
+          "count": 19
+        },
+        {
+          "name": "company_005179",
+          "count": 14
+        },
+        {
+          "name": "company_944666",
+          "count": 13
+        },
+        {
+          "name": "company_897360",
+          "count": 11
+        },
+        {
+          "name": "company_589264",
+          "count": 10
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "769db4ea593ce8f93a093a84ad1baec2OY",
+          "count": 207
+        },
+        {
+          "name": "0cb8293fae46fb1f84b1f68d2371dc3bLQ",
+          "count": 185
+        },
+        {
+          "name": "4d18579160a263df3f59863abef1c369iw",
+          "count": 137
+        },
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 137
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 93
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "N806",
+          "count": 852
+        },
+        {
+          "name": "S959",
+          "count": 487
+        },
+        {
+          "name": "V932",
+          "count": 474
+        },
+        {
+          "name": "R892",
+          "count": 447
+        },
+        {
+          "name": "K115",
+          "count": 444
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_HcIRlZ",
+          "count": 7297
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 2390
+        },
+        {
+          "name": "Eqh",
+          "count": 2001
+        },
+        {
+          "name": "EdD",
+          "count": 1608
+        },
+        {
+          "name": "EzN",
+          "count": 813
+        },
+        {
+          "name": "EKk",
+          "count": 304
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 2592
+        },
+        {
+          "name": "Gx",
+          "count": 1936
+        },
+        {
+          "name": "GP",
+          "count": 1525
+        },
+        {
+          "name": "Gy",
+          "count": 773
+        },
+        {
+          "name": "Go",
+          "count": 301
+        }
+      ]
+    },
+    {
+      "name": "type_XqvUzw",
+      "count": 7252,
+      "group": "type_XqvUzw",
+      "job_count": 7252,
+      "avg_salary_k": 5.19,
+      "median_salary_k": 4.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 3.5,
+      "salary_q3_k": 6.0,
+      "salary_max_k": 40.0,
+      "avg_annual_salary_k": 62.42,
+      "company_count": 6445,
+      "job_title_count": 2331,
+      "top_companies": [
+        {
+          "name": "company_051615",
+          "count": 25
+        },
+        {
+          "name": "company_938328",
+          "count": 17
+        },
+        {
+          "name": "company_939855",
+          "count": 14
+        },
+        {
+          "name": "company_039101",
+          "count": 13
+        },
+        {
+          "name": "company_237774",
+          "count": 11
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+          "count": 1541
+        },
+        {
+          "name": "b8b7b6ad09f0cf3673ac1d8fab31ad52Xi",
+          "count": 322
+        },
+        {
+          "name": "8732fb0b6fb60674681c48be91e88053LD",
+          "count": 254
+        },
+        {
+          "name": "b57abdc3a1618084f788b74a442c7169oY",
+          "count": 216
+        },
+        {
+          "name": "3507256fe513473bfb5b752ec32967dbXz",
+          "count": 206
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "S959",
+          "count": 451
+        },
+        {
+          "name": "O198",
+          "count": 416
+        },
+        {
+          "name": "F379",
+          "count": 389
+        },
+        {
+          "name": "P949",
+          "count": 370
+        },
+        {
+          "name": "Y633",
+          "count": 362
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_XqvUzw",
+          "count": 7252
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 3482
+        },
+        {
+          "name": "Eas",
+          "count": 2174
+        },
+        {
+          "name": "Eqh",
+          "count": 702
+        },
+        {
+          "name": "EKk",
+          "count": 675
+        },
+        {
+          "name": "EzN",
+          "count": 178
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 3657
+        },
+        {
+          "name": "GI",
+          "count": 1419
+        },
+        {
+          "name": "Go",
+          "count": 878
+        },
+        {
+          "name": "Gy",
+          "count": 784
+        },
+        {
+          "name": "Gh",
+          "count": 289
+        }
+      ]
+    },
+    {
+      "name": "type_BmzsHA",
+      "count": 7131,
+      "group": "type_BmzsHA",
+      "job_count": 7131,
+      "avg_salary_k": 10.92,
+      "median_salary_k": 9.0,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 6.5,
+      "salary_q3_k": 12.5,
+      "salary_max_k": 125.0,
+      "avg_annual_salary_k": 135.6,
+      "company_count": 4651,
+      "job_title_count": 3628,
+      "top_companies": [
+        {
+          "name": "company_656902",
+          "count": 23
+        },
+        {
+          "name": "company_234936",
+          "count": 15
+        },
+        {
+          "name": "company_153483",
+          "count": 15
+        },
+        {
+          "name": "company_397269",
+          "count": 15
+        },
+        {
+          "name": "company_079064",
+          "count": 15
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "3e1f8a4ef4af0439a98a788685729e11IS",
+          "count": 293
+        },
+        {
+          "name": "2cfa3ce5aca7d2affe1239f1e022639eMv",
+          "count": 141
+        },
+        {
+          "name": "a452115cc743d0d875eeb5b1fc682103dQ",
+          "count": 107
+        },
+        {
+          "name": "9904020341cefe824be71f68c5c4ab1bWw",
+          "count": 107
+        },
+        {
+          "name": "eb4523711beb76f635c39145c8b742eatB",
+          "count": 102
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 618
+        },
+        {
+          "name": "N806",
+          "count": 616
+        },
+        {
+          "name": "K115",
+          "count": 586
+        },
+        {
+          "name": "F379",
+          "count": 530
+        },
+        {
+          "name": "R892",
+          "count": 527
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BmzsHA",
+          "count": 7131
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 2727
+        },
+        {
+          "name": "Eqh",
+          "count": 1780
+        },
+        {
+          "name": "EdD",
+          "count": 1604
+        },
+        {
+          "name": "EzN",
+          "count": 638
+        },
+        {
+          "name": "EKk",
+          "count": 263
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 2961
+        },
+        {
+          "name": "Gx",
+          "count": 2700
+        },
+        {
+          "name": "GP",
+          "count": 581
+        },
+        {
+          "name": "GZ",
+          "count": 361
+        },
+        {
+          "name": "Gy",
+          "count": 276
+        }
+      ]
+    },
+    {
+      "name": "type_lwxCGv",
+      "count": 6475,
+      "group": "type_lwxCGv",
+      "job_count": 6475,
+      "avg_salary_k": 7.75,
+      "median_salary_k": 6.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 4.5,
+      "salary_q3_k": 8.5,
+      "salary_max_k": 90.0,
+      "avg_annual_salary_k": 94.42,
+      "company_count": 5228,
+      "job_title_count": 4166,
+      "top_companies": [
+        {
+          "name": "company_425543",
+          "count": 18
+        },
+        {
+          "name": "company_661642",
+          "count": 18
+        },
+        {
+          "name": "company_345294",
+          "count": 15
+        },
+        {
+          "name": "company_929647",
+          "count": 15
+        },
+        {
+          "name": "company_635701",
+          "count": 14
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 132
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 115
+        },
+        {
+          "name": "09b8073e6d0a727247e9bbcf43f8e75avx",
+          "count": 68
+        },
+        {
+          "name": "39a3d2b8857c48c2443faeacf50ae574Xo",
+          "count": 61
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 58
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F379",
+          "count": 469
+        },
+        {
+          "name": "S959",
+          "count": 376
+        },
+        {
+          "name": "R892",
+          "count": 372
+        },
+        {
+          "name": "V449",
+          "count": 353
+        },
+        {
+          "name": "V932",
+          "count": 303
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lwxCGv",
+          "count": 6475
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 2333
+        },
+        {
+          "name": "Eas",
+          "count": 2043
+        },
+        {
+          "name": "Eqh",
+          "count": 1185
+        },
+        {
+          "name": "EzN",
+          "count": 419
+        },
+        {
+          "name": "EKk",
+          "count": 375
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 2137
+        },
+        {
+          "name": "GI",
+          "count": 2086
+        },
+        {
+          "name": "Gx",
+          "count": 1001
+        },
+        {
+          "name": "Gy",
+          "count": 545
+        },
+        {
+          "name": "Go",
+          "count": 506
+        }
+      ]
+    }
+  ],
+  "salary_distribution": [
+    {
+      "name": "0-3K",
+      "count": 9230,
+      "group": "0-3K",
+      "job_count": 9230,
+      "avg_salary_k": 2.32,
+      "median_salary_k": 2.5,
+      "salary_min_k": 1.5,
+      "salary_q1_k": 2.5,
+      "salary_q3_k": 2.5,
+      "salary_max_k": 2.95,
+      "avg_annual_salary_k": 27.84,
+      "company_count": 8992,
+      "job_title_count": 5276,
+      "top_companies": [
+        {
+          "name": "company_828396",
+          "count": 6
+        },
+        {
+          "name": "company_856397",
+          "count": 5
+        },
+        {
+          "name": "company_519197",
+          "count": 5
+        },
+        {
+          "name": "company_142605",
+          "count": 5
+        },
+        {
+          "name": "company_348819",
+          "count": 4
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "050716a1e3496566de850636d9e7eb8dUa",
+          "count": 189
+        },
+        {
+          "name": "b33302c688b04656f05d2a96c98e14c8cK",
+          "count": 119
+        },
+        {
+          "name": "cdd7c7185be165fb07d10c9f17abc2deBP",
+          "count": 111
+        },
+        {
+          "name": "4e8253d6c20af58d080dfe5c4efd64b2Bd",
+          "count": 95
+        },
+        {
+          "name": "782d6b5fe8ab65d78b209fbc82b45e28AM",
+          "count": 80
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "O198",
+          "count": 315
+        },
+        {
+          "name": "V449",
+          "count": 290
+        },
+        {
+          "name": "V932",
+          "count": 270
+        },
+        {
+          "name": "R892",
+          "count": 257
+        },
+        {
+          "name": "Y633",
+          "count": 228
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_uTAWZv",
+          "count": 1130
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 662
+        },
+        {
+          "name": "type_XqvUzw",
+          "count": 556
+        },
+        {
+          "name": "type_qGLNuz",
+          "count": 545
+        },
+        {
+          "name": "type_qnHODO",
+          "count": 490
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 5940
+        },
+        {
+          "name": "Eas",
+          "count": 1772
+        },
+        {
+          "name": "EKk",
+          "count": 949
+        },
+        {
+          "name": "Eqh",
+          "count": 259
+        },
+        {
+          "name": "Eby",
+          "count": 201
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 5126
+        },
+        {
+          "name": "GI",
+          "count": 1758
+        },
+        {
+          "name": "Gx",
+          "count": 808
+        },
+        {
+          "name": "Gy",
+          "count": 703
+        },
+        {
+          "name": "Go",
+          "count": 493
+        }
+      ]
+    },
+    {
+      "name": "3-5K",
+      "count": 64510,
+      "group": "3-5K",
+      "job_count": 64510,
+      "avg_salary_k": 4.01,
+      "median_salary_k": 4.0,
+      "salary_min_k": 3.0,
+      "salary_q1_k": 3.5,
+      "salary_q3_k": 4.5,
+      "salary_max_k": 4.95,
+      "avg_annual_salary_k": 48.3,
+      "company_count": 58988,
+      "job_title_count": 28402,
+      "top_companies": [
+        {
+          "name": "company_041643",
+          "count": 26
+        },
+        {
+          "name": "company_491944",
+          "count": 25
+        },
+        {
+          "name": "company_396394",
+          "count": 23
+        },
+        {
+          "name": "company_596988",
+          "count": 20
+        },
+        {
+          "name": "company_207887",
+          "count": 16
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+          "count": 1030
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 643
+        },
+        {
+          "name": "c7f9349f001ec07fe76d0becea13a18azM",
+          "count": 484
+        },
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 484
+        },
+        {
+          "name": "b33302c688b04656f05d2a96c98e14c8cK",
+          "count": 446
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "O198",
+          "count": 3756
+        },
+        {
+          "name": "V449",
+          "count": 3595
+        },
+        {
+          "name": "V932",
+          "count": 3352
+        },
+        {
+          "name": "F379",
+          "count": 3194
+        },
+        {
+          "name": "R892",
+          "count": 2996
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_uTAWZv",
+          "count": 7653
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 3549
+        },
+        {
+          "name": "type_XqvUzw",
+          "count": 3423
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 2881
+        },
+        {
+          "name": "type_qGLNuz",
+          "count": 2835
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EdD",
+          "count": 33854
+        },
+        {
+          "name": "Eas",
+          "count": 19196
+        },
+        {
+          "name": "EKk",
+          "count": 6191
+        },
+        {
+          "name": "Eqh",
+          "count": 3644
+        },
+        {
+          "name": "Eby",
+          "count": 1047
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GP",
+          "count": 27936
+        },
+        {
+          "name": "GI",
+          "count": 18364
+        },
+        {
+          "name": "Gy",
+          "count": 5870
+        },
+        {
+          "name": "Gx",
+          "count": 5643
+        },
+        {
+          "name": "Go",
+          "count": 4829
+        }
+      ]
+    },
+    {
+      "name": "5-8K",
+      "count": 153510,
+      "group": "5-8K",
+      "job_count": 153510,
+      "avg_salary_k": 6.3,
+      "median_salary_k": 6.5,
+      "salary_min_k": 5.0,
+      "salary_q1_k": 5.5,
+      "salary_q3_k": 7.0,
+      "salary_max_k": 7.95,
+      "avg_annual_salary_k": 76.19,
+      "company_count": 124011,
+      "job_title_count": 60065,
+      "top_companies": [
+        {
+          "name": "company_907432",
+          "count": 112
+        },
+        {
+          "name": "company_645672",
+          "count": 71
+        },
+        {
+          "name": "company_645480",
+          "count": 61
+        },
+        {
+          "name": "company_559417",
+          "count": 57
+        },
+        {
+          "name": "company_491944",
+          "count": 50
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 1627
+        },
+        {
+          "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+          "count": 976
+        },
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 963
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 884
+        },
+        {
+          "name": "357b6e22304e1fba993bb725e5c00276aY",
+          "count": 824
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "O198",
+          "count": 9600
+        },
+        {
+          "name": "F379",
+          "count": 9567
+        },
+        {
+          "name": "V932",
+          "count": 9484
+        },
+        {
+          "name": "S959",
+          "count": 9304
+        },
+        {
+          "name": "V449",
+          "count": 8786
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_lOdYUb",
+          "count": 8132
+        },
+        {
+          "name": "type_uTAWZv",
+          "count": 7301
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 7233
+        },
+        {
+          "name": "type_fFlUqG",
+          "count": 6226
+        },
+        {
+          "name": "type_qGLNuz",
+          "count": 4918
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 58836
+        },
+        {
+          "name": "EdD",
+          "count": 58643
+        },
+        {
+          "name": "Eqh",
+          "count": 19361
+        },
+        {
+          "name": "EKk",
+          "count": 10766
+        },
+        {
+          "name": "EzN",
+          "count": 3654
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 54997
+        },
+        {
+          "name": "GP",
+          "count": 46851
+        },
+        {
+          "name": "Gx",
+          "count": 27325
+        },
+        {
+          "name": "Gy",
+          "count": 11690
+        },
+        {
+          "name": "Go",
+          "count": 9724
+        }
+      ]
+    },
+    {
+      "name": "8-12K",
+      "count": 101755,
+      "group": "8-12K",
+      "job_count": 101755,
+      "avg_salary_k": 9.49,
+      "median_salary_k": 9.5,
+      "salary_min_k": 8.0,
+      "salary_q1_k": 8.5,
+      "salary_q3_k": 10.5,
+      "salary_max_k": 11.5,
+      "avg_annual_salary_k": 115.6,
+      "company_count": 78012,
+      "job_title_count": 47094,
+      "top_companies": [
+        {
+          "name": "company_390847",
+          "count": 207
+        },
+        {
+          "name": "company_907432",
+          "count": 189
+        },
+        {
+          "name": "company_425264",
+          "count": 121
+        },
+        {
+          "name": "company_877473",
+          "count": 110
+        },
+        {
+          "name": "company_249184",
+          "count": 93
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+          "count": 830
+        },
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 765
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 755
+        },
+        {
+          "name": "6be068c4e74275ca8ed9975805e2f763Em",
+          "count": 740
+        },
+        {
+          "name": "09b8073e6d0a727247e9bbcf43f8e75avx",
+          "count": 512
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "K115",
+          "count": 7238
+        },
+        {
+          "name": "F379",
+          "count": 7225
+        },
+        {
+          "name": "B170",
+          "count": 7078
+        },
+        {
+          "name": "P949",
+          "count": 7002
+        },
+        {
+          "name": "Y232",
+          "count": 6634
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 4954
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 4851
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 4822
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 3540
+        },
+        {
+          "name": "type_yZblEo",
+          "count": 2964
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eas",
+          "count": 36983
+        },
+        {
+          "name": "EdD",
+          "count": 28282
+        },
+        {
+          "name": "Eqh",
+          "count": 23842
+        },
+        {
+          "name": "EzN",
+          "count": 6661
+        },
+        {
+          "name": "EKk",
+          "count": 4224
+        }
+      ],
+      "top_education": [
+        {
+          "name": "GI",
+          "count": 37244
+        },
+        {
+          "name": "Gx",
+          "count": 31771
+        },
+        {
+          "name": "GP",
+          "count": 22220
+        },
+        {
+          "name": "Gy",
+          "count": 4187
+        },
+        {
+          "name": "Go",
+          "count": 3899
+        }
+      ]
+    },
+    {
+      "name": "12-20K",
+      "count": 56693,
+      "group": "12-20K",
+      "job_count": 56693,
+      "avg_salary_k": 14.4,
+      "median_salary_k": 13.0,
+      "salary_min_k": 12.0,
+      "salary_q1_k": 12.5,
+      "salary_q3_k": 16.0,
+      "salary_max_k": 19.5,
+      "avg_annual_salary_k": 178.02,
+      "company_count": 42431,
+      "job_title_count": 29745,
+      "top_companies": [
+        {
+          "name": "company_678433",
+          "count": 89
+        },
+        {
+          "name": "company_161512",
+          "count": 86
+        },
+        {
+          "name": "company_096263",
+          "count": 74
+        },
+        {
+          "name": "company_239143",
+          "count": 72
+        },
+        {
+          "name": "company_907432",
+          "count": 65
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 784
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 564
+        },
+        {
+          "name": "143594a38184724594778ca447bc06fcwe",
+          "count": 373
+        },
+        {
+          "name": "63c630beb7b2f471af699f711207d28aVY",
+          "count": 365
+        },
+        {
+          "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+          "count": 305
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 5888
+        },
+        {
+          "name": "K115",
+          "count": 5874
+        },
+        {
+          "name": "P949",
+          "count": 5277
+        },
+        {
+          "name": "B170",
+          "count": 4984
+        },
+        {
+          "name": "Y232",
+          "count": 4142
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 4513
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 3875
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 2399
+        },
+        {
+          "name": "type_lOdYUb",
+          "count": 2062
+        },
+        {
+          "name": "type_ZcPYrP",
+          "count": 1478
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eqh",
+          "count": 19199
+        },
+        {
+          "name": "Eas",
+          "count": 15148
+        },
+        {
+          "name": "EdD",
+          "count": 10980
+        },
+        {
+          "name": "EzN",
+          "count": 8768
+        },
+        {
+          "name": "EKk",
+          "count": 1287
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 26747
+        },
+        {
+          "name": "GI",
+          "count": 16974
+        },
+        {
+          "name": "GP",
+          "count": 8221
+        },
+        {
+          "name": "GZ",
+          "count": 2094
+        },
+        {
+          "name": "Go",
+          "count": 1390
+        }
+      ]
+    },
+    {
+      "name": "20-30K",
+      "count": 23314,
+      "group": "20-30K",
+      "job_count": 23314,
+      "avg_salary_k": 22.65,
+      "median_salary_k": 22.5,
+      "salary_min_k": 20.0,
+      "salary_q1_k": 20.5,
+      "salary_q3_k": 24.0,
+      "salary_max_k": 29.5,
+      "avg_annual_salary_k": 286.13,
+      "company_count": 16196,
+      "job_title_count": 14847,
+      "top_companies": [
+        {
+          "name": "company_648838",
+          "count": 203
+        },
+        {
+          "name": "company_678433",
+          "count": 104
+        },
+        {
+          "name": "company_387215",
+          "count": 88
+        },
+        {
+          "name": "company_802784",
+          "count": 67
+        },
+        {
+          "name": "company_635276",
+          "count": 61
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 374
+        },
+        {
+          "name": "143594a38184724594778ca447bc06fcwe",
+          "count": 225
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 209
+        },
+        {
+          "name": "63c630beb7b2f471af699f711207d28aVY",
+          "count": 177
+        },
+        {
+          "name": "0f788cd8169f5149bc519e585cf7148bGu",
+          "count": 121
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 3335
+        },
+        {
+          "name": "K115",
+          "count": 3176
+        },
+        {
+          "name": "P949",
+          "count": 2836
+        },
+        {
+          "name": "B170",
+          "count": 2191
+        },
+        {
+          "name": "Y232",
+          "count": 1623
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 2914
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 1804
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 985
+        },
+        {
+          "name": "type_xjtctu",
+          "count": 806
+        },
+        {
+          "name": "type_IWPTYt",
+          "count": 654
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "Eqh",
+          "count": 7946
+        },
+        {
+          "name": "EzN",
+          "count": 5960
+        },
+        {
+          "name": "EdD",
+          "count": 4155
+        },
+        {
+          "name": "Eas",
+          "count": 3943
+        },
+        {
+          "name": "EaZ",
+          "count": 744
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 13699
+        },
+        {
+          "name": "GI",
+          "count": 4679
+        },
+        {
+          "name": "GP",
+          "count": 2720
+        },
+        {
+          "name": "GZ",
+          "count": 1308
+        },
+        {
+          "name": "Go",
+          "count": 417
+        }
+      ]
+    },
+    {
+      "name": "30K+",
+      "count": 12148,
+      "group": "30K+",
+      "job_count": 12148,
+      "avg_salary_k": 39.33,
+      "median_salary_k": 35.0,
+      "salary_min_k": 30.0,
+      "salary_q1_k": 30.0,
+      "salary_q3_k": 42.5,
+      "salary_max_k": 255.0,
+      "avg_annual_salary_k": 520.31,
+      "company_count": 7448,
+      "job_title_count": 8723,
+      "top_companies": [
+        {
+          "name": "company_802784",
+          "count": 169
+        },
+        {
+          "name": "company_678433",
+          "count": 150
+        },
+        {
+          "name": "company_623498",
+          "count": 125
+        },
+        {
+          "name": "company_639598",
+          "count": 108
+        },
+        {
+          "name": "company_388086",
+          "count": 86
+        }
+      ],
+      "top_job_titles": [
+        {
+          "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+          "count": 82
+        },
+        {
+          "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+          "count": 61
+        },
+        {
+          "name": "32aaf57ac44954454d2ea8bd80dee594gn",
+          "count": 61
+        },
+        {
+          "name": "0267d6bf768486fee9e135bb99d78821Km",
+          "count": 58
+        },
+        {
+          "name": "4f69ee35bb3ceaf10106e4f0f84653d7vN",
+          "count": 44
+        }
+      ],
+      "top_cities": [
+        {
+          "name": "F047",
+          "count": 2486
+        },
+        {
+          "name": "K115",
+          "count": 1909
+        },
+        {
+          "name": "P949",
+          "count": 1688
+        },
+        {
+          "name": "B170",
+          "count": 1203
+        },
+        {
+          "name": "Y232",
+          "count": 748
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_BLfSmG",
+          "count": 2642
+        },
+        {
+          "name": "type_CbBLwi",
+          "count": 783
+        },
+        {
+          "name": "type_qrSFSq",
+          "count": 621
+        },
+        {
+          "name": "type_IWPTYt",
+          "count": 429
+        },
+        {
+          "name": "type_xjtctu",
+          "count": 426
+        }
+      ],
+      "top_experience": [
+        {
+          "name": "EzN",
+          "count": 4458
+        },
+        {
+          "name": "Eqh",
+          "count": 3437
+        },
+        {
+          "name": "EdD",
+          "count": 1669
+        },
+        {
+          "name": "Eas",
+          "count": 1288
+        },
+        {
+          "name": "EaZ",
+          "count": 1138
+        }
+      ],
+      "top_education": [
+        {
+          "name": "Gx",
+          "count": 8108
+        },
+        {
+          "name": "GI",
+          "count": 1386
+        },
+        {
+          "name": "GZ",
+          "count": 1141
+        },
+        {
+          "name": "GP",
+          "count": 965
+        },
+        {
+          "name": "Gz",
+          "count": 338
+        }
+      ]
+    }
+  ],
+  "experience_distribution": [
+    {
+      "name": "EdD",
+      "category": "EdD",
+      "count": 143523,
+      "job_count": 143523,
+      "ratio": 0.3408
+    },
+    {
+      "name": "Eas",
+      "category": "Eas",
+      "count": 137166,
+      "job_count": 137166,
+      "ratio": 0.3257
+    },
+    {
+      "name": "Eqh",
+      "category": "Eqh",
+      "count": 77688,
+      "job_count": 77688,
+      "ratio": 0.1845
+    },
+    {
+      "name": "EzN",
+      "category": "EzN",
+      "count": 30034,
+      "job_count": 30034,
+      "ratio": 0.0713
+    },
+    {
+      "name": "EKk",
+      "category": "EKk",
+      "count": 23930,
+      "job_count": 23930,
+      "ratio": 0.0568
+    },
+    {
+      "name": "Eby",
+      "category": "Eby",
+      "count": 4945,
+      "job_count": 4945,
+      "ratio": 0.0117
+    },
+    {
+      "name": "EaZ",
+      "category": "EaZ",
+      "count": 3818,
+      "job_count": 3818,
+      "ratio": 0.0091
+    },
+    {
+      "name": "ESu",
+      "category": "ESu",
+      "count": 56,
+      "job_count": 56,
+      "ratio": 0.0001
+    }
+  ],
+  "education_distribution": [
+    {
+      "name": "GI",
+      "category": "GI",
+      "count": 135402,
+      "job_count": 135402,
+      "ratio": 0.3215
+    },
+    {
+      "name": "Gx",
+      "category": "Gx",
+      "count": 114101,
+      "job_count": 114101,
+      "ratio": 0.2709
+    },
+    {
+      "name": "GP",
+      "category": "GP",
+      "count": 114039,
+      "job_count": 114039,
+      "ratio": 0.2708
+    },
+    {
+      "name": "Gy",
+      "category": "Gy",
+      "count": 23861,
+      "job_count": 23861,
+      "ratio": 0.0567
+    },
+    {
+      "name": "Go",
+      "category": "Go",
+      "count": 20865,
+      "job_count": 20865,
+      "ratio": 0.0495
+    },
+    {
+      "name": "GZ",
+      "category": "GZ",
+      "count": 6822,
+      "job_count": 6822,
+      "ratio": 0.0162
+    },
+    {
+      "name": "Gh",
+      "category": "Gh",
+      "count": 5417,
+      "job_count": 5417,
+      "ratio": 0.0129
+    },
+    {
+      "name": "Gz",
+      "category": "Gz",
+      "count": 653,
+      "job_count": 653,
+      "ratio": 0.0016
+    }
+  ]
+}

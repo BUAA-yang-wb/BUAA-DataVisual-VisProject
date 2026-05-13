@@ -2,6 +2,12 @@
   "dataset": "JobWanted",
   "raw_rows": 430664,
   "cleaned_rows": 421160,
+  "job_count": 421160,
+  "city_count": 371,
+  "industry_count": 158,
+  "job_title_count": 165235,
+  "avg_salary_k": 9.58,
+  "median_salary_k": 7.5,
   "retention_rate": 0.9779,
   "unique_counts": {
     "job_title": 165235,

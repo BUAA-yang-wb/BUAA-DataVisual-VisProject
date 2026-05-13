@@ -1,0 +1,82 @@
+[
+  {
+    "group": "Gz",
+    "name": "Gz",
+    "category": "Gz",
+    "count": 653,
+    "job_count": 653,
+    "ratio": 0.0016,
+    "avg_salary_k": 32.33,
+    "median_salary_k": 30.0
+  },
+  {
+    "group": "GZ",
+    "name": "GZ",
+    "category": "GZ",
+    "count": 6822,
+    "job_count": 6822,
+    "ratio": 0.0162,
+    "avg_salary_k": 19.11,
+    "median_salary_k": 15.0
+  },
+  {
+    "group": "Gx",
+    "name": "Gx",
+    "category": "Gx",
+    "count": 114101,
+    "job_count": 114101,
+    "ratio": 0.2709,
+    "avg_salary_k": 13.36,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "GI",
+    "name": "GI",
+    "category": "GI",
+    "count": 135402,
+    "job_count": 135402,
+    "ratio": 0.3215,
+    "avg_salary_k": 8.68,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "GP",
+    "name": "GP",
+    "category": "GP",
+    "count": 114039,
+    "job_count": 114039,
+    "ratio": 0.2708,
+    "avg_salary_k": 7.37,
+    "median_salary_k": 6.0
+  },
+  {
+    "group": "Go",
+    "name": "Go",
+    "category": "Go",
+    "count": 20865,
+    "job_count": 20865,
+    "ratio": 0.0495,
+    "avg_salary_k": 7.25,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "Gy",
+    "name": "Gy",
+    "category": "Gy",
+    "count": 23861,
+    "job_count": 23861,
+    "ratio": 0.0567,
+    "avg_salary_k": 6.71,
+    "median_salary_k": 6.0
+  },
+  {
+    "group": "Gh",
+    "name": "Gh",
+    "category": "Gh",
+    "count": 5417,
+    "job_count": 5417,
+    "ratio": 0.0129,
+    "avg_salary_k": 6.01,
+    "median_salary_k": 5.5
+  }
+]

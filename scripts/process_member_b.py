@@ -39,6 +39,9 @@ SALARY_BINS = [
     (30, float("inf"), "30K+"),
 ]
 
+TOP_VIEW_N = 20
+MIN_FRONTEND_GROUP_COUNT = 50
+
 CITY_RE = re.compile(r"^[A-Z]\d{3}$")
 SALARY_RANGE_RE = re.compile(
     r"^\s*(?P<low>\d+(?:\.\d+)?)\s*-\s*(?P<high>\d+(?:\.\d+)?)\s*"
@@ -201,19 +204,62 @@ def numeric_summary(values: list[float]) -> dict[str, Any]:
     }
 
 
+def ratio_records(counter: Counter[str], total: int | None = None) -> list[dict[str, Any]]:
+    denominator = total if total is not None else sum(counter.values())
+    records = []
+    for name, count in counter.most_common():
+        records.append(
+            {
+                "name": name,
+                "category": name,
+                "count": count,
+                "job_count": count,
+                "ratio": round(count / denominator, 4) if denominator else 0,
+            }
+        )
+    return records
+
+
+def entropy(counter: Counter[str]) -> float:
+    total = sum(counter.values())
+    if total == 0:
+        return 0.0
+    value = 0.0
+    for count in counter.values():
+        p = count / total
+        value -= p * math.log(p)
+    return value
+
+
+def normalize_map(values: dict[str, float]) -> dict[str, float]:
+    if not values:
+        return {}
+    low = min(values.values())
+    high = max(values.values())
+    if math.isclose(low, high):
+        return {key: 1.0 for key in values}
+    return {key: round((value - low) / (high - low), 4) for key, value in values.items()}
+
+
 def top_items(counter: Counter[str], n: int = 5) -> list[dict[str, Any]]:
     return [{"name": key, "count": count} for key, count in counter.most_common(n)]
 
 
 def group_to_record(name: str, agg: GroupAgg) -> dict[str, Any]:
+    salary_stats = numeric_summary(agg.salary_avg_values)
+    annual_salary_stats = numeric_summary(agg.annual_salary_values)
     return {
         "name": name,
         "count": agg.count,
-        "avg_salary_k": numeric_summary(agg.salary_avg_values)["avg"],
-        "median_salary_k": numeric_summary(agg.salary_avg_values)["median"],
-        "salary_q1_k": numeric_summary(agg.salary_avg_values)["q1"],
-        "salary_q3_k": numeric_summary(agg.salary_avg_values)["q3"],
-        "avg_annual_salary_k": numeric_summary(agg.annual_salary_values)["avg"],
+        "group": name,
+        "job_count": agg.count,
+        "avg_salary_k": salary_stats["avg"],
+        "median_salary_k": salary_stats["median"],
+        "salary_min_k": salary_stats["min"],
+        "salary_q1_k": salary_stats["q1"],
+        "salary_q3_k": salary_stats["q3"],
+        "salary_max_k": salary_stats["max"],
+        "avg_annual_salary_k": annual_salary_stats["avg"],
         "company_count": len(agg.companies),
         "job_title_count": len(agg.job_titles),
         "top_companies": top_items(agg.companies, 5),
@@ -338,16 +384,27 @@ def write_cleaned_csv(path: Path, rows: list[dict[str, Any]]) -> None:
 def build_overview(rows: list[dict[str, Any]], quality: dict[str, Any]) -> dict[str, Any]:
     salaries = [float(row["salary_avg_k"]) for row in rows]
     annual_salaries = [float(row["salary_annual_k"]) for row in rows]
+    monthly_summary = numeric_summary(salaries)
+    annual_summary = numeric_summary(annual_salaries)
+    city_count = len({row["city"] for row in rows})
+    industry_count = len({row["company_type"] for row in rows})
+    job_title_count = len({row["job_title"] for row in rows})
     return {
         "dataset": "JobWanted",
         "raw_rows": quality["raw_rows"],
         "cleaned_rows": quality["cleaned_rows"],
+        "job_count": len(rows),
+        "city_count": city_count,
+        "industry_count": industry_count,
+        "job_title_count": job_title_count,
+        "avg_salary_k": monthly_summary["avg"],
+        "median_salary_k": monthly_summary["median"],
         "retention_rate": round(quality["cleaned_rows"] / quality["raw_rows"], 4)
         if quality["raw_rows"]
         else 0,
         "unique_counts": quality["unique_counts_after_cleaning"],
-        "monthly_salary_k": numeric_summary(salaries),
-        "annual_salary_k": numeric_summary(annual_salaries),
+        "monthly_salary_k": monthly_summary,
+        "annual_salary_k": annual_summary,
         "salary_level_distribution": Counter(row["salary_level"] for row in rows),
         "salary_bin_distribution": Counter(row["salary_bin"] for row in rows),
     }
@@ -379,13 +436,262 @@ def build_heatmap(rows: list[dict[str, Any]], top_cities: int = 30, top_industri
             {
                 "city": city,
                 "company_type": industry,
+                "industry": industry,
                 "count": agg.count,
+                "job_count": agg.count,
                 "avg_salary_k": salary_stats["avg"],
                 "median_salary_k": salary_stats["median"],
             }
         )
     records.sort(key=lambda item: (item["city"], item["company_type"]))
     return records
+
+
+def build_category_distribution(rows: list[dict[str, Any]], key: str) -> list[dict[str, Any]]:
+    return ratio_records(Counter(row[key] for row in rows), len(rows))
+
+
+def build_salary_boxplot(rows: list[dict[str, Any]], key: str, min_count: int = MIN_FRONTEND_GROUP_COUNT) -> list[dict[str, Any]]:
+    grouped: dict[str, GroupAgg] = defaultdict(GroupAgg)
+    for row in rows:
+        grouped[row[key]].add(row)
+
+    records = []
+    for name, agg in grouped.items():
+        if agg.count < min_count:
+            continue
+        stats = numeric_summary(agg.salary_avg_values)
+        records.append(
+            {
+                "group": name,
+                "name": name,
+                "count": agg.count,
+                "job_count": agg.count,
+                "salary_min_k": stats["min"],
+                "salary_q1_k": stats["q1"],
+                "median_salary_k": stats["median"],
+                "salary_q3_k": stats["q3"],
+                "salary_max_k": stats["max"],
+                "avg_salary_k": stats["avg"],
+            }
+        )
+    records.sort(key=lambda item: (-item["job_count"], item["group"]))
+    return records
+
+
+def build_salary_scatter(rows: list[dict[str, Any]], key: str, min_count: int = MIN_FRONTEND_GROUP_COUNT) -> list[dict[str, Any]]:
+    records = []
+    for item in aggregate_by(rows, key):
+        if item["job_count"] >= min_count:
+            records.append(
+                {
+                    "group": item["name"],
+                    "name": item["name"],
+                    "count": item["job_count"],
+                    "job_count": item["job_count"],
+                    "avg_salary_k": item["avg_salary_k"],
+                    "median_salary_k": item["median_salary_k"],
+                }
+            )
+    records.sort(key=lambda item: (-item["job_count"], item["group"]))
+    return records
+
+
+def build_category_salary_stats(rows: list[dict[str, Any]], key: str) -> list[dict[str, Any]]:
+    grouped: dict[str, GroupAgg] = defaultdict(GroupAgg)
+    for row in rows:
+        grouped[row[key]].add(row)
+
+    records = []
+    for name, agg in grouped.items():
+        stats = numeric_summary(agg.salary_avg_values)
+        records.append(
+            {
+                "group": name,
+                "name": name,
+                "category": name,
+                "count": agg.count,
+                "job_count": agg.count,
+                "ratio": round(agg.count / len(rows), 4) if rows else 0,
+                "avg_salary_k": stats["avg"],
+                "median_salary_k": stats["median"],
+            }
+        )
+    records.sort(key=lambda item: (-item["avg_salary_k"], -item["job_count"], item["group"]))
+    return records
+
+
+def build_cross_distribution(
+    rows: list[dict[str, Any]],
+    primary_key: str,
+    category_key: str,
+    primary_top_n: int = TOP_VIEW_N,
+) -> list[dict[str, Any]]:
+    selected = {
+        name
+        for name, _ in Counter(row[primary_key] for row in rows).most_common(primary_top_n)
+    }
+    grouped: dict[str, Counter[str]] = defaultdict(Counter)
+    for row in rows:
+        if row[primary_key] in selected:
+            grouped[row[primary_key]][row[category_key]] += 1
+
+    records = []
+    for primary_name, counter in grouped.items():
+        total = sum(counter.values())
+        for category_name, count in counter.most_common():
+            records.append(
+                {
+                    primary_key: primary_name,
+                    "category": category_name,
+                    "dimension": category_key,
+                    "count": count,
+                    "job_count": count,
+                    "ratio": round(count / total, 4) if total else 0,
+                }
+            )
+    records.sort(key=lambda item: (item[primary_key], item["dimension"], -item["count"], item["category"]))
+    return records
+
+
+def build_job_profile_cards(rows: list[dict[str, Any]], top_n: int = TOP_VIEW_N) -> list[dict[str, Any]]:
+    grouped: dict[str, GroupAgg] = defaultdict(GroupAgg)
+    for row in rows:
+        grouped[row["job_title"]].add(row)
+
+    top_jobs = [name for name, _ in Counter(row["job_title"] for row in rows).most_common(top_n)]
+    records = []
+    for job_title in top_jobs:
+        agg = grouped[job_title]
+        salary_stats = numeric_summary(agg.salary_avg_values)
+        records.append(
+            {
+                "job_title": job_title,
+                "count": agg.count,
+                "job_count": agg.count,
+                "avg_salary_k": salary_stats["avg"],
+                "median_salary_k": salary_stats["median"],
+                "salary_q1_k": salary_stats["q1"],
+                "salary_q3_k": salary_stats["q3"],
+                "top_cities": top_items(agg.cities, 10),
+                "top_industries": top_items(agg.industries, 10),
+                "experience_distribution": ratio_records(agg.experiences, agg.count),
+                "education_distribution": ratio_records(agg.educations, agg.count),
+            }
+        )
+    return records
+
+
+def build_experience_salary_rank(rows: list[dict[str, Any]]) -> dict[str, float]:
+    grouped: dict[str, list[float]] = defaultdict(list)
+    for row in rows:
+        grouped[row["experience"]].append(float(row["salary_avg_k"]))
+    ranked = sorted((mean(values), name) for name, values in grouped.items())
+    if len(ranked) <= 1:
+        return {name: 1.0 for _, name in ranked}
+    return {name: index / (len(ranked) - 1) for index, (_, name) in enumerate(ranked)}
+
+
+def build_city_radar(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    grouped: dict[str, GroupAgg] = defaultdict(GroupAgg)
+    for row in rows:
+        grouped[row["city"]].add(row)
+
+    exp_rank = build_experience_salary_rank(rows)
+    raw_activity = {city: agg.count for city, agg in grouped.items()}
+    raw_salary = {city: mean(agg.salary_avg_values) for city, agg in grouped.items()}
+    raw_diversity = {city: entropy(agg.industries) for city, agg in grouped.items()}
+    raw_exp_level = {}
+    for city, agg in grouped.items():
+        total = sum(agg.experiences.values())
+        raw_exp_level[city] = (
+            sum(exp_rank.get(name, 0) * count for name, count in agg.experiences.items()) / total
+            if total
+            else 0
+        )
+
+    normalized = {
+        "activity_index": normalize_map(raw_activity),
+        "salary_index": normalize_map(raw_salary),
+        "industry_diversity": normalize_map(raw_diversity),
+        "experience_level": normalize_map(raw_exp_level),
+    }
+    raw_values = {
+        "activity_index": raw_activity,
+        "salary_index": raw_salary,
+        "industry_diversity": raw_diversity,
+        "experience_level": raw_exp_level,
+    }
+
+    records = []
+    for city, agg in grouped.items():
+        for metric_name in normalized:
+            records.append(
+                {
+                    "city": city,
+                    "metric_name": metric_name,
+                    "value": normalized[metric_name][city],
+                    "raw_value": round(raw_values[metric_name][city], 4),
+                    "job_count": agg.count,
+                    "avg_salary_k": round(raw_salary[city], 2),
+                }
+            )
+    records.sort(key=lambda item: (item["city"], item["metric_name"]))
+    return records
+
+
+def standardize_vectors(vectors: dict[str, list[float]]) -> dict[str, list[float]]:
+    if not vectors:
+        return {}
+    width = len(next(iter(vectors.values())))
+    columns = [[vector[index] for vector in vectors.values()] for index in range(width)]
+    means = [mean(column) for column in columns]
+    stdevs = []
+    for column, column_mean in zip(columns, means):
+        variance = mean((value - column_mean) ** 2 for value in column)
+        stdevs.append(math.sqrt(variance) or 1.0)
+    return {
+        name: [(value - means[index]) / stdevs[index] for index, value in enumerate(vector)]
+        for name, vector in vectors.items()
+    }
+
+
+def euclidean_distance(left: list[float], right: list[float]) -> float:
+    return math.sqrt(sum((a - b) ** 2 for a, b in zip(left, right)))
+
+
+def assign_simple_clusters(vectors: dict[str, list[float]], cluster_count: int = 6) -> dict[str, int]:
+    if not vectors:
+        return {}
+    names = sorted(vectors)
+    k = min(cluster_count, len(names))
+    seed_indexes = [round(index * (len(names) - 1) / max(k - 1, 1)) for index in range(k)]
+    centroids = [vectors[names[index]][:] for index in seed_indexes]
+    assignments = {name: 0 for name in names}
+
+    for _ in range(25):
+        changed = False
+        for name in names:
+            distances = [euclidean_distance(vectors[name], centroid) for centroid in centroids]
+            cluster_id = min(range(k), key=lambda index: distances[index])
+            if assignments[name] != cluster_id:
+                assignments[name] = cluster_id
+                changed = True
+
+        next_centroids = []
+        for cluster_id in range(k):
+            members = [vectors[name] for name in names if assignments[name] == cluster_id]
+            if not members:
+                next_centroids.append(centroids[cluster_id])
+                continue
+            next_centroids.append(
+                [mean(member[index] for member in members) for index in range(len(centroids[cluster_id]))]
+            )
+        centroids = next_centroids
+        if not changed:
+            break
+
+    return assignments
 
 
 def cosine_similarity(left: list[float], right: list[float]) -> float:
@@ -416,17 +722,23 @@ def build_city_similarity(rows: list[dict[str, Any]], top_city_n: int = 80) -> l
         avg_salary = mean(float(row["salary_avg_k"]) for row in items)
         high_salary_rate = sum(float(row["salary_avg_k"]) >= 12 for row in items) / count
         industry_counts = Counter(row["company_type"] for row in items)
+        industry_top1_share = max(industry_counts.values()) / count if industry_counts else 0
         experience_counts = Counter(row["experience"] for row in items)
         education_counts = Counter(row["education"] for row in items)
         vector = [
             count / global_max_count,
             avg_salary / 50,
             high_salary_rate,
+            entropy(industry_counts) / 5,
+            industry_top1_share,
         ]
         vector.extend(industry_counts[item] / count for item in top_industries)
         vector.extend(experience_counts[item] / count for item in top_experiences)
         vector.extend(education_counts[item] / count for item in top_educations)
         vectors[city] = vector
+
+    standardized = standardize_vectors(vectors)
+    clusters = assign_simple_clusters(standardized, cluster_count=6)
 
     records = []
     for city, vector in vectors.items():
@@ -441,10 +753,30 @@ def build_city_similarity(rows: list[dict[str, Any]], top_city_n: int = 80) -> l
                 }
             )
         candidates.sort(key=lambda item: (-item["similarity"], item["city"]))
+        city_items = city_rows[city]
+        avg_salary = mean(float(row["salary_avg_k"]) for row in city_items)
+        x = standardized[city][0] if standardized.get(city) else 0
+        y = standardized[city][1] if standardized.get(city) and len(standardized[city]) > 1 else 0
         records.append(
             {
                 "city": city,
                 "count": len(city_rows[city]),
+                "job_count": len(city_rows[city]),
+                "avg_salary_k": round(avg_salary, 2),
+                "cluster_id": clusters.get(city, 0),
+                "x": round(x, 4),
+                "y": round(y, 4),
+                "city_vector": [round(value, 4) for value in vector],
+                "vector_features": [
+                    "job_count_index",
+                    "avg_salary_index",
+                    "high_salary_rate",
+                    "industry_diversity",
+                    "industry_top1_share",
+                    *[f"industry:{item}" for item in top_industries],
+                    *[f"experience:{item}" for item in top_experiences],
+                    *[f"education:{item}" for item in top_educations],
+                ],
                 "top_similar_cities": candidates[:5],
             }
         )
@@ -625,6 +957,7 @@ def build_field_dictionary() -> str:
 
 def write_outputs(rows: list[dict[str, Any]], quality: dict[str, Any], output_dir: Path, top_n: int, min_group_count: int) -> None:
     aggregate_dir = output_dir / "aggregates"
+    views_dir = output_dir / "views"
 
     write_cleaned_csv(output_dir / "cleaned_jobs.csv", rows)
 
@@ -645,6 +978,66 @@ def write_outputs(rows: list[dict[str, Any]], quality: dict[str, Any], output_di
     write_json(aggregate_dir / "salary_distribution.json", build_salary_distribution(rows))
     write_json(aggregate_dir / "city_industry_heatmap.json", build_heatmap(rows))
     write_json(aggregate_dir / "city_similarity.json", build_city_similarity(rows))
+    write_json(aggregate_dir / "experience_distribution.json", build_category_distribution(rows, "experience"))
+    write_json(aggregate_dir / "education_distribution.json", build_category_distribution(rows, "education"))
+    write_json(aggregate_dir / "salary_boxplot_city.json", build_salary_boxplot(rows, "city"))
+    write_json(aggregate_dir / "salary_boxplot_industry.json", build_salary_boxplot(rows, "company_type"))
+    write_json(aggregate_dir / "salary_scatter_city.json", build_salary_scatter(rows, "city"))
+    write_json(aggregate_dir / "salary_scatter_industry.json", build_salary_scatter(rows, "company_type"))
+    write_json(aggregate_dir / "salary_by_experience.json", build_category_salary_stats(rows, "experience"))
+    write_json(aggregate_dir / "salary_by_education.json", build_category_salary_stats(rows, "education"))
+    write_json(
+        aggregate_dir / "job_requirement_distribution.json",
+        {
+            "experience": build_cross_distribution(rows, "job_title", "experience"),
+            "education": build_cross_distribution(rows, "job_title", "education"),
+        },
+    )
+    write_json(aggregate_dir / "job_profile_cards.json", build_job_profile_cards(rows))
+    write_json(aggregate_dir / "city_radar.json", build_city_radar(rows))
+
+    write_json(
+        views_dir / "overview_page.json",
+        {
+            "kpi": overview,
+            "top_cities": city_stats[:TOP_VIEW_N],
+            "top_industries": industry_stats[:TOP_VIEW_N],
+            "salary_distribution": build_salary_distribution(rows),
+            "experience_distribution": build_category_distribution(rows, "experience"),
+            "education_distribution": build_category_distribution(rows, "education"),
+        },
+    )
+    write_json(
+        views_dir / "salary_patterns_page.json",
+        {
+            "city_boxplot": build_salary_boxplot(rows, "city"),
+            "industry_boxplot": build_salary_boxplot(rows, "company_type"),
+            "city_industry_heatmap": build_heatmap(rows),
+            "city_scatter": build_salary_scatter(rows, "city"),
+            "industry_scatter": build_salary_scatter(rows, "company_type"),
+            "experience_salary": build_category_salary_stats(rows, "experience"),
+            "education_salary": build_category_salary_stats(rows, "education"),
+        },
+    )
+    write_json(
+        views_dir / "job_profile_page.json",
+        {
+            "top_jobs": job_stats[:TOP_VIEW_N],
+            "requirement_distribution": {
+                "experience": build_cross_distribution(rows, "job_title", "experience"),
+                "education": build_cross_distribution(rows, "job_title", "education"),
+            },
+            "profile_cards": build_job_profile_cards(rows),
+        },
+    )
+    write_json(
+        views_dir / "region_portrait_page.json",
+        {
+            "city_stats": city_stats,
+            "city_radar": build_city_radar(rows),
+            "city_similarity": build_city_similarity(rows),
+        },
+    )
     write_json(
         output_dir / "insights.json",
         make_insights(rows, city_stats, industry_stats, job_stats, experience_stats, min_group_count),
