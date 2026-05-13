@@ -1,0 +1,19 @@
+{
+  "raw_rows": 430664,
+  "cleaned_rows": 421160,
+  "dropped_rows": 9504,
+  "duplicate_rows": 53,
+  "missing_counts": {},
+  "dropped_reasons": {
+    "invalid_salary": 9451,
+    "duplicate_row": 53
+  },
+  "unique_counts_after_cleaning": {
+    "job_title": 165235,
+    "city": 371,
+    "experience": 8,
+    "education": 8,
+    "company": 263268,
+    "company_type": 158
+  }
+}

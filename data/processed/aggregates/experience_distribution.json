@@ -1,0 +1,58 @@
+[
+  {
+    "name": "EdD",
+    "category": "EdD",
+    "count": 143523,
+    "job_count": 143523,
+    "ratio": 0.3408
+  },
+  {
+    "name": "Eas",
+    "category": "Eas",
+    "count": 137166,
+    "job_count": 137166,
+    "ratio": 0.3257
+  },
+  {
+    "name": "Eqh",
+    "category": "Eqh",
+    "count": 77688,
+    "job_count": 77688,
+    "ratio": 0.1845
+  },
+  {
+    "name": "EzN",
+    "category": "EzN",
+    "count": 30034,
+    "job_count": 30034,
+    "ratio": 0.0713
+  },
+  {
+    "name": "EKk",
+    "category": "EKk",
+    "count": 23930,
+    "job_count": 23930,
+    "ratio": 0.0568
+  },
+  {
+    "name": "Eby",
+    "category": "Eby",
+    "count": 4945,
+    "job_count": 4945,
+    "ratio": 0.0117
+  },
+  {
+    "name": "EaZ",
+    "category": "EaZ",
+    "count": 3818,
+    "job_count": 3818,
+    "ratio": 0.0091
+  },
+  {
+    "name": "ESu",
+    "category": "ESu",
+    "count": 56,
+    "job_count": 56,
+    "ratio": 0.0001
+  }
+]

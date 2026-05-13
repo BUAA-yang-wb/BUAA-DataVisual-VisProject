@@ -1,0 +1,1178 @@
+[
+  {
+    "group": "type_BLfSmG",
+    "name": "type_BLfSmG",
+    "count": 20676,
+    "job_count": 20676,
+    "avg_salary_k": 15.43,
+    "median_salary_k": 11.5
+  },
+  {
+    "group": "type_lOdYUb",
+    "name": "type_lOdYUb",
+    "count": 20039,
+    "job_count": 20039,
+    "avg_salary_k": 8.14,
+    "median_salary_k": 7.0
+  },
+  {
+    "group": "type_uTAWZv",
+    "name": "type_uTAWZv",
+    "count": 19185,
+    "job_count": 19185,
+    "avg_salary_k": 5.92,
+    "median_salary_k": 5.0
+  },
+  {
+    "group": "type_qrSFSq",
+    "name": "type_qrSFSq",
+    "count": 18458,
+    "job_count": 18458,
+    "avg_salary_k": 9.88,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_CbBLwi",
+    "name": "type_CbBLwi",
+    "count": 13253,
+    "job_count": 13253,
+    "avg_salary_k": 13.68,
+    "median_salary_k": 11.5
+  },
+  {
+    "group": "type_fFlUqG",
+    "name": "type_fFlUqG",
+    "count": 13214,
+    "job_count": 13214,
+    "avg_salary_k": 7.34,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_yZblEo",
+    "name": "type_yZblEo",
+    "count": 12730,
+    "job_count": 12730,
+    "avg_salary_k": 8.44,
+    "median_salary_k": 7.0
+  },
+  {
+    "group": "type_qGLNuz",
+    "name": "type_qGLNuz",
+    "count": 12028,
+    "job_count": 12028,
+    "avg_salary_k": 7.46,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_YOHpQY",
+    "name": "type_YOHpQY",
+    "count": 10831,
+    "job_count": 10831,
+    "avg_salary_k": 8.27,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_HfjYoW",
+    "name": "type_HfjYoW",
+    "count": 10437,
+    "job_count": 10437,
+    "avg_salary_k": 7.7,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_qhLBWb",
+    "name": "type_qhLBWb",
+    "count": 8830,
+    "job_count": 8830,
+    "avg_salary_k": 8.72,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_vrMpBQ",
+    "name": "type_vrMpBQ",
+    "count": 8380,
+    "job_count": 8380,
+    "avg_salary_k": 8.79,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_lYwbWD",
+    "name": "type_lYwbWD",
+    "count": 7932,
+    "job_count": 7932,
+    "avg_salary_k": 8.22,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_PCcrub",
+    "name": "type_PCcrub",
+    "count": 7814,
+    "job_count": 7814,
+    "avg_salary_k": 7.93,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_qnHODO",
+    "name": "type_qnHODO",
+    "count": 7579,
+    "job_count": 7579,
+    "avg_salary_k": 6.5,
+    "median_salary_k": 5.5
+  },
+  {
+    "group": "type_ZcPYrP",
+    "name": "type_ZcPYrP",
+    "count": 7562,
+    "job_count": 7562,
+    "avg_salary_k": 11.0,
+    "median_salary_k": 9.0
+  },
+  {
+    "group": "type_HcIRlZ",
+    "name": "type_HcIRlZ",
+    "count": 7297,
+    "job_count": 7297,
+    "avg_salary_k": 9.05,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_XqvUzw",
+    "name": "type_XqvUzw",
+    "count": 7252,
+    "job_count": 7252,
+    "avg_salary_k": 5.19,
+    "median_salary_k": 4.5
+  },
+  {
+    "group": "type_BmzsHA",
+    "name": "type_BmzsHA",
+    "count": 7131,
+    "job_count": 7131,
+    "avg_salary_k": 10.92,
+    "median_salary_k": 9.0
+  },
+  {
+    "group": "type_lwxCGv",
+    "name": "type_lwxCGv",
+    "count": 6475,
+    "job_count": 6475,
+    "avg_salary_k": 7.75,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_SNJDAt",
+    "name": "type_SNJDAt",
+    "count": 6203,
+    "job_count": 6203,
+    "avg_salary_k": 9.63,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_pmgfTy",
+    "name": "type_pmgfTy",
+    "count": 6029,
+    "job_count": 6029,
+    "avg_salary_k": 10.97,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_FwqxZf",
+    "name": "type_FwqxZf",
+    "count": 5671,
+    "job_count": 5671,
+    "avg_salary_k": 8.62,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_xjtctu",
+    "name": "type_xjtctu",
+    "count": 5450,
+    "job_count": 5450,
+    "avg_salary_k": 13.96,
+    "median_salary_k": 11.5
+  },
+  {
+    "group": "type_uipXwT",
+    "name": "type_uipXwT",
+    "count": 5435,
+    "job_count": 5435,
+    "avg_salary_k": 8.49,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_ruszQK",
+    "name": "type_ruszQK",
+    "count": 5270,
+    "job_count": 5270,
+    "avg_salary_k": 9.44,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_QbeiZo",
+    "name": "type_QbeiZo",
+    "count": 5158,
+    "job_count": 5158,
+    "avg_salary_k": 10.56,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_jIzdnZ",
+    "name": "type_jIzdnZ",
+    "count": 4821,
+    "job_count": 4821,
+    "avg_salary_k": 10.82,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_ZIwauc",
+    "name": "type_ZIwauc",
+    "count": 4776,
+    "job_count": 4776,
+    "avg_salary_k": 13.5,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_FdhMSx",
+    "name": "type_FdhMSx",
+    "count": 4746,
+    "job_count": 4746,
+    "avg_salary_k": 6.64,
+    "median_salary_k": 5.5
+  },
+  {
+    "group": "type_IWPTYt",
+    "name": "type_IWPTYt",
+    "count": 4570,
+    "job_count": 4570,
+    "avg_salary_k": 14.38,
+    "median_salary_k": 11.0
+  },
+  {
+    "group": "type_irYhZM",
+    "name": "type_irYhZM",
+    "count": 4480,
+    "job_count": 4480,
+    "avg_salary_k": 9.93,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_GXFMik",
+    "name": "type_GXFMik",
+    "count": 4436,
+    "job_count": 4436,
+    "avg_salary_k": 7.76,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_BPRUkx",
+    "name": "type_BPRUkx",
+    "count": 4253,
+    "job_count": 4253,
+    "avg_salary_k": 13.39,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_aAuygy",
+    "name": "type_aAuygy",
+    "count": 4171,
+    "job_count": 4171,
+    "avg_salary_k": 8.27,
+    "median_salary_k": 7.0
+  },
+  {
+    "group": "type_MmKysX",
+    "name": "type_MmKysX",
+    "count": 3873,
+    "job_count": 3873,
+    "avg_salary_k": 9.1,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_plzlSo",
+    "name": "type_plzlSo",
+    "count": 3763,
+    "job_count": 3763,
+    "avg_salary_k": 10.81,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_fvIHbx",
+    "name": "type_fvIHbx",
+    "count": 3744,
+    "job_count": 3744,
+    "avg_salary_k": 7.46,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_fWnADK",
+    "name": "type_fWnADK",
+    "count": 3671,
+    "job_count": 3671,
+    "avg_salary_k": 9.18,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_UUMBcC",
+    "name": "type_UUMBcC",
+    "count": 3622,
+    "job_count": 3622,
+    "avg_salary_k": 10.38,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_xfFBgF",
+    "name": "type_xfFBgF",
+    "count": 3517,
+    "job_count": 3517,
+    "avg_salary_k": 7.83,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_cPyqFN",
+    "name": "type_cPyqFN",
+    "count": 3362,
+    "job_count": 3362,
+    "avg_salary_k": 13.59,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_xvJgzl",
+    "name": "type_xvJgzl",
+    "count": 3215,
+    "job_count": 3215,
+    "avg_salary_k": 10.86,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_Hzhxlm",
+    "name": "type_Hzhxlm",
+    "count": 3201,
+    "job_count": 3201,
+    "avg_salary_k": 8.63,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_LPhcvI",
+    "name": "type_LPhcvI",
+    "count": 3175,
+    "job_count": 3175,
+    "avg_salary_k": 7.37,
+    "median_salary_k": 6.0
+  },
+  {
+    "group": "type_xkGnwk",
+    "name": "type_xkGnwk",
+    "count": 2992,
+    "job_count": 2992,
+    "avg_salary_k": 9.96,
+    "median_salary_k": 7.93
+  },
+  {
+    "group": "type_MhfbrD",
+    "name": "type_MhfbrD",
+    "count": 2911,
+    "job_count": 2911,
+    "avg_salary_k": 5.65,
+    "median_salary_k": 4.5
+  },
+  {
+    "group": "type_MDYYNy",
+    "name": "type_MDYYNy",
+    "count": 2852,
+    "job_count": 2852,
+    "avg_salary_k": 9.66,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_BByMdf",
+    "name": "type_BByMdf",
+    "count": 2801,
+    "job_count": 2801,
+    "avg_salary_k": 9.79,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_birMPO",
+    "name": "type_birMPO",
+    "count": 2636,
+    "job_count": 2636,
+    "avg_salary_k": 8.95,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_xKVDuy",
+    "name": "type_xKVDuy",
+    "count": 2624,
+    "job_count": 2624,
+    "avg_salary_k": 12.3,
+    "median_salary_k": 10.0
+  },
+  {
+    "group": "type_PanQpo",
+    "name": "type_PanQpo",
+    "count": 2541,
+    "job_count": 2541,
+    "avg_salary_k": 8.33,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_gtGYMQ",
+    "name": "type_gtGYMQ",
+    "count": 2524,
+    "job_count": 2524,
+    "avg_salary_k": 14.79,
+    "median_salary_k": 11.0
+  },
+  {
+    "group": "type_rJQdMX",
+    "name": "type_rJQdMX",
+    "count": 2309,
+    "job_count": 2309,
+    "avg_salary_k": 7.89,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_NKZQoO",
+    "name": "type_NKZQoO",
+    "count": 2233,
+    "job_count": 2233,
+    "avg_salary_k": 11.42,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_bMfEOy",
+    "name": "type_bMfEOy",
+    "count": 2199,
+    "job_count": 2199,
+    "avg_salary_k": 14.4,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_bMIeXj",
+    "name": "type_bMIeXj",
+    "count": 2120,
+    "job_count": 2120,
+    "avg_salary_k": 10.21,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_vOhwEs",
+    "name": "type_vOhwEs",
+    "count": 2116,
+    "job_count": 2116,
+    "avg_salary_k": 12.96,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_kCfcsh",
+    "name": "type_kCfcsh",
+    "count": 2105,
+    "job_count": 2105,
+    "avg_salary_k": 7.44,
+    "median_salary_k": 6.0
+  },
+  {
+    "group": "type_MPxoTH",
+    "name": "type_MPxoTH",
+    "count": 2022,
+    "job_count": 2022,
+    "avg_salary_k": 11.76,
+    "median_salary_k": 9.0
+  },
+  {
+    "group": "type_YgqIFe",
+    "name": "type_YgqIFe",
+    "count": 1811,
+    "job_count": 1811,
+    "avg_salary_k": 8.79,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_oWxwZg",
+    "name": "type_oWxwZg",
+    "count": 1699,
+    "job_count": 1699,
+    "avg_salary_k": 6.25,
+    "median_salary_k": 5.5
+  },
+  {
+    "group": "type_DiAZyX",
+    "name": "type_DiAZyX",
+    "count": 1637,
+    "job_count": 1637,
+    "avg_salary_k": 9.19,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_QHXrbv",
+    "name": "type_QHXrbv",
+    "count": 1468,
+    "job_count": 1468,
+    "avg_salary_k": 9.78,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_DNepgK",
+    "name": "type_DNepgK",
+    "count": 1447,
+    "job_count": 1447,
+    "avg_salary_k": 8.48,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_YwwqZR",
+    "name": "type_YwwqZR",
+    "count": 1399,
+    "job_count": 1399,
+    "avg_salary_k": 9.06,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_qkdgGE",
+    "name": "type_qkdgGE",
+    "count": 1364,
+    "job_count": 1364,
+    "avg_salary_k": 12.67,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_iQQmHS",
+    "name": "type_iQQmHS",
+    "count": 1283,
+    "job_count": 1283,
+    "avg_salary_k": 6.34,
+    "median_salary_k": 5.5
+  },
+  {
+    "group": "type_AWbXKM",
+    "name": "type_AWbXKM",
+    "count": 1281,
+    "job_count": 1281,
+    "avg_salary_k": 9.62,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_TCHRUI",
+    "name": "type_TCHRUI",
+    "count": 1164,
+    "job_count": 1164,
+    "avg_salary_k": 7.09,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_OGhnqx",
+    "name": "type_OGhnqx",
+    "count": 1155,
+    "job_count": 1155,
+    "avg_salary_k": 11.22,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_HtAHwu",
+    "name": "type_HtAHwu",
+    "count": 1118,
+    "job_count": 1118,
+    "avg_salary_k": 8.6,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_SgStOb",
+    "name": "type_SgStOb",
+    "count": 1114,
+    "job_count": 1114,
+    "avg_salary_k": 9.72,
+    "median_salary_k": 6.75
+  },
+  {
+    "group": "type_cTQtSq",
+    "name": "type_cTQtSq",
+    "count": 1114,
+    "job_count": 1114,
+    "avg_salary_k": 13.21,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_oAXCMx",
+    "name": "type_oAXCMx",
+    "count": 1082,
+    "job_count": 1082,
+    "avg_salary_k": 7.9,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_EALDJm",
+    "name": "type_EALDJm",
+    "count": 1014,
+    "job_count": 1014,
+    "avg_salary_k": 11.12,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_cVhkbn",
+    "name": "type_cVhkbn",
+    "count": 965,
+    "job_count": 965,
+    "avg_salary_k": 17.73,
+    "median_salary_k": 12.5
+  },
+  {
+    "group": "type_HfKfzV",
+    "name": "type_HfKfzV",
+    "count": 861,
+    "job_count": 861,
+    "avg_salary_k": 13.44,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_PkWZvJ",
+    "name": "type_PkWZvJ",
+    "count": 851,
+    "job_count": 851,
+    "avg_salary_k": 17.89,
+    "median_salary_k": 12.5
+  },
+  {
+    "group": "type_sfleWH",
+    "name": "type_sfleWH",
+    "count": 848,
+    "job_count": 848,
+    "avg_salary_k": 9.1,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_rEfHmL",
+    "name": "type_rEfHmL",
+    "count": 786,
+    "job_count": 786,
+    "avg_salary_k": 8.23,
+    "median_salary_k": 7.0
+  },
+  {
+    "group": "type_amzGIA",
+    "name": "type_amzGIA",
+    "count": 782,
+    "job_count": 782,
+    "avg_salary_k": 9.17,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_fnLTiU",
+    "name": "type_fnLTiU",
+    "count": 766,
+    "job_count": 766,
+    "avg_salary_k": 12.32,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_EQAguk",
+    "name": "type_EQAguk",
+    "count": 751,
+    "job_count": 751,
+    "avg_salary_k": 11.66,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_WdjlyG",
+    "name": "type_WdjlyG",
+    "count": 737,
+    "job_count": 737,
+    "avg_salary_k": 9.28,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_wiXJCA",
+    "name": "type_wiXJCA",
+    "count": 689,
+    "job_count": 689,
+    "avg_salary_k": 8.62,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_kwzqET",
+    "name": "type_kwzqET",
+    "count": 685,
+    "job_count": 685,
+    "avg_salary_k": 8.14,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_sDXgXU",
+    "name": "type_sDXgXU",
+    "count": 684,
+    "job_count": 684,
+    "avg_salary_k": 10.07,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_oWfbru",
+    "name": "type_oWfbru",
+    "count": 662,
+    "job_count": 662,
+    "avg_salary_k": 9.72,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_PkZpfa",
+    "name": "type_PkZpfa",
+    "count": 631,
+    "job_count": 631,
+    "avg_salary_k": 9.94,
+    "median_salary_k": 9.0
+  },
+  {
+    "group": "type_vjgYNw",
+    "name": "type_vjgYNw",
+    "count": 597,
+    "job_count": 597,
+    "avg_salary_k": 8.95,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_RjsWZd",
+    "name": "type_RjsWZd",
+    "count": 593,
+    "job_count": 593,
+    "avg_salary_k": 10.62,
+    "median_salary_k": 9.0
+  },
+  {
+    "group": "type_NzejLx",
+    "name": "type_NzejLx",
+    "count": 579,
+    "job_count": 579,
+    "avg_salary_k": 11.75,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_ZnqLAd",
+    "name": "type_ZnqLAd",
+    "count": 579,
+    "job_count": 579,
+    "avg_salary_k": 13.1,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_YbtQWp",
+    "name": "type_YbtQWp",
+    "count": 544,
+    "job_count": 544,
+    "avg_salary_k": 11.21,
+    "median_salary_k": 9.0
+  },
+  {
+    "group": "type_kiIJXj",
+    "name": "type_kiIJXj",
+    "count": 508,
+    "job_count": 508,
+    "avg_salary_k": 14.19,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_BtQkpd",
+    "name": "type_BtQkpd",
+    "count": 498,
+    "job_count": 498,
+    "avg_salary_k": 11.56,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_jImIvP",
+    "name": "type_jImIvP",
+    "count": 495,
+    "job_count": 495,
+    "avg_salary_k": 10.82,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_lIjlkP",
+    "name": "type_lIjlkP",
+    "count": 454,
+    "job_count": 454,
+    "avg_salary_k": 8.38,
+    "median_salary_k": 7.0
+  },
+  {
+    "group": "type_fVZeOr",
+    "name": "type_fVZeOr",
+    "count": 443,
+    "job_count": 443,
+    "avg_salary_k": 10.47,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_qtmmYS",
+    "name": "type_qtmmYS",
+    "count": 397,
+    "job_count": 397,
+    "avg_salary_k": 10.62,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_hNPaoQ",
+    "name": "type_hNPaoQ",
+    "count": 377,
+    "job_count": 377,
+    "avg_salary_k": 9.45,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_vzSaPI",
+    "name": "type_vzSaPI",
+    "count": 361,
+    "job_count": 361,
+    "avg_salary_k": 8.26,
+    "median_salary_k": 7.0
+  },
+  {
+    "group": "type_AhjheX",
+    "name": "type_AhjheX",
+    "count": 347,
+    "job_count": 347,
+    "avg_salary_k": 8.72,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_GNLkvm",
+    "name": "type_GNLkvm",
+    "count": 339,
+    "job_count": 339,
+    "avg_salary_k": 7.88,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_euNhiG",
+    "name": "type_euNhiG",
+    "count": 334,
+    "job_count": 334,
+    "avg_salary_k": 13.34,
+    "median_salary_k": 10.0
+  },
+  {
+    "group": "type_hjdslw",
+    "name": "type_hjdslw",
+    "count": 304,
+    "job_count": 304,
+    "avg_salary_k": 13.18,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_Qsuxmp",
+    "name": "type_Qsuxmp",
+    "count": 300,
+    "job_count": 300,
+    "avg_salary_k": 10.48,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_WoMhkt",
+    "name": "type_WoMhkt",
+    "count": 299,
+    "job_count": 299,
+    "avg_salary_k": 14.23,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_oaLAkP",
+    "name": "type_oaLAkP",
+    "count": 274,
+    "job_count": 274,
+    "avg_salary_k": 9.32,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_SkCZro",
+    "name": "type_SkCZro",
+    "count": 270,
+    "job_count": 270,
+    "avg_salary_k": 8.34,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_cgjjyf",
+    "name": "type_cgjjyf",
+    "count": 259,
+    "job_count": 259,
+    "avg_salary_k": 11.1,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_tFSEPv",
+    "name": "type_tFSEPv",
+    "count": 256,
+    "job_count": 256,
+    "avg_salary_k": 6.47,
+    "median_salary_k": 5.5
+  },
+  {
+    "group": "type_EguSJg",
+    "name": "type_EguSJg",
+    "count": 253,
+    "job_count": 253,
+    "avg_salary_k": 10.14,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_CkxARz",
+    "name": "type_CkxARz",
+    "count": 251,
+    "job_count": 251,
+    "avg_salary_k": 14.49,
+    "median_salary_k": 12.5
+  },
+  {
+    "group": "type_bLteBD",
+    "name": "type_bLteBD",
+    "count": 243,
+    "job_count": 243,
+    "avg_salary_k": 8.63,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_yydJdA",
+    "name": "type_yydJdA",
+    "count": 235,
+    "job_count": 235,
+    "avg_salary_k": 13.89,
+    "median_salary_k": 11.0
+  },
+  {
+    "group": "type_yZDEvF",
+    "name": "type_yZDEvF",
+    "count": 233,
+    "job_count": 233,
+    "avg_salary_k": 10.7,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_QZOppi",
+    "name": "type_QZOppi",
+    "count": 226,
+    "job_count": 226,
+    "avg_salary_k": 10.15,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_dsOEak",
+    "name": "type_dsOEak",
+    "count": 224,
+    "job_count": 224,
+    "avg_salary_k": 7.08,
+    "median_salary_k": 6.0
+  },
+  {
+    "group": "type_wEOEft",
+    "name": "type_wEOEft",
+    "count": 214,
+    "job_count": 214,
+    "avg_salary_k": 10.08,
+    "median_salary_k": 10.0
+  },
+  {
+    "group": "type_kCYTOy",
+    "name": "type_kCYTOy",
+    "count": 193,
+    "job_count": 193,
+    "avg_salary_k": 14.4,
+    "median_salary_k": 10.0
+  },
+  {
+    "group": "type_VBUKIy",
+    "name": "type_VBUKIy",
+    "count": 185,
+    "job_count": 185,
+    "avg_salary_k": 6.92,
+    "median_salary_k": 5.5
+  },
+  {
+    "group": "type_SZBUrQ",
+    "name": "type_SZBUrQ",
+    "count": 169,
+    "job_count": 169,
+    "avg_salary_k": 9.52,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_BFBWru",
+    "name": "type_BFBWru",
+    "count": 157,
+    "job_count": 157,
+    "avg_salary_k": 8.9,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_NUgLOO",
+    "name": "type_NUgLOO",
+    "count": 149,
+    "job_count": 149,
+    "avg_salary_k": 8.94,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_NqSxHM",
+    "name": "type_NqSxHM",
+    "count": 145,
+    "job_count": 145,
+    "avg_salary_k": 8.8,
+    "median_salary_k": 8.5
+  },
+  {
+    "group": "type_btoDfW",
+    "name": "type_btoDfW",
+    "count": 144,
+    "job_count": 144,
+    "avg_salary_k": 9.34,
+    "median_salary_k": 7.0
+  },
+  {
+    "group": "type_XiYUxk",
+    "name": "type_XiYUxk",
+    "count": 140,
+    "job_count": 140,
+    "avg_salary_k": 8.4,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_KGWlNJ",
+    "name": "type_KGWlNJ",
+    "count": 132,
+    "job_count": 132,
+    "avg_salary_k": 11.16,
+    "median_salary_k": 10.0
+  },
+  {
+    "group": "type_PnQIgn",
+    "name": "type_PnQIgn",
+    "count": 132,
+    "job_count": 132,
+    "avg_salary_k": 14.69,
+    "median_salary_k": 12.25
+  },
+  {
+    "group": "type_TrLkYZ",
+    "name": "type_TrLkYZ",
+    "count": 128,
+    "job_count": 128,
+    "avg_salary_k": 6.18,
+    "median_salary_k": 6.0
+  },
+  {
+    "group": "type_cKPiRk",
+    "name": "type_cKPiRk",
+    "count": 119,
+    "job_count": 119,
+    "avg_salary_k": 9.01,
+    "median_salary_k": 9.0
+  },
+  {
+    "group": "type_cXHODn",
+    "name": "type_cXHODn",
+    "count": 116,
+    "job_count": 116,
+    "avg_salary_k": 8.34,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_tjGjDL",
+    "name": "type_tjGjDL",
+    "count": 109,
+    "job_count": 109,
+    "avg_salary_k": 12.01,
+    "median_salary_k": 10.0
+  },
+  {
+    "group": "type_gjAfBT",
+    "name": "type_gjAfBT",
+    "count": 108,
+    "job_count": 108,
+    "avg_salary_k": 10.19,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_eUeSgv",
+    "name": "type_eUeSgv",
+    "count": 102,
+    "job_count": 102,
+    "avg_salary_k": 7.74,
+    "median_salary_k": 6.5
+  },
+  {
+    "group": "type_vLcQvm",
+    "name": "type_vLcQvm",
+    "count": 100,
+    "job_count": 100,
+    "avg_salary_k": 10.27,
+    "median_salary_k": 8.0
+  },
+  {
+    "group": "type_lKGeKN",
+    "name": "type_lKGeKN",
+    "count": 96,
+    "job_count": 96,
+    "avg_salary_k": 10.42,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_lYBMVZ",
+    "name": "type_lYBMVZ",
+    "count": 95,
+    "job_count": 95,
+    "avg_salary_k": 9.93,
+    "median_salary_k": 9.5
+  },
+  {
+    "group": "type_sIBWvi",
+    "name": "type_sIBWvi",
+    "count": 95,
+    "job_count": 95,
+    "avg_salary_k": 8.57,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_dZRlFC",
+    "name": "type_dZRlFC",
+    "count": 92,
+    "job_count": 92,
+    "avg_salary_k": 13.86,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_IFmZvL",
+    "name": "type_IFmZvL",
+    "count": 88,
+    "job_count": 88,
+    "avg_salary_k": 9.07,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_nQwYnp",
+    "name": "type_nQwYnp",
+    "count": 78,
+    "job_count": 78,
+    "avg_salary_k": 11.08,
+    "median_salary_k": 9.25
+  },
+  {
+    "group": "type_JzQWyM",
+    "name": "type_JzQWyM",
+    "count": 75,
+    "job_count": 75,
+    "avg_salary_k": 8.51,
+    "median_salary_k": 7.5
+  },
+  {
+    "group": "type_tQUfOq",
+    "name": "type_tQUfOq",
+    "count": 72,
+    "job_count": 72,
+    "avg_salary_k": 17.09,
+    "median_salary_k": 10.5
+  },
+  {
+    "group": "type_wedisU",
+    "name": "type_wedisU",
+    "count": 68,
+    "job_count": 68,
+    "avg_salary_k": 10.02,
+    "median_salary_k": 8.75
+  }
+]

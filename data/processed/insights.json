@@ -1,0 +1,101 @@
+[
+  {
+    "title": "招聘活跃度头部城市集中",
+    "finding": "F047 的招聘记录数最多，占清洗后数据的 5.9%。",
+    "evidence": {
+      "city": "F047",
+      "count": 24896,
+      "share": 0.0591,
+      "avg_salary_k": 14.66
+    },
+    "use_for_visual": "市场总览中的城市排名柱状图和地域画像入口。"
+  },
+  {
+    "title": "高薪行业可以按均薪识别",
+    "finding": "type_PkWZvJ 在样本数不低于 100 的行业中平均月薪最高。",
+    "evidence": {
+      "company_type": "type_PkWZvJ",
+      "count": 851,
+      "avg_salary_k": 17.89,
+      "median_salary_k": 12.5
+    },
+    "use_for_visual": "薪酬分析中的行业薪资排名与箱线/区间图。"
+  },
+  {
+    "title": "城市之间存在可展示的薪资差异",
+    "finding": "H610 在样本数不低于 100 的城市中平均月薪最高。",
+    "evidence": {
+      "city": "H610",
+      "count": 285,
+      "avg_salary_k": 27.56,
+      "median_salary_k": 22.5
+    },
+    "use_for_visual": "地域画像中的薪资地图/散点图。"
+  },
+  {
+    "title": "职位画像可从高频职位切入",
+    "finding": "bfbc45b05c5a4425210cd2cb3d84ae09GC 是出现次数最多的职位代码，可作为职位画像页面的默认示例。",
+    "evidence": {
+      "job_title": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+      "count": 3328,
+      "avg_salary_k": 7.79,
+      "top_cities": [
+        {
+          "name": "S542",
+          "count": 193
+        },
+        {
+          "name": "N806",
+          "count": 189
+        },
+        {
+          "name": "V932",
+          "count": 179
+        },
+        {
+          "name": "R892",
+          "count": 179
+        },
+        {
+          "name": "V449",
+          "count": 178
+        }
+      ],
+      "top_industries": [
+        {
+          "name": "type_fFlUqG",
+          "count": 314
+        },
+        {
+          "name": "type_YOHpQY",
+          "count": 223
+        },
+        {
+          "name": "type_qGLNuz",
+          "count": 170
+        },
+        {
+          "name": "type_lwxCGv",
+          "count": 132
+        },
+        {
+          "name": "type_xfFBgF",
+          "count": 119
+        }
+      ]
+    },
+    "use_for_visual": "职位画像中的城市偏好、行业偏好、经验和学历雷达图。"
+  },
+  {
+    "title": "经验要求和薪资水平存在正向分析空间",
+    "finding": "EaZ 是当前经验代码中平均月薪最高的一类。",
+    "evidence": {
+      "experience": "EaZ",
+      "count": 3818,
+      "avg_salary_k": 24.86,
+      "median_salary_k": 18.5,
+      "high_salary_record_count": 92155
+    },
+    "use_for_visual": "薪酬分析中的经验要求分组柱状图。"
+  }
+]

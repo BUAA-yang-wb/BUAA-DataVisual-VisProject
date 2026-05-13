@@ -1,0 +1,58 @@
+[
+  {
+    "name": "GI",
+    "category": "GI",
+    "count": 135402,
+    "job_count": 135402,
+    "ratio": 0.3215
+  },
+  {
+    "name": "Gx",
+    "category": "Gx",
+    "count": 114101,
+    "job_count": 114101,
+    "ratio": 0.2709
+  },
+  {
+    "name": "GP",
+    "category": "GP",
+    "count": 114039,
+    "job_count": 114039,
+    "ratio": 0.2708
+  },
+  {
+    "name": "Gy",
+    "category": "Gy",
+    "count": 23861,
+    "job_count": 23861,
+    "ratio": 0.0567
+  },
+  {
+    "name": "Go",
+    "category": "Go",
+    "count": 20865,
+    "job_count": 20865,
+    "ratio": 0.0495
+  },
+  {
+    "name": "GZ",
+    "category": "GZ",
+    "count": 6822,
+    "job_count": 6822,
+    "ratio": 0.0162
+  },
+  {
+    "name": "Gh",
+    "category": "Gh",
+    "count": 5417,
+    "job_count": 5417,
+    "ratio": 0.0129
+  },
+  {
+    "name": "Gz",
+    "category": "Gz",
+    "count": 653,
+    "job_count": 653,
+    "ratio": 0.0016
+  }
+]

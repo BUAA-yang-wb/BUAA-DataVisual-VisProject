@@ -1,0 +1,51 @@
+{
+  "dataset": "JobWanted",
+  "raw_rows": 430664,
+  "cleaned_rows": 421160,
+  "job_count": 421160,
+  "city_count": 371,
+  "industry_count": 158,
+  "job_title_count": 165235,
+  "avg_salary_k": 9.58,
+  "median_salary_k": 7.5,
+  "retention_rate": 0.9779,
+  "unique_counts": {
+    "job_title": 165235,
+    "city": 371,
+    "experience": 8,
+    "education": 8,
+    "company": 263268,
+    "company_type": 158
+  },
+  "monthly_salary_k": {
+    "avg": 9.58,
+    "median": 7.5,
+    "q1": 5.5,
+    "q3": 10.5,
+    "min": 1.5,
+    "max": 255.0
+  },
+  "annual_salary_k": {
+    "avg": 118.52,
+    "median": 90.0,
+    "q1": 66.0,
+    "q3": 130.0,
+    "min": 18.0,
+    "max": 6120.0
+  },
+  "salary_level_distribution": {
+    "medium": 255265,
+    "high": 74497,
+    "low": 73740,
+    "very_high": 17658
+  },
+  "salary_bin_distribution": {
+    "5-8K": 153510,
+    "20-30K": 23314,
+    "8-12K": 101755,
+    "3-5K": 64510,
+    "12-20K": 56693,
+    "30K+": 12148,
+    "0-3K": 9230
+  }
+}
