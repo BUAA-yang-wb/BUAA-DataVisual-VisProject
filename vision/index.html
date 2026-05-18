@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>职数洞见可视化系统</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/vision/styles.css" />
+  </head>
+  <body>
+    <div class="bg-orbit"></div>
+    <header class="app-header">
+      <div class="brand">
+        <div class="brand-mark">JD</div>
+        <div>
+          <div class="brand-title">职数洞见</div>
+          <div class="brand-subtitle">四大页面数据可视化报告</div>
+        </div>
+      </div>
+      <nav class="tabs" aria-label="Primary">
+        <button class="tab is-active" data-target="overview">市场总览</button>
+        <button class="tab" data-target="salary">薪酬分析</button>
+        <button class="tab" data-target="profile">职位画像</button>
+        <button class="tab" data-target="region">地域画像</button>
+      </nav>
+      <div class="filter-bar">
+        <span id="filterStatus" class="filter-status">联动筛选：未选择</span>
+        <button id="clearFilters" class="filter-clear" type="button">清除联动</button>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <section id="overview" class="page-section is-active">
+        <div class="section-header">
+          <h1>市场总览</h1>
+          <p>关键指标、热门城市与人才结构概览。</p>
+        </div>
+        <div class="kpi-grid" id="kpiGrid"></div>
+        <div class="chart-grid two">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>城市指标 Top</h2>
+              <div class="panel-controls">
+                <label for="topCityMetric">指标</label>
+                <select id="topCityMetric">
+                  <option value="job_count">岗位数</option>
+                  <option value="avg_salary_k">平均月薪</option>
+                  <option value="median_salary_k">中位月薪</option>
+                </select>
+              </div>
+            </div>
+            <div class="chart" id="chartTopCities"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-header">
+              <h2>行业指标 Top</h2>
+              <div class="panel-controls">
+                <label for="topIndustryMetric">指标</label>
+                <select id="topIndustryMetric">
+                  <option value="job_count">岗位数</option>
+                  <option value="avg_salary_k">平均月薪</option>
+                  <option value="median_salary_k">中位月薪</option>
+                </select>
+              </div>
+            </div>
+            <div class="chart" id="chartTopIndustries"></div>
+          </div>
+        </div>
+        <div class="chart-grid two">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>薪酬分布</h2>
+              <span class="panel-note">分箱统计</span>
+            </div>
+            <div class="chart" id="chartSalaryDistribution"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-header">
+              <h2>经验 / 学历占比</h2>
+              <span class="panel-note">分类占比</span>
+            </div>
+            <div class="dual-chart">
+              <div class="chart" id="chartExperienceShare"></div>
+              <div class="chart" id="chartEducationShare"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="salary" class="page-section">
+        <div class="section-header">
+          <h1>薪酬模式分析</h1>
+          <p>分布、箱线图、热力图与散点诊断。</p>
+        </div>
+        <div class="section-controls">
+          <div class="control-group">
+            <label for="minJobCountRange">最低岗位数阈值</label>
+            <input id="minJobCountRange" type="range" min="0" max="500" step="1" value="50" />
+            <input id="minJobCountInput" type="number" min="0" max="500" step="1" value="50" />
+          </div>
+        </div>
+        <div class="chart-grid two">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>城市薪资箱线图</h2>
+              <span class="panel-note">Top 20 城市</span>
+            </div>
+            <div class="chart" id="chartCityBoxplot"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-header">
+              <h2>行业薪资箱线图</h2>
+              <span class="panel-note">Top 20 行业</span>
+            </div>
+            <div class="chart" id="chartIndustryBoxplot"></div>
+          </div>
+        </div>
+        <div class="chart-grid single">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>城市 x 行业热力图</h2>
+              <span class="panel-note">平均月薪（K/月）</span>
+            </div>
+            <div class="chart" id="chartCityIndustryHeatmap"></div>
+          </div>
+        </div>
+        <div class="chart-grid two">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>城市薪资散点</h2>
+              <span class="panel-note">气泡大小 = 岗位数</span>
+            </div>
+            <div class="chart" id="chartCityScatter"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-header">
+              <h2>行业薪资散点</h2>
+              <span class="panel-note">气泡大小 = 岗位数</span>
+            </div>
+            <div class="chart" id="chartIndustryScatter"></div>
+          </div>
+        </div>
+        <div class="chart-grid two">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>经验与薪资</h2>
+              <span class="panel-note">平均值 vs 中位数</span>
+            </div>
+            <div class="chart" id="chartExperienceSalary"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-header">
+              <h2>学历与薪资</h2>
+              <span class="panel-note">平均值 vs 中位数</span>
+            </div>
+            <div class="chart" id="chartEducationSalary"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="profile" class="page-section">
+        <div class="section-header">
+          <h1>职位画像</h1>
+          <p>热门职位、要求分布与画像卡片。</p>
+        </div>
+        <div class="chart-grid two">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>热门职位 Top</h2>
+              <div class="panel-controls">
+                <label for="topJobLineMetric">折线指标</label>
+                <select id="topJobLineMetric">
+                  <option value="avg_salary_k">平均月薪</option>
+                  <option value="median_salary_k">中位月薪</option>
+                </select>
+              </div>
+            </div>
+            <div class="chart" id="chartTopJobs"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-header">
+              <h2>要求分布</h2>
+              <span class="panel-note">热门职位经验分布</span>
+            </div>
+            <div class="chart" id="chartRequirement"></div>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="panel-header">
+            <h2>职位画像卡片</h2>
+            <span class="panel-note">Top 6 职位</span>
+          </div>
+          <div class="card-grid" id="profileCards"></div>
+        </div>
+      </section>
+
+      <section id="region" class="page-section">
+        <div class="section-header">
+          <h1>地域画像</h1>
+          <p>城市雷达、相似聚类与地域薪资结构。</p>
+        </div>
+        <div class="chart-grid two">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>城市雷达</h2>
+              <div class="panel-controls">
+                <label for="citySelect">城市</label>
+                <select id="citySelect"></select>
+              </div>
+            </div>
+            <div class="chart" id="chartCityRadar"></div>
+          </div>
+          <div class="panel">
+            <div class="panel-header">
+              <h2>城市相似度分布</h2>
+              <div class="panel-controls">
+                <label for="clusterCount">聚类数</label>
+                <select id="clusterCount">
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                </select>
+              </div>
+            </div>
+            <div class="chart" id="chartCitySimilarity"></div>
+          </div>
+        </div>
+        <div class="chart-grid single">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>城市薪资与岗位数</h2>
+              <span class="panel-note">全部城市</span>
+            </div>
+            <div class="chart" id="chartCityStats"></div>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="panel-header">
+            <h2>相似城市 Top</h2>
+            <span class="panel-note">基于当前城市</span>
+          </div>
+          <div class="similarity-list" id="similarityList"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <div>数据来源：data/processed/views/*.json</div>
+    </footer>
+
+    <script src="/vision/vendor/echarts.min.js"></script>
+    <script type="module" src="/vision/app.js"></script>
+  </body>
+</html>
