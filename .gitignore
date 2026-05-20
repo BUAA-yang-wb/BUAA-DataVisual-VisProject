@@ -2,3 +2,9 @@
 .vscode
 *.docx
 *.xlsx
+*.pptx
+.codex/
+outputs/
+docs/ppt_report/pictures/*.png
+docs/ppt_report/pictures/*.jpg
+scripts/build_ppt_report.cjs
